@@ -33,7 +33,7 @@ const titlesLine = gsap.timeline({
     id: "CONTAINER",
     trigger: ".features",
     scrub: true,
-    start: "top top",
+    start: "center center",
     end: "+=200%",
     pin: true
   }
@@ -44,7 +44,7 @@ const subLine = gsap.timeline({
     id: "CONTAINER",
     trigger: ".features",
     scrub: true,
-    start: "top top",
+    start: "center center",
     end: "+=200%",
   }
 });
@@ -54,7 +54,7 @@ const descrLine = gsap.timeline({
     id: "CONTAINER",
     trigger: ".features",
     scrub: true,
-    start: "top top",
+    start: "center center",
     end: "+=200%",
   }
 });
@@ -64,7 +64,7 @@ const tabLine = gsap.timeline({
     id: "CONTAINER",
     trigger: ".features",
     scrub: true,
-    start: "top top",
+    start: "center center",
     end: "+=210%",
   }
 });
@@ -74,7 +74,7 @@ const numbersLine = gsap.timeline({
     id: "CONTAINER",
     trigger: ".features",
     scrub: true,
-    start: "top top",
+    start: "center center",
     end: "+=200%",
   }
 });
@@ -84,7 +84,7 @@ const phonesLine = gsap.timeline({
     id: "CONTAINER",
     trigger: ".features",
     scrub: true,
-    start: "top top",
+    start: "center center",
     end: "+=200%",
   }
 });
