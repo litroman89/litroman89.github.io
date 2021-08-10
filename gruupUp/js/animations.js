@@ -35,7 +35,7 @@ const titlesLine = gsap.timeline({
     scrub: true,
     start: "center center",
     end: "+=200%",
-    pin: true
+    pin: true,
   }
 });
 
