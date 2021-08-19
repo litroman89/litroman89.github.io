@@ -36,6 +36,7 @@ const titlesLine = gsap.timeline({
     start: "center center",
     end: "+=200%",
     pin: true,
+    // markers: true
   }
 });
 

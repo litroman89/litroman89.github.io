@@ -28,3 +28,43 @@ const collapse = (triggersSelector) => {
 };
 
 collapse('.faq__block');
+
+//menu
+
+const hamburger = document.querySelector('.hamburger');
+const mobileMenu = document.querySelector('.mobileMenu');
+
+hamburger.addEventListener('click', () => {
+    mobileMenu.classList.toggle('mobileMenu__active');
+    hamburger.classList.toggle('hamburger-active');
+});
+
+//scroll up
+
+const upBtn = document.querySelector('.pageup');
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    upBtn.style.opacity = 1;
+  } else {
+    upBtn.style.opacity = 0;
+  }
+}
+
+// smooth pageUp
+const anchors = document.querySelectorAll('a[href*="#"]')
+
+for (let anchor of anchors) {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault()
+    
+    const blockID = anchor.getAttribute('href').substr(1)
+    
+    document.getElementById(blockID).scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    })
+  })
+}
