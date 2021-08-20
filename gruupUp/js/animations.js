@@ -281,18 +281,18 @@ popLine3
 
 // app
 
-const appLine = gsap.timeline({
-  scrollTrigger: {
-    trigger: "#process3",
-    start: "top top",
-    end: 'top top', 
-    toggleActions: "restart none none reverse",
-  }
-});
+// const appLine = gsap.timeline({
+//   scrollTrigger: {
+//     trigger: "#process3",
+//     start: "top top",
+//     end: 'top top', 
+//     toggleActions: "restart none none reverse",
+//   }
+// });
 
-appLine 
-  .from('.app', {
-    scale: 0,
-    duration: 2,
-    ease: 'elastic.out(1, 1)',
-  })
+// appLine 
+//   .from('.app', {
+//     scale: 0,
+//     duration: 2,
+//     ease: 'elastic.out(1, 1)',
+//   })
