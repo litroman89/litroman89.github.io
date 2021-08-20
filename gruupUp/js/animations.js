@@ -204,80 +204,80 @@ tabLine
 
 // popups
 
-const popLine1 = gsap.timeline({
-  scrollTrigger: {
-    trigger: ".process",
-    start: "top top",
-    end: 'top top', 
-    toggleActions: "restart none none reverse",
-  }
-});
+// const popLine1 = gsap.timeline({
+//   scrollTrigger: {
+//     trigger: ".process",
+//     start: "top top",
+//     end: 'top top', 
+//     toggleActions: "restart none none reverse",
+//   }
+// });
 
-popLine1
-  .from('.process__img__popup1', {
-    duration: 3,
-    x: 150,
-    y: 150,
-    ease: 'elastic.out(1, 0.5)',
-    opacity: 0,
-  })
-  .from('.process__img__popup2', {
-    duration: 3,
-    x: -150,
-    y: -150,
-    ease: 'elastic.out(1, 0.75)',
-    opacity: 0,
-  }, 0);
+// popLine1
+//   .from('.process__img__popup1', {
+//     duration: 3,
+//     x: 150,
+//     y: 150,
+//     ease: 'elastic.out(1, 0.5)',
+//     opacity: 0,
+//   })
+//   .from('.process__img__popup2', {
+//     duration: 3,
+//     x: -150,
+//     y: -150,
+//     ease: 'elastic.out(1, 0.75)',
+//     opacity: 0,
+//   }, 0);
 
-const popLine2 = gsap.timeline({
-  scrollTrigger: {
-    trigger: ".process__block",
-    start: "top top",
-    end: 'top top', 
-    toggleActions: "restart none none reverse",
-  }
-});
+// const popLine2 = gsap.timeline({
+//   scrollTrigger: {
+//     trigger: ".process__block",
+//     start: "top top",
+//     end: 'top top', 
+//     toggleActions: "restart none none reverse",
+//   }
+// });
 
-popLine2
-  .from('.process__img__popup3', {
-    duration: 3,
-    x: -150,
-    y: 150,
-    ease: 'elastic.out(1, 0.5)',
-    opacity: 0,
-  })
-  .from('.process__img__popup4', {
-    duration: 3,
-    x: 150,
-    y: -150,
-    ease: 'elastic.out(1, 0.75)',
-    opacity: 0,
-  }, 0.3);
+// popLine2
+//   .from('.process__img__popup3', {
+//     duration: 3,
+//     x: -150,
+//     y: 150,
+//     ease: 'elastic.out(1, 0.5)',
+//     opacity: 0,
+//   })
+//   .from('.process__img__popup4', {
+//     duration: 3,
+//     x: 150,
+//     y: -150,
+//     ease: 'elastic.out(1, 0.75)',
+//     opacity: 0,
+//   }, 0.3);
 
-const popLine3 = gsap.timeline({
-  scrollTrigger: {
-    trigger: "#process2",
-    start: "top top",
-    end: 'top top', 
-    toggleActions: "restart none none reverse",
-  }
-});
+// const popLine3 = gsap.timeline({
+//   scrollTrigger: {
+//     trigger: "#process2",
+//     start: "top top",
+//     end: 'top top', 
+//     toggleActions: "restart none none reverse",
+//   }
+// });
 
-popLine3
-  .from('.process__img__popup5', {
-    duration: 3,
-    x: -150,
-    y: 150,
-    ease: 'elastic.out(1, 0.5)',
-    opacity: 0,
-  })
-  .from('.process__img__popup6', {
-    duration: 3,
-    x: 150,
-    y: -150,
-    ease: 'elastic.out(1, 0.75)',
-    opacity: 0,
-  }, 0.3);
+// popLine3
+//   .from('.process__img__popup5', {
+//     duration: 3,
+//     x: -150,
+//     y: 150,
+//     ease: 'elastic.out(1, 0.5)',
+//     opacity: 0,
+//   })
+//   .from('.process__img__popup6', {
+//     duration: 3,
+//     x: 150,
+//     y: -150,
+//     ease: 'elastic.out(1, 0.75)',
+//     opacity: 0,
+//   }, 0.3);
 
 // app
 
