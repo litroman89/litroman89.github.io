@@ -60,11 +60,16 @@ for (let anchor of anchors) {
   anchor.addEventListener('click', function (e) {
     e.preventDefault()
     
-    const blockID = anchor.getAttribute('href').substr(1)
+    const blockID = anchor.getAttribute('href').substr(1);
+    console.log(blockID);
     
-    document.getElementById(blockID).scrollIntoView({
-      behavior: 'smooth',
-      block: 'start'
-    })
+    if (document.getElementById(blockID)) {
+      document.getElementById(blockID).scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+      })
+    } else {
+      window.location.href = `.${blockID}`;
+    }
   })
 }
