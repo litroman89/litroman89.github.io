@@ -25,7 +25,6 @@ const firstPhone = gsap.utils.toArray(".features__phone-first");
 const lastPhone = gsap.utils.toArray(".features__phone-last");
 
 ScrollTrigger.defaults({
-  // toggleActions: "restart pause resume pause",
   toggleActions: 'play complete reverse complete'
 });
 
