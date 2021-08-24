@@ -73,31 +73,3 @@ for (let anchor of anchors) {
   })
 }
 
-// horizontal scroll
-
-const controller = new ScrollMagic.Controller();
-
-  let horizontalSlide;
-
-    if (window.innerWidth > 1200) {
-      horizontalSlide = new TimelineMax()
-      .to(".features__scroll", 1, {x: "-5280px",}); //Depends on the final width you want to scroll.
-    } else if (window.innerWidth > 768 && window.innerWidth < 1201) {
-      horizontalSlide = new TimelineMax()
-      .to(".features__scroll", 1, {x: "-3300px",});
-    } else if (window.innerWidth < 769) {
-      document.querySelector('.features__tip').style.animationName = 'scrollUp';
-      horizontalSlide = new TimelineMax()
-      .to(".features__scroll", 1, {x: "-1815px",});
-    }
-
-    // Create scrollmagic scene to pin and link horzontal scroll animation
-    new ScrollMagic.Scene({
-        triggerElement: ".features", //Div that will trigger the animation.
-        triggerHook: "onLeave", //The animation will start on leaving the .horizontal-scroll-container section.
-        duration: "800%" //Scroll Duration, the amount of pixels you want to scroll to see the entire animation. 
-    })
-    .setPin(".features")
-    .setTween(horizontalSlide)
-    // .addIndicators() // add indicators (requires scrollmagic indicators plugin)
-    .addTo(controller);
