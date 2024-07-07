@@ -36,7 +36,7 @@
             <img src="/img/logo.svg" alt="logo">
         </a>
 
-        <nav>
+        <nav class="desktopHeader__nav">
             <ul>
                 <li>
                     <a href="/index.html">
@@ -56,21 +56,35 @@
                 </li>
 
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="navigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="navigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="navigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
             </ul>
         </nav>
 
-        <a href="http://portal.oursupport.co" class="portal" target="_blank">
-            <div class="portal__left">Online Portal</div>
-            <div class="portal__right">&#8599;</div>
-        </a>
+        <div class="wrapper-right">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+
+            <a href="https://insite.oursupport.co/sign-in" class="portal" target="_blank">
+                <div data-localization="navigation-onlinePortal" class="portal__left">Online Portal</div>
+                <div class="portal__right">&#8599;</div>
+            </a>
+        </div>
     </header>
 </div>
         <div class="container">
@@ -78,9 +92,22 @@
         <a href="/index.html">
             <img class="mobileHeader__logo" src="/img/logo_mobile.svg" alt="logo">
         </a>
-        <div class="iconsWrapper">
-            <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
-            <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+        <div class="mobileHeader__wrapper">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+            <div class="iconsWrapper">
+                <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
+                <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+            </div>
         </div>
     </header>
 </div>
@@ -89,20 +116,20 @@
         <nav>
             <ul>
                 <li>
-                    <a href="/index.html">Home</a>
+                    <a data-localization="mobileNavigation-home" href="/index.html">Home</a>
                 </li>
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="mobileNavigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="mobileNavigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="mobileNavigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
                 <li>
-                    <a href="http://portal.oursupport.co" target="_blank" class="portal">
-                        <div class="portal__left">Online Portal</div>
+                    <a href="https://insite.oursupport.co/sign-in" target="_blank" class="portal">
+                        <div data-localization="mobileNavigation-onlinePortal" class="portal__left">Online Portal</div>
                         <div class="portal__right">&#8599;</div>
                     </a>
                 </li>
@@ -113,9 +140,9 @@
 </div>
         <section class="policy-hero">
     <div class="container">
-        <h2>Privacy Policy</h2>
-        <h5>Current as of 20 Nov 2023</h5>
-        <p>
+        <h2 data-localization="hero-title">Privacy Policy</h2>
+        <h5 data-localization="hero-date">Current as of 20 Nov 2023</h5>
+        <p data-localization="hero-description">
             Your privacy is important to us at Untitled. We respect your privacy regarding any information we may
             collect from you across our website.
         </p>
@@ -123,17 +150,17 @@
 </section>
         <div class="section policy-text">
     <div class="container">
-        <h5>Last modified: 06/11/2021</h5>
-        <p>
+        <h5 data-localization="text-date">Last modified: 06/11/2021</h5>
+        <p data-localization="text-summary">
 
             I. Introduction / II. Overview / III. Data collections and uses / IV. Choice and transparency / V. Updates
             to this notice
 
         </p>
 
-        <h3>I. Introduction </h3>
+        <h3 data-localization="text-introduction">I. Introduction </h3>
 
-        <p>
+        <p data-localization="text-introductionDescription">
             When you use Oursupport, you trust us with your personal data. We’re committed to keeping that trust. That
             starts with helping you understand our privacy practices.
             This notice describes the personal data we collect, how it’s used and shared, and your choices regarding
@@ -142,9 +169,9 @@
         </p>
 
 
-        <h3>II. Overview </h3>
+        <h3 data-localization="text-overview">II. Overview </h3>
 
-        <p>
+        <p data-localization="text-overviewDescription">
             A. Scope
             This notice applies to users of Tsolnetworks / Oursupport services anywhere in the world, including users of
             Tsolnetworks / oursupport app, website, features, or other services related to the Oursupport app.
@@ -182,9 +209,9 @@
         </p>
 
 
-        <h3>B. Data controller and transfer</h3>
+        <h3 data-localization="text-dataController">B. Data controller and transfer</h3>
 
-        <p>
+        <p data-localization="text-dataControllerDescription">
             Tsolnetworks Connect Europe, Lda are the data controllers for the personal data collected in connection with
             use
             of Oursupport services.<br>
@@ -202,10 +229,10 @@
         </p>
 
 
-        <h3>III. Data collections and uses</h3>
+        <h3 data-localization="text-data">III. Data collections and uses</h3>
 
-        <h3>A. The data we collect</h3>
-        <p>
+        <h3 data-localization="text-data_a">A. The data we collect</h3>
+        <p data-localization="text-data_a_Description">
             Tsolnetworks / Oursupport collects:
             • Data provided by users to Oursupport, such as during account creation
             • Data created during use of our services, such as location, Ticket activity tasks, app usage, and ticket
@@ -277,8 +304,8 @@
             possession.
         </p>
 
-        <h3>B. How we use personal data</h3>
-        <p>
+        <h3 data-localization="text-data_b">B. How we use personal data</h3>
+        <p data-localization="text-data_b_Description">
             Oursupport collects and uses data to enable reliable and convenient IT support services. We also use the
             data we
             collect:<br>
@@ -358,8 +385,8 @@
             representative.
         </p>
 
-        <h3>C. Cookies and third-party technologies </h3>
-        <p>
+        <h3 data-localization="text-data_c">C. Cookies and third-party technologies </h3>
+        <p data-localization="text-data_c_Description">
             Ousupport and its partners use cookies and other identification technologies on our website for purposes
             described in this notice. <br><br>
             Cookies are small text files that are stored on browsers or devices by websites, apps, online media, and
@@ -380,8 +407,8 @@
         </p>
 
 
-        <h3>D. Data sharing and disclosure </h3>
-        <p>
+        <h3 data-localization="text-data_d">D. Data sharing and disclosure </h3>
+        <p data-localization="text-data_d_Description">
             Some of Oursupport’s products, services, and features require that we share data with other users or at a
             user’s
             request. We may also share data with our customers, affiliates, subsidiaries, and partners, for legal
@@ -429,8 +456,8 @@
             they consent to the sharing.
         </p>
 
-        <h3>E. Data retention and deletion</h3>
-        <p>
+        <h3 data-localization="text-data_e">E. Data retention and deletion</h3>
+        <p data-localization="text-data_e_Description">
             Oursupport retains user data for as long as necessary for the purposes described above.<br>
             Users may request deletion of their accounts at any time. Oursupport may retain user data after a deletion
             request due to legal or regulatory requirements or for the reasons stated in this policy. <br>
@@ -450,8 +477,8 @@
 
 
 
-        <h3>IV. Choice and transparency </h3>
-        <p>
+        <h3 data-localization="text-choice">IV. Choice and transparency </h3>
+        <p data-localization="text-choiceDescription">
             Oursupport enables users to access and control the data that Oursupport collects, including through:<br>
             • In-app settings<br>
             • Device permissions<br>
@@ -461,9 +488,9 @@
             accounts, deletion of their accounts, or that Oursupport restrict its processing of user personal data.
         </p>
 
-        <h3>A- Privacy settings</h3>
+        <h3 data-localization="text-choice_a">A- Privacy settings</h3>
 
-        <p>
+        <p data-localization="text-choice_a_Description">
             When the Oursupport app travel task is started, the user is promoted to allow or deny access to their
             location-sharing preferences. <br><br>
             • Location data<br><br>
@@ -480,9 +507,9 @@
             will work as per normal , with the location permission disabled.
         </p>
 
-        <h3>B- Device permissions</h3>
+        <h3 data-localization="text-choice_b">B- Device permissions</h3>
 
-        <p>
+        <p data-localization="text-choice_b_Description">
             Most mobile device platforms (iOS, Android, etc.) have defined certain types of device data that apps cannot
             access without the device owner’s permission, and these platforms have different methods for how that
             permission
@@ -494,9 +521,9 @@
             a grant of such permission.
         </p>
 
-        <h3>C- User data requests</h3>
+        <h3 data-localization="text-choice_c">C- User data requests</h3>
 
-        <p>
+        <p data-localization="text-choice_c_Description">
             Oursupport provides users with a variety of ways to learn about, control, and submit questions and comments
             about Oursupport’s handling of their data. <br>
             To make a request, please email Tsolnetworks / Oursupport at queries@oursupport.co and ask for any of the
@@ -520,9 +547,9 @@
         </p>
 
 
-        <h3>V. Updates to this notice</h3>
+        <h3 data-localization="text-updates">V. Updates to this notice</h3>
 
-        <p>
+        <p data-localization="text-updatesDescription">
             We may occasionally update this notice. Use of our services after an update constitutes consent to the
             updated
             notice to the extent permitted by law.
@@ -542,29 +569,30 @@
         <div class="footer__wrapper">
             <div class="footer__wrapper__nav">
                 <img src="/img/footer/footerLogo.svg" alt="logo">
-                <p>
+                <p data-localization="footer-description">
                     User-friendly platform linking those seeking IT tech support with a global community of locally
                     available IT experts.
                 </p>
                 <nav>
                     <ul>
                         <li>
-                            <a href="/pages/about.html">
+                            <a data-localization="footer-toAbout" href="/pages/about.html">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a data-localization="footer-toJobs"
+                                href="https://www.linkedin.com/company/oursupport/jobs/">
                                 Careers
                             </a>
                         </li>
-                        <li>
-                            <a href="#">
+                        <!-- <li>
+                            <a data-localization="footer-toFAQ" href="#">
                                 FAQ
                             </a>
-                        </li>
+                        </li> -->
                         <li>
-                            <a href="/pages/contact.html">
+                            <a data-localization="footer-toContact" href="/pages/contactUs.html">
                                 Contact
                             </a>
                         </li>
@@ -573,7 +601,7 @@
             </div>
 
             <div class="footer__wrapper__links">
-                <p>
+                <p data-localization="footer-getApp">
                     Get the app
                 </p>
                 <div class="footer__wrapper__links__wrapper">
@@ -590,15 +618,24 @@
         <hr>
 
         <div class="footer__bottom">
-            <div class="footer__bottom__rights">
-                © 2023 © Tsolnetworks connect europe. All rights reserved
+            <div class="investors">
+                <span data-localization="footer-investors">Investors</span>
+                <a href="https://www.portugalventures.pt/sobre-nos/parceiros-institucionais/portugal-2020/"
+                    class="investors__logo" target="_blank"><img src="/img/footer/venturesLogo.png" alt="investors"></a>
             </div>
+            <div class="footer__bottom__wrapper">
+                <div data-localization="footer-copyright" class="footer__bottom__wrapper__rights">
+                    © 2023 © Tsolnetworks connect europe. All rights reserved
+                </div>
 
-            <div class="footer__bottom__links">
-                <a href="/pages/terms.html">Terms of Use</a>
-                <a href="/pages/policy.html">Privacy Policy</a>
-                <a href="https://insite.oursupport.co/deleteaccount.html" target="_blank">Delete account</a>
-                <a href="#">Cookies</a>
+                <div class="footer__bottom__wrapper__links">
+                    <a data-localization="footer-toTerms" href="/pages/terms.html">Terms of Use</a>
+                    <a data-localization="footer-toPolicy" href="/pages/policy.html">Privacy Policy</a>
+                    <a data-localization="footer-deleteAccount" href="https://insite.oursupport.co/deleteaccount"
+                        target="_blank">Delete account</a>
+                    <a data-localization="footer-toCookies" href="#">Cookies</a>
+                </div>
+
             </div>
         </div>
 
@@ -608,7 +645,6 @@
     </div>
     <script src="/js/main.min.js"></script>
     <script src="/js/vendor.min.js"></script>
-    <script src="/js/animationMain.min.js"></script>
 </body>
 
 </html>

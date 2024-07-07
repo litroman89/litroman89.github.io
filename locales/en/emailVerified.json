@@ -1,0 +1,8 @@
+{
+    "emailVerified": {
+      "title": "Email address has been successfully verified",
+      "description": "You may now login to your Oursupport mobile application.",
+      "toAccount": "Return to account dashboard",
+      "note": "Please note: All email addresses, phone numbers and contact details will remain confidential. This information will not be disclosed or distributed to anyone or any other organization without prior consent from you. Thank you for your support."
+    }
+}

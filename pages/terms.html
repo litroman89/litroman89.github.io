@@ -36,7 +36,7 @@
             <img src="/img/logo.svg" alt="logo">
         </a>
 
-        <nav>
+        <nav class="desktopHeader__nav">
             <ul>
                 <li>
                     <a href="/index.html">
@@ -56,21 +56,35 @@
                 </li>
 
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="navigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="navigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="navigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
             </ul>
         </nav>
 
-        <a href="http://portal.oursupport.co" class="portal" target="_blank">
-            <div class="portal__left">Online Portal</div>
-            <div class="portal__right">&#8599;</div>
-        </a>
+        <div class="wrapper-right">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+
+            <a href="https://insite.oursupport.co/sign-in" class="portal" target="_blank">
+                <div data-localization="navigation-onlinePortal" class="portal__left">Online Portal</div>
+                <div class="portal__right">&#8599;</div>
+            </a>
+        </div>
     </header>
 </div>
         <div class="container">
@@ -78,9 +92,22 @@
         <a href="/index.html">
             <img class="mobileHeader__logo" src="/img/logo_mobile.svg" alt="logo">
         </a>
-        <div class="iconsWrapper">
-            <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
-            <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+        <div class="mobileHeader__wrapper">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+            <div class="iconsWrapper">
+                <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
+                <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+            </div>
         </div>
     </header>
 </div>
@@ -89,20 +116,20 @@
         <nav>
             <ul>
                 <li>
-                    <a href="/index.html">Home</a>
+                    <a data-localization="mobileNavigation-home" href="/index.html">Home</a>
                 </li>
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="mobileNavigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="mobileNavigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="mobileNavigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
                 <li>
-                    <a href="http://portal.oursupport.co" target="_blank" class="portal">
-                        <div class="portal__left">Online Portal</div>
+                    <a href="https://insite.oursupport.co/sign-in" target="_blank" class="portal">
+                        <div data-localization="mobileNavigation-onlinePortal" class="portal__left">Online Portal</div>
                         <div class="portal__right">&#8599;</div>
                     </a>
                 </li>
@@ -113,23 +140,23 @@
 </div>
         <section class="contract-hero">
     <div class="container">
-        <h2>Terms of use</h2>
+        <h2 data-localization="hero-title">Terms of use</h2>
     </div>
 </section>
         <section class="contract-text">
     <div class="container">
 
         <br><br>
-        <p>
+        <p data-localization="text-start">
             These are the standard terms on which hardware (“Hardware”) and third party software (“Software”)
             (“Products”) and services (“Services”) are supplied by Oursupport to the customer (“Customer”) at the Site
             for the prices and/or licence fees (“Charges”) as further specified in these terms and conditions and
             associated Schedule.
         </p>
 
-        <h3>1. ORDER ACCEPTANCE</h3>
+        <h3 data-localization="text-acceptanceTitle">1. ORDER ACCEPTANCE</h3>
 
-        <p>
+        <p data-localization="text-acceptanceDescription">
             1.1 Unless otherwise expressly agreed by Oursupport in writing, these terms and conditions will apply to any
             orders or requests from the Customer for Products or Services, and will supersede any other terms and
             conditions referred to, offered, or relied on by the Customer. Specific terms and conditions of oursupport
@@ -139,9 +166,9 @@
             (Tsolnetworks).
         </p>
 
-        <h3>2. DELIVERY OF SERVICES AND RISK OF LOSS</h3>
+        <h3 data-localization="text-deliveryTitle">2. DELIVERY OF SERVICES AND RISK OF LOSS</h3>
 
-        <p>
+        <p data-localization="text-deliveryDescription">
             2.1 Each service delivery under this Agreement will be deemed to constitute a separate agreement to which
             these terms and conditions will apply, except that failure or defect in any delivery will not entitle the
             Customer to repudiate the Agreement.
@@ -172,9 +199,9 @@
             within 7 days of delivery.
         </p>
 
-        <h3>3. HARDWARE</h3>
+        <h3 data-localization="text-hardwareTitle">3. HARDWARE</h3>
 
-        <p>
+        <p data-localization="text-hardwareDescription">
             3.1 The Customer will be solely responsible for installation and training not included in the Charges and
             not ordered by the Customer, in which case Oursupport / Tsolnetworks disclaims any liability in this
             connection.
@@ -199,9 +226,9 @@
             Tsolnetworks.
         </p>
 
-        <h3>4. SOFTWARE & GPS Tracking</h3>
+        <h3 data-localization="text-softwareTitle">4. SOFTWARE & GPS Tracking</h3>
 
-        <p>
+        <p data-localization="text-softwareDescription">
             4.1 Oursupport / Tsolnetworks will run such commissioning tests as it considers necessary to ensure that the
             Software is installed correctly. Upon completion of these tests, the Software will be deemed to be accepted.
             <br><br>
@@ -237,9 +264,9 @@
             qawithin the ticketing web portal.
         </p>
 
-        <h3>5. CHARGES</h3>
+        <h3 data-localization="text-chargesTitle">5. CHARGES</h3>
 
-        <p>
+        <p data-localization="text-chargesDescription">
             5.1 The Charges for Products and/or Services supplied under these terms and conditions will be as agreed
             between the parties, and are exclusive of Value Added Tax, which will be added in accordance with prevailing
             legislation. Oursupport / Tsolnetworks reserves the right to increase the Charges from time to time.
@@ -253,9 +280,9 @@
             instructions.
         </p>
 
-        <h3>6. PAYMENT</h3>
+        <h3 data-localization="text-paymentTitle">6. PAYMENT</h3>
 
-        <p>
+        <p data-localization="text-paymentDescription">
             6.1 Following acceptance of the Customer’s order by Oursupport / Tsolnetworks, Oursupport / Tsolnetworks
             will invoice the Customer for the Products and/or Services. The total Charges invoiced will be due and
             payable by the Customer to Oursupport / Tsolnetworks 30 days from the invoice date, unless otherwise agreed
@@ -279,9 +306,9 @@
             due to Oursupport / Tsolnetworks will immediately become payable in full.
         </p>
 
-        <h3>7. RESCHEDULING OR CANCELLATION</h3>
+        <h3 data-localization="text-cancellationTitle">7. RESCHEDULING OR CANCELLATION</h3>
 
-        <p>
+        <p data-localization="text-cancellationDescription">
             7.1 If the Customer cancels all or any part of an order, or requests changes to the date of shipment or the
             configuration ordered at least 60 days or more before the scheduled ex-factory shipment date or requested
             delivery date, whichever is the later, the Charges for the Products will be limited to charges for
@@ -304,16 +331,16 @@
             damages and not as a penalty.
         </p>
 
-        <h3>8. SUBSTITUTION & MODIFICATION</h3>
+        <h3 data-localization="text-substitutionTitle">8. SUBSTITUTION & MODIFICATION</h3>
 
-        <p>
+        <p data-localization="text-substitutionDescription">
             Oursupport / Tsolnetworks reserves the right to supply Products to which improvements, substitutions,
             modifications or enhancements may have been made.
         </p>
 
-        <h3>9. WARRANTY</h3>
+        <h3 data-localization="text-warrantyTitle">9. WARRANTY</h3>
 
-        <p>
+        <p data-localization="text-warrantyDescription">
             9.1 Oursupport / Tsolnetworks warrants that it has good title to or right to supply Products.
             <br><br>
             9.2 If any part of the Hardware proves defective in material or workmanship under normal operation or
@@ -328,9 +355,9 @@
             FOR A PARTICULAR PURPOSE.
         </p>
 
-        <h3>10. INDEMNITIES AND LIMITS OF LIABILITY</h3>
+        <h3 data-localization="text-limitsTitle">10. INDEMNITIES AND LIMITS OF LIABILITY</h3>
 
-        <p>
+        <p data-localization="text-limitsDescription">
             10.1 The Customer agrees that it has accepted these terms and conditions in the knowledge that Oursupport /
             Tsolnetworks’s liability is limited and that the Charges have been calculated accordingly. The Customer is
             advised to make its own insurance arrangements if it desires to limit further its exposure to risk or if it
@@ -379,9 +406,9 @@
             data for any reason.
         </p>
 
-        <h3>11. DISPUTE RESOLUTION</h3>
+        <h3 data-localization="text-disputeTitle">11. DISPUTE RESOLUTION</h3>
 
-        <p>
+        <p data-localization="text-disputeDescription">
             11.1 Any dispute arising in connection with this Agreement shall in the first instance be referred to a
             Board level director of each party for discussion and potential resolution within 7 days of the date of
             referral. Neither party may initiate any legal action until this action has been carried out unless one
@@ -399,17 +426,17 @@
             resolution of the dispute.
         </p>
 
-        <h3>12. CONFIDENTIALITY </h3>
+        <h3 data-localization="text-confidentialityTitle">12. CONFIDENTIALITY </h3>
 
-        <p>
+        <p data-localization="text-confidentialityDescription">
             The Customer will keep confidential and not disclose without Oursupport / Tsolnetworks’s written consent any
             confidential information which it may obtain. The Customer will take all reasonable steps to ensure that its
             employees and ex-employees are bound by the same obligation.
         </p>
 
-        <h3>13. TERMINATION</h3>
+        <h3 data-localization="text-terminationTitle">13. TERMINATION</h3>
 
-        <p>
+        <p data-localization="text-terminationDescription">
             13.1 This Agreement may be terminated immediately by notice in writing: (a) By Oursupport / Tsolnetworks if
             the Customer fails to pay any sums due under this Agreement by the due date notwithstanding any other
             provisions for late payment in this Agreement; (b) By either party if the other party is in material or
@@ -430,9 +457,9 @@
             obligations of the parties to each other at the date of termination.
         </p>
 
-        <h3>14. EXPORT AND RE-EXPORT LIMITATION</h3>
+        <h3 data-localization="text-exportTitle">14. EXPORT AND RE-EXPORT LIMITATION</h3>
 
-        <p>
+        <p data-localization="text-exportDescription">
             Having regard to the current statutory or other Portuguese Government regulations in force from time to time
             and, in the case of Products manufactured in the United States of America, to the United States Department
             of Commerce export regulations in force from time to time, and regardless of any disclosure made by the
@@ -441,9 +468,9 @@
             authorization as may be required by any applicable Government regulations.
         </p>
 
-        <h3>15. GENERAL CONTRACT PROVISIONS</h3>
+        <h3 data-localization="text-generalTitle">15. GENERAL CONTRACT PROVISIONS</h3>
 
-        <p>
+        <p data-localization="text-generalDescription">
             15.1 Entire Agreement This Agreement constitutes the entire agreement between the parties and supersedes any
             previous agreement between the parties relating to the subject matter of this Agreement. Each of the parties
             acknowledges that in entering into this Agreement, it does not rely on and will have no remedy in respect of
@@ -495,29 +522,30 @@
         <div class="footer__wrapper">
             <div class="footer__wrapper__nav">
                 <img src="/img/footer/footerLogo.svg" alt="logo">
-                <p>
+                <p data-localization="footer-description">
                     User-friendly platform linking those seeking IT tech support with a global community of locally
                     available IT experts.
                 </p>
                 <nav>
                     <ul>
                         <li>
-                            <a href="/pages/about.html">
+                            <a data-localization="footer-toAbout" href="/pages/about.html">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a data-localization="footer-toJobs"
+                                href="https://www.linkedin.com/company/oursupport/jobs/">
                                 Careers
                             </a>
                         </li>
-                        <li>
-                            <a href="#">
+                        <!-- <li>
+                            <a data-localization="footer-toFAQ" href="#">
                                 FAQ
                             </a>
-                        </li>
+                        </li> -->
                         <li>
-                            <a href="/pages/contact.html">
+                            <a data-localization="footer-toContact" href="/pages/contactUs.html">
                                 Contact
                             </a>
                         </li>
@@ -526,7 +554,7 @@
             </div>
 
             <div class="footer__wrapper__links">
-                <p>
+                <p data-localization="footer-getApp">
                     Get the app
                 </p>
                 <div class="footer__wrapper__links__wrapper">
@@ -543,15 +571,24 @@
         <hr>
 
         <div class="footer__bottom">
-            <div class="footer__bottom__rights">
-                © 2023 © Tsolnetworks connect europe. All rights reserved
+            <div class="investors">
+                <span data-localization="footer-investors">Investors</span>
+                <a href="https://www.portugalventures.pt/sobre-nos/parceiros-institucionais/portugal-2020/"
+                    class="investors__logo" target="_blank"><img src="/img/footer/venturesLogo.png" alt="investors"></a>
             </div>
+            <div class="footer__bottom__wrapper">
+                <div data-localization="footer-copyright" class="footer__bottom__wrapper__rights">
+                    © 2023 © Tsolnetworks connect europe. All rights reserved
+                </div>
 
-            <div class="footer__bottom__links">
-                <a href="/pages/terms.html">Terms of Use</a>
-                <a href="/pages/policy.html">Privacy Policy</a>
-                <a href="https://insite.oursupport.co/deleteaccount.html" target="_blank">Delete account</a>
-                <a href="#">Cookies</a>
+                <div class="footer__bottom__wrapper__links">
+                    <a data-localization="footer-toTerms" href="/pages/terms.html">Terms of Use</a>
+                    <a data-localization="footer-toPolicy" href="/pages/policy.html">Privacy Policy</a>
+                    <a data-localization="footer-deleteAccount" href="https://insite.oursupport.co/deleteaccount"
+                        target="_blank">Delete account</a>
+                    <a data-localization="footer-toCookies" href="#">Cookies</a>
+                </div>
+
             </div>
         </div>
 
@@ -561,7 +598,6 @@
     </div>
     <script src="/js/main.min.js"></script>
     <script src="/js/vendor.min.js"></script>
-    <script src="/js/animationMain.min.js"></script>
 </body>
 
 </html>

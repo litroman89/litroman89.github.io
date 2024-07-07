@@ -1,0 +1,67 @@
+{
+    "navigation": {
+        "about": "Sobre",
+        "services": "Serviços",
+        "contactUs": "Contactar-nos",
+        "onlinePortal": "Portal online"
+    },
+    "mobileNavigation": {
+        "home": "Início",
+        "about": "Sobre",
+        "services": "Serviços",
+        "contactUs": "Contactar-nos",
+        "onlinePortal": "Portal online"
+    },
+    "mission": {
+        "title": "A nossa missão",
+        "description": "O objetivo da OurSupport é manter as pessoas e as suas comunidades ligadas digitalmente, fornecendo serviços de apoio informático convenientes e vantagens económicas tanto para os clientes como para a nossa comunidade de técnicos informáticos.",
+        "card1Title": "Mundial",
+        "card1Description": "Técnicos de TI disponíveis perto de você.",
+        "card2Title": "Sem obrigações",
+        "card2Description": "Sem obrigações contratuais.",
+        "card3Title": "Preços claros",
+        "card3Description": "Modelo de precificação claro, sem surpresas.",
+        "card4Title": "Aplicação fácil",
+        "card4Description": "Plataforma mobile e web fácil de usar."
+    },
+    "values": {
+        "title": "Nossos valores",
+        "value1": "Sempre aprendendo",
+        "value1Description": "Estamos constantemente a aprender com tudo o que fazemos todos os dias, para melhorar a qualidade e a forma como o fazemos.",
+        "value2": "Excelência",
+        "value2Description": "Nosso objetivo é oferecer a melhor qualidade e experiência e nos esforçamos para manter nossos clientes e representantes satisfeitos.",
+        "value3": "Profissionalismo",
+        "value3Description": "Melhoramos a qualidade dos serviços e inovamos para nossos clientes a cada dia.",
+        "value4": "Inovação",
+        "value4Description": "Estamos constantemente a melhorar a nossa plataforma e a qualidade dos nossos serviços, utilizando as últimas tendências e tecnologias.",
+        "value5": "Espírito de equipa",
+        "value5Description": "OurSupport é uma comunidade global de TI, todos nós colaboramos com ideias e sugestões para alcançar soluções eficientes e econômicas.",
+        "value6": "Transparência",
+        "value6Description": "Esforçamo-nos por ser transparentes com os nossos clientes e representantes, o que constitui uma fórmula para reforçar as nossas relações como uma equipa."
+    },
+    "community": {
+        "title": "OurSupport comunidade",
+        "descriptionTitle": "Somos uma comunidade de suporte de TI.",
+        "description": "Somos uma equipa, e cada pessoa é igualmente importante. <br><br>O OurSupport trabalha com uma equipa de profissionais de TI fantásticos, o que facilita o aproveitamento da experiência e dos conhecimentos que cada um traz para a comunidade de suporte de TI. <br><br>Imagine o conhecimento e a experiência de milhares de profissionais de TI por trás de cada pedido de ajuda de TI!",
+        "button": "Junte-se à equipa"
+    },
+    "support": {
+        "title": "Nunca foi tão fácil obter suporte de TI",
+        "description": "A tecnologia está cada vez mais enraizada na nossa vida quotidiana, a forma como trabalhamos e a partir de onde trabalhamos mudou, já não estamos presos a fronteiras geográficas. <br><br> A tecnologia foi outrora uma fuga ao mundo real, atualmente a tecnologia é o mundo real.",
+        "button": "Começar"
+    },
+    "footer": {
+        "description": "Plataforma de fácil utilização que liga quem procura apoio técnico informático a uma comunidade global de especialistas informáticos disponíveis localmente.",
+        "toAbout": "Sobre nós",
+        "toJobs": "Carreiras",
+        "toFAQ": "Perguntas frequentes",
+        "toContact": "Contacto",
+        "getApp": "Obter a aplicação",
+        "investors": "Investidores",
+        "copyright": "",
+        "toTerms": "Termos de utilização",
+        "toPolicy": "Política de privacidade",
+        "deleteAccount": "Eliminar a conta",
+        "toCookies": ""
+    }
+}

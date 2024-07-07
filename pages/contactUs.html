@@ -36,7 +36,7 @@
             <img src="/img/logo.svg" alt="logo">
         </a>
 
-        <nav>
+        <nav class="desktopHeader__nav">
             <ul>
                 <li>
                     <a href="/index.html">
@@ -56,21 +56,35 @@
                 </li>
 
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="navigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="navigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="navigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
             </ul>
         </nav>
 
-        <a href="http://portal.oursupport.co" class="portal" target="_blank">
-            <div class="portal__left">Online Portal</div>
-            <div class="portal__right">&#8599;</div>
-        </a>
+        <div class="wrapper-right">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+
+            <a href="https://insite.oursupport.co/sign-in" class="portal" target="_blank">
+                <div data-localization="navigation-onlinePortal" class="portal__left">Online Portal</div>
+                <div class="portal__right">&#8599;</div>
+            </a>
+        </div>
     </header>
 </div>
         <div class="container">
@@ -78,9 +92,22 @@
         <a href="/index.html">
             <img class="mobileHeader__logo" src="/img/logo_mobile.svg" alt="logo">
         </a>
-        <div class="iconsWrapper">
-            <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
-            <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+        <div class="mobileHeader__wrapper">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+            <div class="iconsWrapper">
+                <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
+                <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+            </div>
         </div>
     </header>
 </div>
@@ -89,20 +116,20 @@
         <nav>
             <ul>
                 <li>
-                    <a href="/index.html">Home</a>
+                    <a data-localization="mobileNavigation-home" href="/index.html">Home</a>
                 </li>
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="mobileNavigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="mobileNavigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="mobileNavigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
                 <li>
-                    <a href="http://portal.oursupport.co" target="_blank" class="portal">
-                        <div class="portal__left">Online Portal</div>
+                    <a href="https://insite.oursupport.co/sign-in" target="_blank" class="portal">
+                        <div data-localization="mobileNavigation-onlinePortal" class="portal__left">Online Portal</div>
                         <div class="portal__right">&#8599;</div>
                     </a>
                 </li>
@@ -115,8 +142,8 @@
     <div class="container">
         <div class="intouch__wrapper">
             <div class="intouch__wrapper__info">
-                <h2><span>Get in touch</span></h2>
-                <p>
+                <h2><span data-localization="intouch-title">Get in touch</span></h2>
+                <p data-localization="intouch-description">
                     If you have any questions, please feel free to contact us, and we will do our best to respond as
                     quickly as
                     possible.
@@ -150,18 +177,21 @@
                 </div>
             </div>
 
-            <form action="" class="intouch__wrapper__form">
-                <label for="name">Full name</label>
-                <input type="text" name="name" id="name" placeholder="Enter your name" required />
+            <form action="#" class="intouch__wrapper__form">
+                <label data-localization="intouch-nameLabel" for="name">Full name</label>
+                <input data-localization="intouch-namePlaceholder" type="text" name="name" id="name"
+                    placeholder="Enter your name" required />
 
-                <label for="email">Email</label>
-                <input type="email" name="email" id="email" placeholder="Enter your email" required />
+                <label data-localization="intouch-emailLabel" for="email">Email</label>
+                <input data-localization="intouch-emailPlaceholder" type="email" name="email" id="email"
+                    placeholder="Enter your email" required />
 
-                <label for="email">Your message</label>
-                <input type="text" name="message" id="message" placeholder="Hi! I would like to know..." required />
+                <label data-localization="intouch-messageLabel" for="email">Your message</label>
+                <input data-localization="intouch-messagePlaceholder" type="text" name="message" id="message"
+                    placeholder="Hi! I would like to know..." required />
 
                 <button type="submit" class="portal">
-                    <div class="portal__left">Send message</div>
+                    <div data-localization="intouch-button" class="portal__left">Send message</div>
                     <div class="portal__right">&#8599;</div>
                 </button>
             </form>
@@ -174,29 +204,30 @@
         <div class="footer__wrapper">
             <div class="footer__wrapper__nav">
                 <img src="/img/footer/footerLogo.svg" alt="logo">
-                <p>
+                <p data-localization="footer-description">
                     User-friendly platform linking those seeking IT tech support with a global community of locally
                     available IT experts.
                 </p>
                 <nav>
                     <ul>
                         <li>
-                            <a href="/pages/about.html">
+                            <a data-localization="footer-toAbout" href="/pages/about.html">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a data-localization="footer-toJobs"
+                                href="https://www.linkedin.com/company/oursupport/jobs/">
                                 Careers
                             </a>
                         </li>
-                        <li>
-                            <a href="#">
+                        <!-- <li>
+                            <a data-localization="footer-toFAQ" href="#">
                                 FAQ
                             </a>
-                        </li>
+                        </li> -->
                         <li>
-                            <a href="/pages/contact.html">
+                            <a data-localization="footer-toContact" href="/pages/contactUs.html">
                                 Contact
                             </a>
                         </li>
@@ -205,7 +236,7 @@
             </div>
 
             <div class="footer__wrapper__links">
-                <p>
+                <p data-localization="footer-getApp">
                     Get the app
                 </p>
                 <div class="footer__wrapper__links__wrapper">
@@ -222,15 +253,24 @@
         <hr>
 
         <div class="footer__bottom">
-            <div class="footer__bottom__rights">
-                © 2023 © Tsolnetworks connect europe. All rights reserved
+            <div class="investors">
+                <span data-localization="footer-investors">Investors</span>
+                <a href="https://www.portugalventures.pt/sobre-nos/parceiros-institucionais/portugal-2020/"
+                    class="investors__logo" target="_blank"><img src="/img/footer/venturesLogo.png" alt="investors"></a>
             </div>
+            <div class="footer__bottom__wrapper">
+                <div data-localization="footer-copyright" class="footer__bottom__wrapper__rights">
+                    © 2023 © Tsolnetworks connect europe. All rights reserved
+                </div>
 
-            <div class="footer__bottom__links">
-                <a href="/pages/terms.html">Terms of Use</a>
-                <a href="/pages/policy.html">Privacy Policy</a>
-                <a href="https://insite.oursupport.co/deleteaccount.html" target="_blank">Delete account</a>
-                <a href="#">Cookies</a>
+                <div class="footer__bottom__wrapper__links">
+                    <a data-localization="footer-toTerms" href="/pages/terms.html">Terms of Use</a>
+                    <a data-localization="footer-toPolicy" href="/pages/policy.html">Privacy Policy</a>
+                    <a data-localization="footer-deleteAccount" href="https://insite.oursupport.co/deleteaccount"
+                        target="_blank">Delete account</a>
+                    <a data-localization="footer-toCookies" href="#">Cookies</a>
+                </div>
+
             </div>
         </div>
 

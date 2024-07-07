@@ -25,6 +25,8 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
     <link rel="apple-touch-icon" sizes="1024x1024" href="/img/favicons/apple-touch-icon-1024x1024.png">
     <link rel="stylesheet" href="/styles/main.min.css">
+    <script src="https://cdn.min.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.min.js"></script>
+    <script src="https://cdn.min.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.min.js"></script>
 </head>
 
 <body>
@@ -36,7 +38,7 @@
             <img src="/img/logo.svg" alt="logo">
         </a>
 
-        <nav>
+        <nav class="desktopHeader__nav">
             <ul>
                 <li>
                     <a href="/index.html">
@@ -56,21 +58,35 @@
                 </li>
 
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="navigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="navigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="navigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
             </ul>
         </nav>
 
-        <a href="http://portal.oursupport.co" class="portal" target="_blank">
-            <div class="portal__left">Online Portal</div>
-            <div class="portal__right">&#8599;</div>
-        </a>
+        <div class="wrapper-right">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+
+            <a href="https://insite.oursupport.co/sign-in" class="portal" target="_blank">
+                <div data-localization="navigation-onlinePortal" class="portal__left">Online Portal</div>
+                <div class="portal__right">&#8599;</div>
+            </a>
+        </div>
     </header>
 </div>
         <div class="container">
@@ -78,9 +94,22 @@
         <a href="/index.html">
             <img class="mobileHeader__logo" src="/img/logo_mobile.svg" alt="logo">
         </a>
-        <div class="iconsWrapper">
-            <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
-            <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+        <div class="mobileHeader__wrapper">
+            <button class="language-switcher">
+                <div class="current-language">
+                    <div class="current-language-icon">
+                        <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                    </div>
+                    <span class="current-language-name">EN</span>
+                </div>
+                <ul class="language-list hidden-lang-list">
+                    <!-- filled from header.min.js -->
+                </ul>
+            </button>
+            <div class="iconsWrapper">
+                <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
+                <img class="mobileHeader__menu-icon hidden" src="/img/close.svg" alt="close icon">
+            </div>
         </div>
     </header>
 </div>
@@ -89,20 +118,20 @@
         <nav>
             <ul>
                 <li>
-                    <a href="/index.html">Home</a>
+                    <a data-localization="mobileNavigation-home" href="/index.html">Home</a>
                 </li>
                 <li>
-                    <a href="/pages/about.html">About</a>
+                    <a data-localization="mobileNavigation-about" href="/pages/about.html">About</a>
                 </li>
                 <li>
-                    <a href="/pages/services.html">Services</a>
+                    <a data-localization="mobileNavigation-services" href="/pages/services.html">Services</a>
                 </li>
                 <li>
-                    <a href="/pages/contactUs.html">Contact us</a>
+                    <a data-localization="mobileNavigation-contactUs" href="/pages/contactUs.html">Contact us</a>
                 </li>
                 <li>
-                    <a href="http://portal.oursupport.co" target="_blank" class="portal">
-                        <div class="portal__left">Online Portal</div>
+                    <a href="https://insite.oursupport.co/sign-in" target="_blank" class="portal">
+                        <div data-localization="mobileNavigation-onlinePortal" class="portal__left">Online Portal</div>
                         <div class="portal__right">&#8599;</div>
                     </a>
                 </li>
@@ -114,9 +143,9 @@
         <section class="about-mission">
     <div class="container">
         <div class="about-mission__text">
-            <h2><span>Our mission</span></h2>
+            <h2><span data-animate="first-title" data-localization="mission-title">Our mission</span></h2>
             <p>
-                <span>
+                <span data-animate="subtitle" data-localization="mission-description">
                     OurSupport aims to keep people and their communities digitally connected by providing convenient IT
                     support services and economic advantages to both customers and our community of IT technicians.
                 </span>
@@ -124,32 +153,32 @@
         </div>
 
         <div class="about-mission__wrapper">
-            <div class="about-mission__wrapper__block">
+            <div data-animate="card-up" class="about-mission__wrapper__block">
                 <img src="../img/support/card4.svg" alt="card one">
 
-                <h3>Global</h3>
-                <p>IT technicians available near you.</p>
+                <h3 data-localization="mission-card1Title">Global</h3>
+                <p data-localization="mission-card1Description">IT technicians available near you.</p>
             </div>
 
-            <div class="about-mission__wrapper__block">
+            <div data-animate="card-up" class="about-mission__wrapper__block">
                 <img src="../img/support/card2.svg" alt="card two">
 
-                <h3>No obligations</h3>
-                <p>No contractual obligations.</p>
+                <h3 data-localization="mission-card2Title">No obligations</h3>
+                <p data-localization="mission-card2Description">No contractual obligations.</p>
             </div>
 
-            <div class="about-mission__wrapper__block">
+            <div data-animate="card-up" class="about-mission__wrapper__block">
                 <img src="../img/support/card3.svg" alt="card three">
 
-                <h3>Clear pricing</h3>
-                <p>Clear pricing model without surprises.</p>
+                <h3 data-localization="mission-card3Title">Clear pricing</h3>
+                <p data-localization="mission-card3Description">Clear pricing model without surprises.</p>
             </div>
 
-            <div class="about-mission__wrapper__block">
+            <div data-animate="card-up" class="about-mission__wrapper__block">
                 <img src="../img/support/card1.svg" alt="card four">
 
-                <h3>Easy App</h3>
-                <p>Easy to use mobile and web platform.</p>
+                <h3 data-localization="mission-card4Title">Easy App</h3>
+                <p data-localization="mission-card4Description">Easy to use mobile and web platform.</p>
             </div>
         </div>
     </div>
@@ -164,18 +193,18 @@
     </picture>
 
     <div class="container">
-        <h2><span>Our values</span></h2>
+        <h2><span data-animate="title" data-localization="values-title">Our values</span></h2>
 
         <div class="about-values__wrapper">
             <hr>
 
-            <div class="about-values__wrapper__block">
+            <div data-animate="slide-right-left" class="about-values__wrapper__block">
                 <div class="about-values__wrapper__block__name">
                     <h4>01</h4>
-                    <h3>Always learning</h3>
+                    <h3 data-localization="values-value1">Always learning</h3>
                 </div>
 
-                <div class="about-values__wrapper__block__descr">
+                <div data-localization="values-value1Description" class="about-values__wrapper__block__descr">
                     We are constantly learning from everything we do each day, to improve the quality and the way we do
                     it.
                 </div>
@@ -183,13 +212,13 @@
 
             <hr>
 
-            <div class="about-values__wrapper__block">
+            <div data-animate="slide-right-left" class="about-values__wrapper__block">
                 <div class="about-values__wrapper__block__name">
                     <h4>02</h4>
-                    <h3>Excellence</h3>
+                    <h3 data-localization="values-value2">Excellence</h3>
                 </div>
 
-                <div class="about-values__wrapper__block__descr">
+                <div data-localization="values-value2Description" class="about-values__wrapper__block__descr">
                     We aim to be provide the best quality and experience and strive to keep our customers and
                     representatives happy.
                 </div>
@@ -197,26 +226,26 @@
 
             <hr>
 
-            <div class="about-values__wrapper__block">
+            <div data-animate="slide-right-left" class="about-values__wrapper__block">
                 <div class="about-values__wrapper__block__name">
                     <h4>03</h4>
-                    <h3>Professionalism</h3>
+                    <h3 data-localization="values-value3">Professionalism</h3>
                 </div>
 
-                <div class="about-values__wrapper__block__descr">
+                <div data-localization="values-value3Description" class="about-values__wrapper__block__descr">
                     We improve the quality of services and innovate for our customers each day.
                 </div>
             </div>
 
             <hr>
 
-            <div class="about-values__wrapper__block">
+            <div data-animate="slide-right-left" class="about-values__wrapper__block">
                 <div class="about-values__wrapper__block__name">
                     <h4>04</h4>
-                    <h3>Innovation</h3>
+                    <h3 data-localization="values-value4">Innovation</h3>
                 </div>
 
-                <div class="about-values__wrapper__block__descr">
+                <div data-localization="values-value4Description" class="about-values__wrapper__block__descr">
                     We are constantly improving our platform and the quality of our services, using the latest trends
                     and technologies.
                 </div>
@@ -224,13 +253,13 @@
 
             <hr>
 
-            <div class="about-values__wrapper__block">
+            <div data-animate="slide-right-left" class="about-values__wrapper__block">
                 <div class="about-values__wrapper__block__name">
                     <h4>05</h4>
-                    <h3>Team spirit</h3>
+                    <h3 data-localization="values-value5">Team spirit</h3>
                 </div>
 
-                <div class="about-values__wrapper__block__descr">
+                <div data-localization="values-value5Description" class="about-values__wrapper__block__descr">
                     OurSupport is a global IT community, we all collaborate with ideas and suggestions to achieve
                     efficient and cost effective solutions.
                 </div>
@@ -238,13 +267,13 @@
 
             <hr>
 
-            <div class="about-values__wrapper__block">
+            <div data-animate="slide-right-left" class="about-values__wrapper__block">
                 <div class="about-values__wrapper__block__name">
                     <h4>06</h4>
-                    <h3>Transparency</h3>
+                    <h3 data-localization="values-value6">Transparency</h3>
                 </div>
 
-                <div class="about-values__wrapper__block__descr">
+                <div data-localization="values-value6Description" class="about-values__wrapper__block__descr">
                     We strive to be transparent with our customers and representatives this is a formula for
                     strengthening our relationships as one team.
                 </div>
@@ -260,11 +289,12 @@
     <div class="container">
         <div class="about-community__wrapper">
             <div class="about-community__wrapper__descr">
-                <h4>Oursupport community </h4>
+                <h4 data-localization="community-title">Oursupport community </h4>
 
-                <h2><span>We are one IT support Community</span></h2>
+                <h2><span data-animate="title" data-localization="community-descriptionTitle">We are one IT support
+                        Community</span></h2>
                 <p>
-                    <span>
+                    <span data-animate="subtitle" data-localization="community-description">
                         We are one team, and each person is equally important. <br><br>
                         OurSupport works with a team of amazing IT professionals, making it easy to leverage off the
                         experience and knowledge that each one brings to the IT support community. <br><br>
@@ -274,7 +304,7 @@
                 </p>
 
                 <a href="http://portal.oursupport.co" class="portal" target="_blank">
-                    <div class="portal__left">Join the team</div>
+                    <div data-localization="community-button" class="portal__left">Join the team</div>
                     <div class="portal__right">&#8599;</div>
                 </a>
             </div>
@@ -289,9 +319,10 @@
         <div class="about-support">
     <div class="container">
         <div class="about-support__wrapper">
-            <h2><span>It has never been easier to get IT support</span></h2>
+            <h2><span data-animate="title" data-localization="support-title">It has never been easier to get IT
+                    support</span></h2>
             <p>
-                <span>
+                <span data-animate="subtitle" data-localization="support-description">
                     Technology is becoming more entrenched into our daily lives, the way we work and from where we work
                     has
                     changed, we are no longer bound to or within geographical borders. <br><br>
@@ -303,7 +334,7 @@
         <a href="http://portal.oursupport.co" target="_blank">
             <img src="../img/about-support/smile.jpg" alt="image" loading="lazy">
             <div class="portal">
-                <div class="portal__left">Get Started</div>
+                <div data-localization="support-button" class="portal__left">Get Started</div>
                 <div class="portal__right">&#8599;</div>
             </div>
         </a>
@@ -315,29 +346,30 @@
         <div class="footer__wrapper">
             <div class="footer__wrapper__nav">
                 <img src="/img/footer/footerLogo.svg" alt="logo">
-                <p>
+                <p data-localization="footer-description">
                     User-friendly platform linking those seeking IT tech support with a global community of locally
                     available IT experts.
                 </p>
                 <nav>
                     <ul>
                         <li>
-                            <a href="/pages/about.html">
+                            <a data-localization="footer-toAbout" href="/pages/about.html">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a data-localization="footer-toJobs"
+                                href="https://www.linkedin.com/company/oursupport/jobs/">
                                 Careers
                             </a>
                         </li>
-                        <li>
-                            <a href="#">
+                        <!-- <li>
+                            <a data-localization="footer-toFAQ" href="#">
                                 FAQ
                             </a>
-                        </li>
+                        </li> -->
                         <li>
-                            <a href="/pages/contact.html">
+                            <a data-localization="footer-toContact" href="/pages/contactUs.html">
                                 Contact
                             </a>
                         </li>
@@ -346,7 +378,7 @@
             </div>
 
             <div class="footer__wrapper__links">
-                <p>
+                <p data-localization="footer-getApp">
                     Get the app
                 </p>
                 <div class="footer__wrapper__links__wrapper">
@@ -363,15 +395,24 @@
         <hr>
 
         <div class="footer__bottom">
-            <div class="footer__bottom__rights">
-                © 2023 © Tsolnetworks connect europe. All rights reserved
+            <div class="investors">
+                <span data-localization="footer-investors">Investors</span>
+                <a href="https://www.portugalventures.pt/sobre-nos/parceiros-institucionais/portugal-2020/"
+                    class="investors__logo" target="_blank"><img src="/img/footer/venturesLogo.png" alt="investors"></a>
             </div>
+            <div class="footer__bottom__wrapper">
+                <div data-localization="footer-copyright" class="footer__bottom__wrapper__rights">
+                    © 2023 © Tsolnetworks connect europe. All rights reserved
+                </div>
 
-            <div class="footer__bottom__links">
-                <a href="/pages/terms.html">Terms of Use</a>
-                <a href="/pages/policy.html">Privacy Policy</a>
-                <a href="https://insite.oursupport.co/deleteaccount.html" target="_blank">Delete account</a>
-                <a href="#">Cookies</a>
+                <div class="footer__bottom__wrapper__links">
+                    <a data-localization="footer-toTerms" href="/pages/terms.html">Terms of Use</a>
+                    <a data-localization="footer-toPolicy" href="/pages/policy.html">Privacy Policy</a>
+                    <a data-localization="footer-deleteAccount" href="https://insite.oursupport.co/deleteaccount"
+                        target="_blank">Delete account</a>
+                    <a data-localization="footer-toCookies" href="#">Cookies</a>
+                </div>
+
             </div>
         </div>
 

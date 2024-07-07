@@ -1,0 +1,67 @@
+{
+    "navigation": {
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contactUs": "Contáctenos",
+        "onlinePortal": "Portal en línea"
+    },
+    "mobileNavigation": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contactUs": "Contáctenos",
+        "onlinePortal": "Portal en línea"
+    },
+    "mission": {
+        "title": "Nuestra misión",
+        "description": "El objetivo de OurSupport es mantener conectadas digitalmente a las personas y sus comunidades, proporcionando cómodos servicios de asistencia informática y ventajas económicas tanto a los clientes como a nuestra comunidad de técnicos informáticos.",
+        "card1Title": "Global",
+        "card1Description": "Técnicos informáticos disponibles cerca de usted.",
+        "card2Title": "Sin obligaciones",
+        "card2Description": "Sin obligaciones contractuales.",
+        "card3Title": "Precios claros",
+        "card3Description": "Modelo de precios claro y sin sorpresas.",
+        "card4Title": "Aplicación fácil",
+        "card4Description": "Plataforma móvil y web fácil de usar."
+    },
+    "values": {
+        "title": "Nuestros valores",
+        "value1": "Siempre aprendiendo",
+        "value1Description": "Aprendemos constantemente de todo lo que hacemos cada día, para mejorar la calidad y la forma en que lo hacemos.",
+        "value2": "Excelencia",
+        "value2Description": "Nuestro objetivo es brindar la mejor calidad y experiencia y nos esforzamos por mantener contentos a nuestros clientes y representantes.",
+        "value3": "Profesionalismo",
+        "value3Description": "Mejoramos la calidad de los servicios e innovamos para nuestros clientes cada día.",
+        "value4": "Innovación",
+        "value4Description": "Mejoramos constantemente nuestra plataforma y la calidad de nuestros servicios, utilizando las últimas tendencias y tecnologías.",
+        "value5": "Espíritu de equipo",
+        "value5Description": "OurSupport es una comunidad de TI global, todos colaboramos con ideas y sugerencias para lograr soluciones eficientes y rentables.",
+        "value6": "Transparencia",
+        "value6Description": "Nos esforzamos por ser transparentes con nuestros clientes y representantes. Esta es una fórmula para fortalecer nuestras relaciones como un solo equipo."
+    },
+    "community": {
+        "title": "OurSupport comunidad",
+        "descriptionTitle": "Somos una comunidad de soporte de TI.",
+        "description": "Somos un equipo, y cada persona es igual de importante. <br><br>OurSupport trabaja con un equipo de increíbles profesionales de TI, lo que facilita el aprovechamiento de la experiencia y los conocimientos que cada uno aporta a la comunidad de soporte de TI. <br><br>Imagine los conocimientos y la experiencia de miles de profesionales de TI detrás de cada solicitud de ayuda informática.",
+        "button": "Únete al equipo"
+    },
+    "support": {
+        "title": "Nunca ha sido tan fácil obtener soporte de TI",
+        "description": "La tecnología está cada vez más arraigada en nuestra vida cotidiana, la forma en que trabajamos y desde dónde trabajamos ha cambiado, ya no estamos atados o dentro de fronteras geográficas. <br><br> Antes la tecnología era una vía de escape del mundo real, hoy la tecnología es el mundo real.",
+        "button": "Comenzar"
+    },
+    "footer": {
+        "description": "Plataforma de fácil uso que pone en contacto a quienes buscan asistencia técnica informática con una comunidad global de expertos en informática disponibles localmente.",
+        "toAbout": "Sobre nosotros",
+        "toJobs": "Carreras",
+        "toFAQ": "PREGUNTAS FRECUENTES",
+        "toContact": "Contacto",
+        "getApp": "Obtener la aplicación",
+        "investors": "Inversores",
+        "copyright": "",
+        "toTerms": "Condiciones de uso",
+        "toPolicy": "Política de privacidad",
+        "deleteAccount": "Eliminar cuenta",
+        "toCookies": ""
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "navigation": {
+        "about": "Über",
+        "services": "Dienstleistungen",
+        "contactUs": "Kontaktiere uns",
+        "onlinePortal": "Online-Portal"
+    },
+    "mobileNavigation": {
+        "home": "Heim",
+        "about": "Über",
+        "services": "Dienstleistungen",
+        "contactUs": "Kontaktiere uns",
+        "onlinePortal": "Online-Portal"
+    },
+    "mission": {
+        "title": "Unser Auftrag",
+        "description": "OurSupport hat sich zum Ziel gesetzt, die Menschen und ihre Gemeinschaften digital zu vernetzen, indem es bequeme IT-Supportdienste und wirtschaftliche Vorteile für Kunden und unsere Gemeinschaft von IT-Technikern bietet.",
+        "card1Title": "Global",
+        "card1Description": "IT-Techniker in Ihrer Nähe.",
+        "card2Title": "Keine Verpflichtungen",
+        "card2Description": "Keine vertraglichen Verpflichtungen.",
+        "card3Title": "Klare Preisgestaltung",
+        "card3Description": "Klares Preismodell ohne Überraschungen.",
+        "card4Title": "Einfache App",
+        "card4Description": "Einfach zu bedienende mobile und Web-Plattform."
+    },
+    "values": {
+        "title": "Unsere Werte",
+        "value1": "Immer lernen",
+        "value1Description": "Wir lernen ständig aus allem, was wir täglich tun, um die Qualität und die Art und Weise, wie wir es tun, zu verbessern.",
+        "value2": "Exzellenz",
+        "value2Description": "Unser Ziel ist es, die beste Qualität und Erfahrung zu bieten und unsere Kunden und Vertreter zufrieden zu stellen.",
+        "value3": "Professionalität",
+        "value3Description": "Wir verbessern täglich die Servicequalität und entwickeln Innovationen für unsere Kunden.",
+        "value4": "Innovation",
+        "value4Description": "Wir verbessern ständig unsere Plattform und die Qualität unserer Dienstleistungen, indem wir die neuesten Trends und Technologien nutzen.",
+        "value5": "Teamgeist",
+        "value5Description": "OurSupport ist eine globale IT-Community, wir alle arbeiten mit Ideen und Vorschlägen zusammen, um effiziente und kostengünstige Lösungen zu erreichen.",
+        "value6": "Transparenz",
+        "value6Description": "Wir bemühen uns um Transparenz gegenüber unseren Kunden und Vertretern - eine Formel zur Stärkung unserer Beziehungen als ein Team."
+    },
+    "community": {
+        "title": "OurSupport gemeinschaft",
+        "descriptionTitle": "Wir sind eine IT-Supportgemeinschaft.",
+        "description": "Wir sind ein Team, und jeder Einzelne ist gleich wichtig. <br><br>OurSupport arbeitet mit einem Team erstaunlicher IT-Fachleute zusammen, was es einfach macht, die Erfahrung und das Wissen, das jeder einzelne in die IT-Support-Community einbringt, zu nutzen. <br><br>Stellen Sie sich vor, dass hinter jeder Anfrage nach IT-Hilfe das Wissen und die Erfahrung von Tausenden von IT-Experten steht!",
+        "button": "Treten Sie dem Team bei"
+    },
+    "support": {
+        "title": "Noch nie war es so einfach, IT-Support zu erhalten",
+        "description": "Die Technologie hält immer mehr Einzug in unser tägliches Leben, die Art und Weise, wie wir arbeiten und von wo aus wir arbeiten, hat sich verändert, wir sind nicht mehr an geografische Grenzen gebunden. <br><br> Einst war die Technologie eine Flucht vor der realen Welt, heute ist die Technologie die reale Welt.",
+        "button": "Loslegen"
+    },
+    "footer": {
+        "description": "Benutzerfreundliche Plattform, die IT-Support-Suchende mit einer globalen Gemeinschaft von lokal verfügbaren IT-Experten verbindet.",
+        "toAbout": "Über uns",
+        "toJobs": "Karriere",
+        "toFAQ": "Häufig gestellte Fragen",
+        "toContact": "Kontakt",
+        "getApp": "Holen Sie sich die App",
+        "investors": "Investoren",
+        "copyright": "",
+        "toTerms": "Nutzungsbedingungen",
+        "toPolicy": "Datenschutzbestimmungen",
+        "deleteAccount": "Konto löschen",
+        "toCookies": ""
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "languages": [
+        {
+            "code": "EN",
+            "name": "English",
+            "icon": "/img/flags/flagUSA.svg"
+        },
+        {
+            "code": "PT",
+            "name": "Portuguese",
+            "icon": "/img/flags/flagPortugal.svg"
+        },
+        {
+            "code": "ES",
+            "name": "Spanish",
+            "icon": "/img/flags/flagSpain.svg"
+        },
+        {
+            "code": "DE",
+            "name": "German",
+            "icon": "/img/flags/flagGermany.svg"
+        },
+        {
+            "code": "FR",
+            "name": "French",
+            "icon": "/img/flags/flagFrance.svg"
+        }
+    ]
+}

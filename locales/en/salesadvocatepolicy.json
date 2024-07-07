@@ -1,0 +1,70 @@
+{
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal"
+    },
+    "hero": {
+        "title": "Sales Advocate Program"
+    },
+    "text": {
+        "programTitle": "Introducting OurSupport's Sales Advocate Program",
+        "programDescription": "We're excited to introduce the OurSupport Sales Advocate Program – a great initiative to transform our user community into a formidable force of advocates. This program extends an invitation to both our dedicated internal sales professionals and external users with permission, empowering them to get to know and promote the ourSupport services. <br><br>The Sales Advocate Program aims to build authentic connections, strengthen customer relationships, and foster a dynamic environment where advocates play a central role in shaping the success of OurSupport This advocate-driven approach not only enhances our outreach but also creates a rewarding experience for all involved.",
+        "nonEmploymentTitle": "Non-Employment Relationship",
+        "nonEmploymentDescription": "This agreement does not establish an employer-employee relationship between the Sales Advocate and Oursupport. The Sales Advocate is not an employee or contractor of Oursupport, its shareholders, or direct employees.",
+        "limitationTitle": "Limitation of Liability",
+        "limitationDescription": "Oursupport disclaims any liability for errors, omissions, or any issues arising to or from the Sales Advocate. Oursupport is not liable for any consequences or expectations that may be or have been transmitted to new customers upon signing via the Sales Advocate Program.",
+        "responsibilityTitle": "Self-Responsibility",
+        "responsibilityDescription": "The Sales Advocate is responsible for staying informed about relevant knowledge and training materials. Oursupport is not obligated, however will time to time provide ongoing training or support beyond what is initially specified.",
+        "commissionTitle": "Commission Structure",
+        "commissionDescription": "A. The Sales Advocate is entitled to a 5% commission on the total spend (total excluding value-added taxes) by their customers during the first 12 months from the day the customer signs up for Oursupport. <br><br>B. After the initial 12-month period, the Sales Advocate will earn a 3% commission on the customer's revenue (total excluding value-added taxes) provided the customer uses and pays for a minimum of 2 hours of work within a 3-month period. If there is inactivity for over 3 months in the second year, the Sales Advocate's connection to this customer is terminated.",
+        "evaluationTitle": "Commission Structure Evaluation",
+        "evaluationDescription": "Oursupport reserves the right to evaluate and change the commission structure with a 30-day notice period. However, any changes will not affect the initial time frames set out in the commission structure specified in this policy to existing customers within their first year.",
+        "terminationTitle": "Termination",
+        "terminationDescription": "Either party may terminate this agreement with notice. Termination does not affect commissions earned prior to termination.",
+        "governingLawTitle": "Governing Law",
+        "governingLawDescription": "This agreement is governed by the laws of the European Union. Any disputes shall be resolved through arbitration in accordance with the rules of [Arbitration Organization]",
+        "agreementTitle": "Entire Agreement",
+        "agreementDescription": "A. This contract represents the entire agreement of the parties and supersedes and replaces any kind of agreement, written or verbal, between the Parties, and any changes to this contract will be required to be in writing, signed by both parties. <br><br>B. The invalidity of any clause of this agreement shall not affect the validity of the remaining clauses of this contract.",
+        "nonDisclosureTitle": "Non-Disclosure Agreement",
+        "nonDisclosureDescription": "This Agreement is made between Tsolnetworks Connect Europe, Lda., a company having its registered office at Viela do Mato N.4, Sintra, 2710-695, Lisbon, Portugal (\"Tsolnetworks\") and the IT technician, here on referred to as the \"Service Provider\". <br><br>WHEREAS Tsolnetworks and the Service Provider (the “Parties”) have an interest in participating in discussions wherein either Party might share information with the other that the disclosing Party considers being proprietary and confidential to itself (“Confidential Information”); and <br><br>WHEREAS the Parties agree that Confidential Information of a Party might include, but not be limited to that Party’s: (1) business plans, methods, and practices; (2) personnel, customers, and suppliers; (3) inventions, processes, methods, products, patent applications, and other proprietary rights; or (4) specifications, drawings, sketches, models, samples, tools, computer programs, technical information, or other related information. <br><br>NOW, THEREFORE, the Parties agree as follows: <br><br>",
+        "list1": "Either Party may disclose Confidential Information to the other Party in confidence provided that the disclosing Party identifies such information as proprietary and confidential either by marking it, in the case of written materials, or, in the case of information that is disclosed orally or written materials that are not marked, by notifying the other Party of the proprietary and confidential nature of the information, such notification to be done orally, by e-mail or written correspondence, or via other means of communication as might be appropriate.",
+        "list2": "During the term of this Agreement and for 3 years after any termination of this Agreement, both parties will not, without the prior written consent of the other party, either directly or indirectly, solicit or attempt to solicit, divert or hire away any person or subcontractor employed by the other party or any customer of the other party.",
+        "list3": "When informed of the proprietary and confidential nature of Confidential Information that has been disclosed by the other Party, the receiving Party (“Recipient”) shall, for a period of three (3) years from the date of disclosure, refrain from disclosing such Confidential Information to any contractor or other third party without prior, written approval from the disclosing Party and shall protect such Confidential Information from inadvertent disclosure to a third party using the same care and diligence that the Recipient uses to protect its own proprietary and confidential information, but in no case less than reasonable care. The Recipient shall ensure that each of its employees, officers, directors, or agents who have access to Confidential Information disclosed under this Agreement is informed of its proprietary and confidential nature and is required to abide by the terms of this Agreement. The Recipient of Confidential Information disclosed under this Agreement shall promptly notify the disclosing Party of any disclosure of such Confidential Information in violation of this Agreement or of any subpoena or other legal process requiring production or disclosure of said Confidential Information.",
+        "list4": "All Confidential Information disclosed under this Agreement shall be and remain the property of the disclosing Party and nothing contained in this Agreement shall be construed as granting or conferring any rights to such Confidential Information on the other Party. The Recipient shall honour any request from the disclosing Party to promptly return or destroy all copies of Confidential Information disclosed under this Agreement and all notes related to such Confidential Information. The Parties agree that the disclosing Party will suffer irreparable injury if its Confidential Information is made public, released to a third party, or otherwise disclosed in breach of this Agreement and that the disclosing Party shall be entitled to obtain injunctive relief against a threatened breach or continuation of any such breach and, in the event of such breach, an award of actual and exemplary damages from any court of competent jurisdiction.",
+        "list5": "The terms of this Agreement shall not be construed to limit either Party’s right to develop independently or acquire products without the use of the other Party’s Confidential Information. The disclosing party acknowledges that the Recipient may currently or in the future be developing information internally, or receiving information from other parties, that is like the Confidential Information. Nothing in this Agreement will prohibit the Recipient from developing or having developed for it products, concepts, systems or techniques that are similar to or compete with the products, concepts, systems or techniques contemplated by or embodied in the Confidential Information provided that the Recipient does not violate any of its obligations under this Agreement in connection with such development.",
+        "list6": "Notwithstanding the above, the Parties agree that information shall not be deemed Confidential Information and the Recipient shall have no obligation to hold in confidence such information, where such information:",
+        "list6_1": "Is already known to the Recipient, having been disclosed to the Recipient by a third party without such third party having an obligation of confidentiality to the disclosing Party; or",
+        "list6_2": "Is or becomes publicly known through no wrongful act of the Recipient, its employees, officers, directors, or agents; or",
+        "list6_3": "Is independently developed by the Recipient without reference to any Confidential Information disclosed hereunder; or",
+        "list6_4": "Is approved for release (and only to the extent so approved) by the disclosing Party; or",
+        "list6_5": "Is disclosed pursuant to the lawful requirement of a court or governmental agency or where required by operation of law.",
+        "list7": "Nothing in this Agreement shall be construed to constitute an agency, partnership, joint venture, or other similar relationship between the Parties.",
+        "list8": "Neither Party will, without prior approval of the other Party, make any public announcement of or otherwise disclose the existence or the terms of this Agreement.",
+        "list9": "This Agreement contains the entire agreement between the Parties and in no way creates an obligation for either Party to disclose information to the other Party or to enter into any other agreement.",
+        "list10": "This Agreement shall remain in effect indefinitely from the Effective Date unless otherwise terminated by either Party giving notice to the other of its desire to terminate this Agreement. The requirement to protect Confidential Information disclosed under this Agreement shall survive termination of this Agreement."
+    },
+    "footer": {
+        "description": "User-friendly platform linking those seeking IT tech support with a global community of locally available IT experts.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Get the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks connect europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies"
+    }
+
+}

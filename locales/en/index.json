@@ -1,0 +1,111 @@
+{
+    "navigation": {
+      "about": "About",
+      "services": "Services",
+      "contactUs": "Contact us",
+      "onlinePortal": "Online Portal"
+    },
+    "mobileNavigation": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contactUs": "Contact us",
+      "onlinePortal": "Online Portal"
+    },
+    "hero": {
+        "title": "Get professional<br>Tech Support now!",
+        "description": "OurSupport is a user-friendly platform linking those seeking IT tech support with a global community of locally available IT experts.",
+        "quote": "In today's digital world, the need for quick and reliable IT support has never been greater."
+    },
+    "b2b": {
+        "title": "Onsite IT Tech support for Businesses (b2b)",
+        "description": "OurSupport for businesses; simplifies the complexities associated with getting IT Tech support, such as navigating cultural differences, language barriers, time zone variations, diverse information sources, varying payment terms, and multiple currencies. We unify all these aspects onto a single platform, creating a streamlined, standardized process that benefits our customers.",
+        "card1": "Available for onsite IT support",
+        "card2": "Widely available across the globe",
+        "card3": "Customised for customers",
+        "card4": "No contractual obligations"
+    },
+    "support": {
+        "title": "Tech Support for everyone",
+        "easyAccess": "Easy access",
+        "easyAccessDesc": "Easy access for everyone, to local onsite or remote IT Tech support experts.",
+        "noHassle": "No hassle",
+        "noHassleDesc": "No hassle of searching for taking your hardware to a local dealer or store and waiting days for quotes.",
+        "noHiddenCosts": "No hidden costs",
+        "noHiddenCostsDesc": "All companies and private individuals can budget for IT support with confidence.",
+        "globalCommunity": "Global community",
+        "globalCommunityDesc": "Access to a community of IT Tech experts with knowledge to resolve your technical issues efficiently.",
+        "platform": "OurSupport's platform",
+        "platformDesc": "Reliable and consistent standard of IT Tech support, reducing the risk of service disruptions."
+    },
+    "access": {
+        "title": "Easy access to local IT Tech support experts!",
+        "description": "Using OurSupport, businesses or individuals can get an IT expert on-site quickly, without having to negotiate pricing or wait days for a quote or an appointment.",
+        "service": "Personalized service",
+        "serviceDesc": "Onsite IT support provides a more personalized service, allowing the IT technician to get to know the customer's IT environment and thus meet their specific needs.",
+        "jargon": "No technical jargon",
+        "jargonDesc": "You do not need to be IT literate to ask for IT help, OurSupport does not require that you know technical jargon.",
+        "pricing": "Pricing table",
+        "pricingDesc": "OurSupport works on a easy to understand pricing table. The customer will always be in control of how many hours are approved to work, thus avoiding surprise charges.",
+        "expert": "Local IT expert",
+        "expertDesc": "Connect with a local IT expert, that speaks the same language and shares the same country cultures",
+        "data": "Safe data",
+        "dataDesc": "With onsite support, customers can ensure that their data or pictures by not having to leave your PC unattended by you at a local repair store."
+    },
+    "steps": {
+        "title": "Three steps approach for everyone",
+        "step1": "Step 1",
+        "step1Title": "Download the OurSupport mobile app",
+        "step1Description": "If you are a customer needing support or an IT technician looking to earn extra income, use the links above to download the OurSupport mobile application onto your mobile phone.",
+        "step2": "Step 2",
+        "step2Title": "Register and login on the OurSupport app",
+        "step2Description": "After the app installation, register on the OurSupport mobile application as either a customer or IT technician, if your represent a company or as an individual capacity.",
+        "step3": "Step 3",
+        "step3Title": "Ready to request IT help or receive work",
+        "step3Description": "Once you have registered and successfully verified your account, you can now request or accept IT support work"
+    },
+    "stepsMobile": {
+        "step1": "Step 1",
+        "step1Title": "Download the OurSupport mobile app",
+        "step1Description": "If you are a customer needing support or an IT technician looking to earn extra income, use the links above to download the OurSupport mobile application onto your mobile phone.",
+        "step2": "Step 2",
+        "step2Title": "Register and login on the OurSupport app",
+        "step2Description": "After the app installation, register on the OurSupport mobile application as either a customer or IT technician, if your represent a company or as an individual capacity.",
+        "step3": "Step 3",
+        "step3Title": "Ready to request IT help or receive work",
+        "step3Description": "Once you have registered and successfully verified your account, you can now request or accept IT support work"
+    },
+    "team": {
+        "title": "One team across many borders",
+        "description": "Our ever growing community of IT experts are up to date with the latest technologies and available to support you around the world.",
+        "ourTeam": "Meet our team",
+        "experts": "IT Experts",
+        "countries": "Countries",
+        "cities": "Cities"
+    },
+    "intouch": {
+        "title": "Get in touch",
+        "description": "If you have any questions, please feel free to contact us, and we will do our best to respond as quickly as possible.",
+        "nameLabel": "Full name",
+        "namePlaceholder": "Enter your name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Enter your email",
+        "messageLabel": "Your message",
+        "messagePlaceholder": "Hi! I would like to know...",
+        "button": "Send message"
+    },
+    "footer": {
+        "description": "User-friendly platform linking those seeking IT tech support with a global community of locally available IT experts.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Get the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks connect europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies"
+    }
+}
