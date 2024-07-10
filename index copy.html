@@ -100,7 +100,7 @@
         </nav>
 
         <div class="wrapper-right">
-            <button class="language-switcher">
+            <button class="language-switcher desktop">
                 <div class="current-language">
                     <div class="current-language-icon">
                         <img src="/img/flags/flagUSA.svg" alt="Language flag">
@@ -114,7 +114,9 @@
 
             <a href="https://insite.oursupport.co/sign-in" class="portal" target="_blank">
                 <div data-localization="navigation-onlinePortal" class="portal__left">Online Portal</div>
-                <div class="portal__right">&#8599;</div>
+                <div class="portal__right">
+                    <img src="/img/ArrowUpRight.svg" alt="arrow">
+                </div>
             </a>
         </div>
     </header>
@@ -162,7 +164,9 @@
                 <li>
                     <a href="https://insite.oursupport.co/sign-in" target="_blank" class="portal">
                         <div data-localization="mobileNavigation-onlinePortal" class="portal__left">Online Portal</div>
-                        <div class="portal__right">&#8599;</div>
+                        <div class="portal__right">
+                            <img src="/img/ArrowUpRight.svg" alt="arrow">
+                        </div>
                     </a>
                 </li>
             </ul>
@@ -654,7 +658,9 @@
 
         <a href="#" class="portal">
             <div data-localization="team-ourTeam" class="portal__left">Meet our team</div>
-            <div class="portal__right">&#8599;</div>
+            <div class="portal__right">
+                <img src="/img/ArrowUpRight.svg" alt="arrow">
+            </div>
         </a>
 
         <div id="map"></div>
@@ -729,7 +735,9 @@
 
                 <button type="submit" class="portal">
                     <div data-localization="intouch-button" class="portal__left">Send message</div>
-                    <div class="portal__right">&#8599;</div>
+                    <div class="portal__right">
+                        <img src="/img/ArrowUpRight.svg" alt="arrow">
+                    </div>
                 </button>
             </form>
         </div>
@@ -784,6 +792,18 @@
                         <img src="/img/footer/googleBtn.svg" alt="google play link">
                     </a>
                 </div>
+
+                <button class="footer-language-switcher desktop">
+                    <div class="footer-current-language">
+                        <div class="footer-current-language-icon">
+                            <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                        </div>
+                        <span class="footer-current-language-name">English</span>
+                    </div>
+                    <ul class="footer-language-list hidden-lang-list">
+                        <!-- filled from header.js -->
+                    </ul>
+                </button>
             </div>
         </div>
 

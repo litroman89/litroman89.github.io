@@ -70,7 +70,7 @@
         </nav>
 
         <div class="wrapper-right">
-            <button class="language-switcher">
+            <button class="language-switcher desktop">
                 <div class="current-language">
                     <div class="current-language-icon">
                         <img src="/img/flags/flagUSA.svg" alt="Language flag">
@@ -84,7 +84,9 @@
 
             <a href="https://insite.oursupport.co/sign-in" class="portal" target="_blank">
                 <div data-localization="navigation-onlinePortal" class="portal__left">Online Portal</div>
-                <div class="portal__right">&#8599;</div>
+                <div class="portal__right">
+                    <img src="/img/ArrowUpRight.svg" alt="arrow">
+                </div>
             </a>
         </div>
     </header>
@@ -132,7 +134,9 @@
                 <li>
                     <a href="https://insite.oursupport.co/sign-in" target="_blank" class="portal">
                         <div data-localization="mobileNavigation-onlinePortal" class="portal__left">Online Portal</div>
-                        <div class="portal__right">&#8599;</div>
+                        <div class="portal__right">
+                            <img src="/img/ArrowUpRight.svg" alt="arrow">
+                        </div>
                     </a>
                 </li>
             </ul>
@@ -238,7 +242,7 @@
         </div>
     </div>
 </section>
-        <section class="advocate steps">
+        <section id="sales-advocate" class="advocate steps">
     <div class="container">
         <div class="advocate__wrapper">
             <h2>
@@ -537,7 +541,7 @@
             </div>
         </div>
 </section>
-        <section class="services-pros">
+        <section id="services-pros" class="services-pros">
     <div class="container">
         <div class="services-pros__wrapper">
             <h2><span data-animate="title">IT Support, easy and cost effective for everyone!</span></h2>
@@ -619,14 +623,14 @@
         </div>
     </div>
 </section>
-        <section class="services-freelancer">
+        <section id="become-freelancer" class="services-freelancer">
     <div class="container">
         <div class="services-freelancer__wrapper">
             <h2><span data-animate="title">Become a IT Support Freelancer in your area</span></h2>
 
             <div data-animate="subtitle" class="services-freelancer__wrapper__description">
                 <h5>
-                    Become a local Freelancer IT support for onsite and remote support to our customers. At OurSupport,
+                    Become a local Freelancer IT support for onsite and remote support to our customers.
                 </h5>
                 <h6>
                     At OurSupport, we are always looking for new IT support technicians to provide onsite technology
@@ -823,21 +827,7 @@
         </div>
     </div>
 </section>
-        <section class="subscribe">
-    <div class="container">
-        <div class="subscribe__wrapper">
-            <div>
-                <p class="subscribe__wrapper__title">Join our newsletter</p>
-                <p class="subscribe__wrapper__descr">We’ll send you a nice letter once per week. No spam.</p>
-            </div>
-
-            <form action="#" class="subscribe__wrapper__form">
-                <input type="email" name="email" placeholder="Enter your email" required>
-                <button type="submit">Subscribe</button>
-            </form>
-        </div>
-    </div>
-</section>
+        
         
         
         <footer class="footer">
@@ -888,6 +878,18 @@
                         <img src="/img/footer/googleBtn.svg" alt="google play link">
                     </a>
                 </div>
+
+                <button class="footer-language-switcher desktop">
+                    <div class="footer-current-language">
+                        <div class="footer-current-language-icon">
+                            <img src="/img/flags/flagUSA.svg" alt="Language flag">
+                        </div>
+                        <span class="footer-current-language-name">English</span>
+                    </div>
+                    <ul class="footer-language-list hidden-lang-list">
+                        <!-- filled from header.js -->
+                    </ul>
+                </button>
             </div>
         </div>
 
