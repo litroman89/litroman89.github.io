@@ -50,12 +50,8 @@
         "description": "Technology is becoming more entrenched into our daily lives, the way we work and from where we work has changed, we are no longer bound to or within geographical borders. <br><br> Technology was once an escape from the real world, today technology is the real world.",
         "button": "Get Started"
     },
-    "links": {
-        "title": "Get started",
-        "description": "Download the app to and join the OurSupport community of hassle free IT support at your fingertips"
-    },
     "footer": {
-        "description": "User-friendly platform linking those seeking IT tech support with a global community of locally available IT experts.",
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
         "toAbout": "About Us",
         "toJobs": "Careers",
         "toFAQ": "FAQ",
@@ -67,6 +63,9 @@
         "toPolicy": "Privacy Policy",
         "deleteAccount": "Delete account",
         "toCookies": "Cookies"
+    },
+    "links": {
+        "title": "Get started",
+        "description": "Download the app to and join the OurSupport community of hassle free IT support at your fingertips"
     }
-
 }

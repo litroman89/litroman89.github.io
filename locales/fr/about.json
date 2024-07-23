@@ -14,54 +14,58 @@
     },
     "mission": {
         "title": "Notre mission",
-        "description": "OurSupport a pour objectif de permettre aux personnes et à leurs communautés de rester connectées numériquement en offrant des services d'assistance informatique pratiques et des avantages économiques à la fois aux clients et à notre communauté de techniciens informatiques.",
+        "description": "OurSupport s'efforce de maintenir la connectivité numérique entre les individus et leurs communautés en offrant des services d'assistance informatique accessibles et des avantages financiers à la fois à nos clients et à notre réseau de professionnels de l'informatique.",
         "card1Title": "Mondial",
-        "card1Description": "Techniciens informatiques disponibles près de chez vous.",
+        "card1Description": "Des experts en informatique sont disponibles dans votre région.",
         "card2Title": "Aucune obligation",
         "card2Description": "Aucune obligation contractuelle.",
         "card3Title": "Tarification claire",
-        "card3Description": "Modèle de tarification clair et sans surprise.",
-        "card4Title": "Application facile",
-        "card4Description": "Plateforme mobile et web facile à utiliser."
+        "card3Description": "Structure de prix transparente, sans frais imprévus.",
+        "card4Title": "Application simple",
+        "card4Description": "Plate-forme mobile et web facile à utiliser."
     },
     "values": {
         "title": "Nos valeurs",
         "value1": "Toujours apprendre",
-        "value1Description": "Nous apprenons constamment de tout ce que nous faisons chaque jour, pour améliorer la qualité et la façon dont nous le faisons.",
+        "value1Description": "Chaque jour, nous apprenons continuellement de toutes nos actions pour améliorer la qualité et la méthode de notre travail.",
         "value2": "L'excellence",
-        "value2Description": "Notre objectif est de fournir la meilleure qualité et la meilleure expérience et nous nous efforçons de satisfaire nos clients et nos représentants.",
+        "value2Description": "Notre objectif est de fournir la meilleure qualité et la meilleure expérience, tout en assurant la satisfaction de nos clients et de nos représentants.",
         "value3": "Professionnalisme",
-        "value3Description": "Chaque jour, nous améliorons la qualité des services et innovons pour nos clients.",
+        "value3Description": "Chaque jour, nous améliorons la qualité de nos services et innovons au profit de nos clients.",
         "value4": "L'innovation",
-        "value4Description": "Nous améliorons constamment notre plateforme et la qualité de nos services, en utilisant les dernières tendances et technologies.",
+        "value4Description": "Nous améliorons continuellement notre plateforme et la qualité de nos services en utilisant les tendances et les technologies les plus récentes.",
         "value5": "L'esprit d'équipe",
-        "value5Description": "OurSupport est une communauté informatique mondiale, nous collaborons tous avec des idées et des suggestions pour parvenir à des solutions efficaces et rentables.",
+        "value5Description": "OurSupport est une communauté informatique internationale où nous travaillons tous ensemble, en partageant des idées et des suggestions pour créer des solutions efficaces et rentables.",
         "value6": "Transparence",
-        "value6Description": "Nous nous efforçons d'être transparents avec nos clients et nos représentants, ce qui nous permet de renforcer nos relations en tant qu'équipe."
+        "value6Description": "Nous visons à maintenir la transparence avec nos clients et nos représentants en tant que stratégie pour renforcer nos relations en tant qu'équipe unifiée."
     },
     "community": {
         "title": "OurSupport communauté",
         "descriptionTitle": "Nous sommes une communauté d'assistance informatique.",
-        "description": "Nous formons une seule équipe et chaque personne est aussi importante que les autres. <br><br>OurSupport travaille avec une équipe de professionnels de l'informatique extraordinaires, ce qui facilite l'exploitation de l'expérience et des connaissances que chacun apporte à la communauté de l'assistance informatique. <br><br>Imaginez les connaissances et l'expérience de milliers de professionnels de l'informatique derrière chaque demande d'aide informatique !",
-        "button": "Rejoindre l'équipe"
+        "description": "Nous fonctionnons comme une unité unique, où chaque individu a la même importance. <br><br>OurSupport collabore avec un groupe d'experts informatiques exceptionnels, facilitant l'utilisation de l'expertise et des connaissances uniques de chaque membre au sein de la communauté d'assistance informatique. <br><br>Visualisez la sagesse et l'expérience collectives de milliers de professionnels de l'informatique qui soutiennent chaque demande d'assistance informatique !",
+        "button": "Faire partie de l'équipe"
     },
     "support": {
-        "title": "Il n'a jamais été aussi facile d'obtenir une assistance informatique",
-        "description": "La technologie est de plus en plus présente dans notre vie quotidienne, la façon dont nous travaillons et le lieu où nous travaillons ont changé, nous ne sommes plus liés à des frontières géographiques ou à l'intérieur de celles-ci. <br><br> La technologie était autrefois un moyen d'échapper au monde réel ; aujourd'hui, la technologie est le monde réel.",
+        "title": "Obtenir une assistance informatique n'a jamais été aussi facile",
+        "description": "De plus en plus intégrée à notre vie quotidienne, la technologie a transformé nos habitudes de travail et éliminé les contraintes géographiques. <br><br> Autrefois moyen d'échapper à la réalité, la technologie est aujourd'hui devenue notre réalité.",
         "button": "Commencer"
     },
     "footer": {
-        "description": "Plate-forme conviviale mettant en relation les personnes à la recherche d'une assistance technique informatique avec une communauté mondiale d'experts en informatique disponibles localement.",
+        "description": "Une plateforme conviviale qui met en relation les personnes ayant besoin d'une assistance technique informatique avec un réseau mondial de professionnels de l'informatique accessibles localement.",
         "toAbout": "À propos de nous",
         "toJobs": "Carrières",
         "toFAQ": "FAQ",
         "toContact": "Contact",
         "getApp": "Télécharger l'application",
         "investors": "Investisseurs",
-        "copyright": "",
+        "copyright": "2024 © Tsolnetworks Connect Europe, S.A. Tous droits réservés",
         "toTerms": "Conditions d'utilisation",
         "toPolicy": "Politique de confidentialité",
         "deleteAccount": "Supprimer le compte",
-        "toCookies": ""
+        "toCookies": "Cookies"
+    },
+    "links": {
+        "title": "Commencer",
+        "description": "Obtenez l'application et devenez membre de la communauté OurSupport pour une assistance informatique sans effort au bout des doigts."
     }
 }

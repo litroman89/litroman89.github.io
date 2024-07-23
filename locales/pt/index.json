@@ -1,0 +1,111 @@
+{
+    "hero": {
+        "description": "Uma plataforma de fácil utilização que liga pessoas que necessitam de apoio técnico informático a uma rede mundial de profissionais de TI acessíveis localmente.",
+        "quote": "Na atual era digital, a procura de apoio informático rápido e fiável é cada vez maior.",
+        "title": "Obtenha suporte técnico profissional para<br>agora!"
+    },
+    "b2b": {
+        "title": "Suporte técnico de TI no local para empresas (b2b)",
+        "description": "OurSupport para empresas; facilita os desafios relacionados com a obtenção de suporte técnico de TI, como lidar com disparidades culturais, obstáculos linguísticos, diferenças de fuso horário, fontes de informação variadas, condições de pagamento flutuantes e várias moedas. Consolidamos todos estes elementos numa única plataforma, estabelecendo um procedimento simplificado e uniforme que beneficia os nossos clientes.",
+        "card1": "Disponível para apoio informático no local",
+        "card2": "Acessível em todo o mundo",
+        "card3": "Personalizado para os clientes",
+        "card4": "Sem acordos vinculativos"
+    },
+    "support": {
+        "easyAccess": "Acesso fácil",
+        "easyAccessDesc": "Acessibilidade simples para todos, a, profissionais de suporte TI locais, presenciais ou remotos.",
+        "noHassle": "Sem complicações",
+        "noHassleDesc": "Não há necessidade de se preocupar em localizar um agente ou loja de TI local e esperar dias para receber um orçamento.",
+        "noHiddenCosts": "Sem custos ocultos",
+        "noHiddenCostsDesc": "Todas as empresas e particulares podem planear com confiança o seu orçamento para apoio informático.",
+        "globalCommunity": "Comunidade mundial",
+        "globalCommunityDesc": "Aceda a uma comunidade de profissionais técnicos de TI que possuem os conhecimentos necessários para resolver eficazmente os seus problemas técnicos.",
+        "platform": "A plataforma do OurSupport",
+        "platformDesc": "Padrão de suporte técnico de TI fiável e estável, minimizando a possibilidade de interrupções de serviço.",
+        "title": "Suporte técnico para todos"
+    },
+    "access": {
+        "title": "Fácil acesso a especialistas locais de suporte de TI!",
+        "description": "Com o OurSupport, tanto as empresas como os particulares podem obter rapidamente um especialista em TI no local, eliminando a necessidade de regatear preços ou de suportar longas esperas por um orçamento, ou uma marcação.",
+        "service": "Serviço personalizado",
+        "serviceDesc": "A assistência informática no local oferece um serviço personalizado, permitindo que o especialista em TI se familiarize com a configuração informática do cliente e, consequentemente, satisfaça as suas necessidades específicas.",
+        "jargon": "Sem jargão técnico",
+        "jargonDesc": "Não é necessário ser perito em tecnologia para procurar assistência informática, o OurSupport não exige que compreenda a terminologia técnica.",
+        "pricing": "Tabela de preços",
+        "pricingDesc": "O OurSupport funciona com base numa tabela de preços simples. O cliente tem sempre controlo sobre o número de horas de trabalho aprovadas, evitando assim encargos inesperados.",
+        "expert": "Especialista local em TI",
+        "expertDesc": "Estabelece uma ligação com especialista TI local que fale a sua língua e compreenda a cultura do seu país.",
+        "data": "Dados seguros",
+        "dataDesc": "Com o suporte no local, os clientes podem proteger os seus dados ou fotografias sem terem de deixar o seu PC sem supervisão numa oficina de reparação local."
+    },
+    "steps": {
+        "title": "Abordagem em três etapas para todos",
+        "step1": "Passo 1",
+        "step1Title": "Obtenha a aplicação móvel OurSupport no seu dispositivo",
+        "step1Description": "Se é um cliente que precisa de assistência ou um profissional de TI que procura um rendimento adicional, utilize os links acima para instalar a aplicação móvel OurSupport no seu smartphone.",
+        "step2": "Passo 2",
+        "step2Title": "Inscrever-se e iniciar a sessão na aplicação OurSupport",
+        "step2Description": "Uma vez instalada a aplicação, inscreva-se na aplicação móvel OurSupport como cliente ou técnico de TI, quer esteja a representar uma empresa ou a atuar a título individual.",
+        "step3": "Passo 3",
+        "step3Title": "Pronto para pedir ajuda informática ou aceitar trabalho",
+        "step3Description": "Depois de se registar e verificar com êxito a sua conta, pode agora solicitar ou aceitar trabalho de apoio informático"
+    },
+    "stepsMobile": {
+        "step1": "Passo 1",
+        "step1Title": "Abaixe a aplicação móvel OurSupport no seu dispositivo",
+        "step1Description": "Se é um cliente que precisa de assistência ou um profissional de TI que procura um rendimento adicional, utilize os links acima para instalar a aplicação móvel OurSupport no seu smartphone.",
+        "step2": "Passo 2",
+        "step2Title": "Inscrever-se e iniciar sessão na aplicação OurSupport",
+        "step2Description": "Uma vez instalada a aplicação, inscreva-se na aplicação móvel OurSupport como cliente ou técnico de TI, quer esteja a representar uma empresa ou a atuar a título individual.",
+        "step3": "Passo 3",
+        "step3Title": "Pronto para pedir ajuda informática ou receber trabalho",
+        "step3Description": "Depois de se registar e verificar com êxito a sua conta, pode agora solicitar ou aceitar trabalho de apoio informático"
+    },
+    "team": {
+        "title": "Uma única equipa que abrange várias fronteiras",
+        "description": "A nossa comunidade de profissionais de TI, em constante expansão, mantém-se atualizada com as tecnologias mais recentes e estão prontos para o ajudar a nível global.",
+        "ourTeam": "Conheça a nossa equipa",
+        "experts": "Especialistas em TI",
+        "countries": "Países",
+        "cities": "Cidades"
+    },
+    "navigation": {
+        "about": "Sobre",
+        "services": "Serviços",
+        "contactUs": "Contactar-nos",
+        "onlinePortal": "Portal online"
+    },
+    "mobileNavigation": {
+        "home": "Início",
+        "about": "Sobre",
+        "services": "Serviços",
+        "contactUs": "Contactar-nos",
+        "onlinePortal": "Portal online"
+    },
+    "intouch": {
+        "title": "Entrar em contacto",
+        "description": "Se tiver alguma dúvida, não hesite em contactar-nos e faremos o nosso melhor para responder o mais rapidamente possível.",
+        "nameLabel": "Nome completo",
+        "namePlaceholder": "Introduza o seu nome",
+        "emailLabel": "Correio eletrónico",
+        "emailPlaceholder": "Introduza o seu e-mail",
+        "messageLabel": "A sua mensagem",
+        "messagePlaceholder": "Olá! Gostaria de saber...",
+        "button": "Enviar mensagem"
+    },
+    "footer": {
+        "description": "Uma plataforma de fácil utilização que liga pessoas que necessitam de apoio técnico informático a uma rede mundial de profissionais de TI acessíveis localmente.",
+        "toAbout": "Sobre nós",
+        "toJobs": "Carreiras",
+        "toFAQ": "FAQ",
+        "toContact": "Contacto",
+        "getApp": "Descarregar a aplicação",
+        "investors": "Investidores",
+        "copyright": "© 2024 © Tsolnetworks Connect Europe, S.A. Todos os direitos reservados.",
+        "toTerms": "Termos de utilização",
+        "toPolicy": "Política de privacidade",
+        "deleteAccount": "Eliminar a conta",
+        "toCookies": "Cookies"
+    }
+}

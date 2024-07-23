@@ -1,0 +1,109 @@
+{
+    "title": "Asistencia informática local para grandes empresas",
+    "subTitle": "Un servicio completo y personalizado de principio a fin",
+    "description": "Aunque aplicamos la misma metodología, contamos con ingenieros de asistencia sobre el terreno repartidos por todo el mundo. Reconocemos que los clientes de esta categoría a menudo necesitan algo más que un profesional de TI que se presente en sus instalaciones. <br><br>En OurSupport, asignamos un gestor\/coordinador de cuentas dedicado a la cuenta y nos centramos en desarrollar procesos automatizados desde la recepción de tickets hasta las actualizaciones, la elaboración de informes y el cierre de cada intervención. <br><br>Agilizamos la facturación con órdenes de compra y los procesos de incorporación de ingenieros (boletines de seguridad, requisitos de formación, procesos de preselección).",
+    "whyTitle": "¿Por qué elegirnos?",
+    "whyDescription": "Imagine la sabiduría y la experiencia colectivas de miles de profesionales de TI que atienden cada solicitud de ayuda de TI.",
+    "why1Title": "Horas y suministros",
+    "why1Description": "La necesidad de prestar apoyo informático a las personas tiene una importancia sustancial en las consideraciones financieras de una empresa. La solución ideal para cualquier empresa es disponer de recursos informáticos fácilmente accesibles y preparados para proporcionar soporte informático dentro de los Acuerdos de Nivel de Servicio. Una plataforma única para solicitar asistencia de TI a los usuarios de forma global, basada en el coste de tiempo y material, garantiza el ahorro en nuevos contratos, un registro e informes eficientes y mejora el ahorro de costes.",
+    "why2Title": "Somos accesibles",
+    "why2Description": "OurSupport, junto con nuestra amplia red de técnicos de campo, está preparado para gestionar las solicitudes de asistencia informática en todo el mundo. El objetivo de OurSupport es simplificar el proceso, las tareas y las actualizaciones entre los usuarios y los técnicos informáticos, haciéndolo lo más sencillo posible.",
+    "why3Title": "Somos un equipo unido",
+    "why3Description": "OurSupport funciona como un solo equipo, en el que todos, desde los clientes hasta los técnicos de campo y los auxiliares administrativos, son considerados miembros iguales. Mediante el fomento del trabajo en equipo, la promoción del intercambio de conocimientos y el estímulo del aprendizaje mutuo, garantizamos una situación en la que todos salen ganando.",
+    "advocate": {
+        "title": "¡Únete a nosotros como Sales Advocate en OurSupport!",
+        "subtitleh5": "Reciba comisiones continuas por referencias de clientes como Defensor de ventas de OurSupport.",
+        "subtitleh6": "El Programa de Defensores de la Comunidad de OurSupport le ofrece la oportunidad de generar ingresos adicionales atrayendo a la plataforma OurSupport a nuevos clientes que necesiten asistencia informática."
+    },
+    "stepsMobile": {
+        "step4": "Paso 4",
+        "step4Title": "Gane comisiones",
+        "step4Description": "Cuando tus contactos se registren y te acepten como su representante, ganarás una comisión basada en todos sus ingresos por gastos durante un año.",
+        "step1": "Primer paso",
+        "step1Title": "Configuración e inscripción",
+        "step1Description": "Descargue y regístrese como cliente o especialista en asistencia informática en la aplicación OurSupport.",
+        "step2": "Paso 2",
+        "step2Title": "Solicitar y obtener la aprobación",
+        "step2Description": "Vaya a la sección de configuración de la aplicación móvil OurSupport y solicite la aprobación para convertirse en Defensor de ventas. Una vez aprobado, podrás actuar como Sales Advocate para OurSupport.",
+        "step3": "Paso 3",
+        "step3Title": "Comparta su enlace único",
+        "step3Description": "Cree y comparta su enlace único con sus contactos desde la sección Sales Advocate dentro de la aplicación móvil OurSupport."
+    },
+    "steps": {
+        "step4": "Paso 4",
+        "step4Title": "Gane comisiones",
+        "step4Description": "Cuando tus contactos se registren y te acepten como su representante, ganarás una comisión basada en todos sus ingresos por gastos durante un año.",
+        "step1": "Primer paso",
+        "step1Title": "Configuración e inscripción",
+        "step1Description": "Descargue la aplicación OurSupport y regístrese como cliente o soporte técnico de TI.",
+        "step2": "Paso 2",
+        "step2Title": "Solicitar y obtener la aprobación",
+        "step2Description": "Acceda al área de configuración de la aplicación móvil OurSupport y solicite permiso para convertirse en Promotor de ventas. Después de recibir la aprobación, podrás actuar como Defensor de ventas para OurSupport.",
+        "step3": "Paso 3",
+        "step3Title": "Comparta su enlace único",
+        "step3Description": "Cree y comparta su enlace único con sus contactos desde la sección Sales Advocate dentro de la aplicación móvil OurSupport."
+    },
+    "advocateLinks": {
+        "title": "Comparta ahora su enlace y conectemos juntos OurSupport.",
+        "description": "Una forma sencilla de obtener ingresos extra mientras ayudas a otros a descubrir las ventajas de OurSupport."
+    },
+    "pros": {
+        "title": "Asistencia informática, asequible y sencilla para todos",
+        "subtitleh5": "OurSupport permite a cualquiera solicitar asistencia técnica informática.",
+        "subtitleh6": "En OurSupport, reconocemos que no todo el mundo se siente cómodo con la tecnología, lo que puede causar frustración a la hora de buscar ayuda.",
+        "list1Title": "Solicitar asistencia técnica informática in situ",
+        "list1Descr": "Solicitar asistencia técnica de TI in situ puede ser tan sencillo como hacer una foto y hacer clic en \"Abrir Ticket\".",
+        "list2Title": "Todas las solicitudes se tramitan",
+        "list2Descr": "Todas las solicitudes son atendidas por representantes de servicios informáticos autorizados de OurSupport en su zona.",
+        "list3Title": "OurSupport garantiza precios transparentes y justos:",
+        "price1Title": "Cargo fijo por hora",
+        "price1Descr": "OurSupport aplica una tarifa horaria estándar, lo que elimina la necesidad de evaluar o negociar precios para cada solicitud.",
+        "price2Title": "Gastos gestionados",
+        "price2Descr": "Cada solicitud viene con un límite de tiempo máximo predefinido, lo que garantiza a nuestros clientes que no se les cobrará más sin su aprobación. Si se requiere más tiempo, el técnico informático debe pedir permiso y el cliente debe estar de acuerdo antes de que se pueda facturar cualquier trabajo adicional. Damos prioridad a ofrecer a nuestros clientes un control total sobre los costes, eliminando cualquier cargo inesperado al final.",
+        "price3Title": "Pagos seguros",
+        "price3Descr": "Los servicios se pagan dentro de la aplicación móvil utilizando una tarjeta de crédito a través de proveedores de pago reconocidos en todo el mundo. Los cargos por el trabajo solo se aplican una vez que el cliente ha aceptado y está satisfecho con el trabajo realizado."
+    },
+    "freelancer": {
+        "title": "Comienza tu andadura como especialista autónomo en soporte informático en tu comunidad",
+        "subtitleh5": "Conviértase en un autónomo local de TI, proporcionando asistencia in situ y remota a nuestros clientes.",
+        "subtitleh6": "En OurSupport, buscamos constantemente nuevos técnicos de soporte informático que puedan ofrecer asistencia tecnológica in situ a nuestros clientes de su zona.",
+        "card1Title": "Fijar tarifa horaria",
+        "card1Descr": "Reciba un pago fijo por hora por sus servicios técnicos de TI in situ.",
+        "card2Title": "Seguimiento eficaz del trabajo",
+        "card2Descr": "La aplicación móvil OurSupport se utiliza para realizar un seguimiento de todas las solicitudes de trabajo y el rendimiento.",
+        "card3Title": "Pagos inmediatos",
+        "card3Descr": "Una vez finalizado el trabajo y aprobado por el cliente, el pago se depositará en su monedero y podrá retirarlo cuando lo desee.",
+        "linkTitle": "Inscríbase ahora",
+        "linkDescr": "Un método sencillo para generar ingresos adicionales mientras ayuda a otros a descubrir las ventajas de OurSupport."
+    },
+    "navigation": {
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contactUs": "Póngase en contacto con nosotros",
+        "onlinePortal": "Portal en línea"
+    },
+    "mobileNavigation": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contactUs": "Póngase en contacto con nosotros",
+        "onlinePortal": "Portal en línea"
+    },
+    "smeTitle": "PYME \/ Particular - Soporte informático",
+    "smeSubTitle": "Una forma sencilla de solicitar asistencia informática",
+    "smeDescription": "Todos los clientes son igual de importantes para nosotros. Sin embargo, reconocemos que para los usuarios ocasionales y las pequeñas organizaciones, puede que no existan los grandes controles de seguridad corporativos, de registro previo y de acceso necesarios. <br><br>Nuestro enfoque de servicio rápido significa que cualquier cliente puede abrir una solicitud descargando nuestra aplicación móvil y registrándose como cliente. Una solicitud es tan fácil como hacer una foto y pulsar abrir ticket. <br><br>Todas las solicitudes de intervención son atendidas por un técnico autorizado de su zona. Se realiza una llamada para confirmar, concertar una hora y realizar el trabajo. Todas las tareas, desde la llamada hasta el desplazamiento, se pueden ver en la aplicación y se dispone de informes detallados sobre el trabajo realizado y el tiempo empleado. El pago por el servicio se realiza dentro de la aplicación móvil, sólo una vez que el trabajo realizado el cliente está satisfecho con el trabajo. Esto se basa en un coste por hora fijo predeterminado en todo el mundo, y se deja claro en la solicitud de una intervención.",
+    "footer": {
+        "description": "Una plataforma fácil de usar que conecta a las personas que necesitan soporte técnico informático con una red mundial de profesionales informáticos accesibles localmente.",
+        "toAbout": "Quiénes somos",
+        "toJobs": "Carreras profesionales",
+        "toFAQ": "PREGUNTAS FRECUENTES",
+        "toContact": "Póngase en contacto con",
+        "getApp": "Descargar la aplicación",
+        "investors": "Inversores",
+        "copyright": "2024 © Tsolnetworks Connect Europe, S.A. Todos los derechos reservados",
+        "toTerms": "Condiciones de uso",
+        "toPolicy": "Política de privacidad",
+        "deleteAccount": "Eliminar cuenta",
+        "toCookies": "Cookies"
+    }
+}

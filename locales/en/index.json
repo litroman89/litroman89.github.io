@@ -1,21 +1,8 @@
 {
-    "navigation": {
-      "about": "About",
-      "services": "Services",
-      "contactUs": "Contact us",
-      "onlinePortal": "Online Portal"
-    },
-    "mobileNavigation": {
-      "home": "Home",
-      "about": "About",
-      "services": "Services",
-      "contactUs": "Contact us",
-      "onlinePortal": "Online Portal"
-    },
     "hero": {
-        "title": "Get professional<br>Tech Support now!",
-        "description": "OurSupport is a user-friendly platform linking those seeking IT tech support with a global community of locally available IT experts.",
-        "quote": "In today's digital world, the need for quick and reliable IT support has never been greater."
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "quote": "In today's digital world, the need for quick and reliable IT support has never been greater.",
+        "title": "Get professional<br>Tech Support now!"
     },
     "b2b": {
         "title": "Onsite IT Tech support for Businesses (b2b)",
@@ -26,7 +13,6 @@
         "card4": "No contractual obligations"
     },
     "support": {
-        "title": "Tech Support for everyone",
         "easyAccess": "Easy access",
         "easyAccessDesc": "Easy access for everyone, to local onsite or remote IT Tech support experts.",
         "noHassle": "No hassle",
@@ -36,7 +22,8 @@
         "globalCommunity": "Global community",
         "globalCommunityDesc": "Access to a community of IT Tech experts with knowledge to resolve your technical issues efficiently.",
         "platform": "OurSupport's platform",
-        "platformDesc": "Reliable and consistent standard of IT Tech support, reducing the risk of service disruptions."
+        "platformDesc": "Reliable and consistent standard of IT Tech support, reducing the risk of service disruptions.",
+        "title": "Tech Support for everyone"
     },
     "access": {
         "title": "Easy access to local IT Tech support experts!",
@@ -83,6 +70,19 @@
         "countries": "Countries",
         "cities": "Cities"
     },
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal"
+    },
     "intouch": {
         "title": "Get in touch",
         "description": "If you have any questions, please feel free to contact us, and we will do our best to respond as quickly as possible.",
@@ -95,12 +95,12 @@
         "button": "Send message"
     },
     "footer": {
-        "description": "User-friendly platform linking those seeking IT tech support with a global community of locally available IT experts.",
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
         "toAbout": "About Us",
         "toJobs": "Careers",
         "toFAQ": "FAQ",
         "toContact": "Contact",
-        "getApp": "Get the app",
+        "getApp": "Download the app",
         "investors": "Investors",
         "copyright": "© 2023 © Tsolnetworks connect europe. All rights reserved",
         "toTerms": "Terms of Use",

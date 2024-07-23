@@ -1,0 +1,111 @@
+{
+    "hero": {
+        "description": "Eine benutzerfreundliche Plattform, die Personen, die IT-Support benötigen, mit einem weltweiten Netz von lokal verfügbaren IT-Experten verbindet.",
+        "quote": "Im heutigen digitalen Zeitalter ist die Nachfrage nach schnellem und zuverlässigem IT-Support so hoch wie nie zuvor.",
+        "title": "Holen Sie sich jetzt professionellen<br>Tech Support!"
+    },
+    "b2b": {
+        "title": "Technischer IT-Support vor Ort für Unternehmen (b2b)",
+        "description": "OurSupport für Unternehmen erleichtert die Herausforderungen, die mit der Inanspruchnahme von IT-Support verbunden sind, wie z. B. der Umgang mit kulturellen Unterschieden, sprachlichen Hindernissen, Zeitzonenunterschieden, unterschiedlichen Informationsquellen, schwankenden Zahlungsbedingungen und verschiedenen Währungen. Wir konsolidieren all diese Elemente auf einer Plattform und schaffen so ein vereinfachtes, einheitliches Verfahren, von dem unsere Kunden profitieren.",
+        "card1": "Verfügbar für IT-Support vor Ort",
+        "card2": "Auf der ganzen Welt zugänglich",
+        "card3": "Maßgeschneidert für Kunden",
+        "card4": "Keine verbindlichen Vereinbarungen"
+    },
+    "support": {
+        "easyAccess": "Einfacher Zugang",
+        "easyAccessDesc": "Einfacher Zugang für alle, zu lokalen, persönlichen oder ferngesteuerten IT-Support-Experten.",
+        "noHassle": "Kein Ärger",
+        "noHassleDesc": "Sie müssen sich nicht mit der Suche nach einem lokalen IT-Agenten oder einem Geschäft herumschlagen und tagelang auf ein Angebot warten.",
+        "noHiddenCosts": "Keine versteckten Kosten",
+        "noHiddenCostsDesc": "Alle Unternehmen und Privatpersonen können ihr Budget für IT-Support sicher planen.",
+        "globalCommunity": "Weltweite Gemeinschaft",
+        "globalCommunityDesc": "Verschaffen Sie sich Zugang zu einer Gemeinschaft von IT-Fachleuten, die über das Know-how verfügen, um Ihre technischen Probleme effektiv zu lösen.",
+        "platform": "Die Plattform von OurSupport",
+        "platformDesc": "Zuverlässiger und stabiler IT-Support-Standard, der die Möglichkeit von Serviceunterbrechungen minimiert.",
+        "title": "Technischer Support für alle"
+    },
+    "access": {
+        "title": "Einfacher Zugang zu lokalen IT-Support-Experten!",
+        "description": "Mit OurSupport können sowohl Unternehmen als auch Privatpersonen schnell einen IT-Spezialisten vor Ort bekommen, ohne dass sie um Preise feilschen oder lange Wartezeiten für einen Kostenvoranschlag oder einen Termin in Kauf nehmen müssen.",
+        "service": "Personalisierter Service",
+        "serviceDesc": "Der IT-Support vor Ort bietet einen maßgeschneiderten Service, der es dem IT-Spezialisten ermöglicht, sich mit der IT-Einrichtung des Kunden vertraut zu machen und so auf dessen individuelle Bedürfnisse einzugehen.",
+        "jargon": "Kein Fachchinesisch",
+        "jargonDesc": "Sie müssen nicht technisch versiert sein, um IT-Hilfe in Anspruch zu nehmen, denn OurSupport setzt nicht voraus, dass Sie die technische Terminologie verstehen.",
+        "pricing": "Preistabelle",
+        "pricingDesc": "OurSupport arbeitet mit einer übersichtlichen Preistabelle. Der Kunde hat stets die Kontrolle über die Anzahl der genehmigten Arbeitsstunden, wodurch unerwartete Kosten vermieden werden.",
+        "expert": "Lokaler IT-Spezialist",
+        "expertDesc": "Stellen Sie eine Verbindung zu einem lokalen IT-Spezialisten her, der Ihre Sprache spricht und die Kultur Ihres Landes versteht.",
+        "data": "Sichere Daten",
+        "dataDesc": "Mit dem Vor-Ort-Support können Kunden ihre Daten oder Fotos schützen, ohne ihren PC unbeaufsichtigt in einer örtlichen Reparaturwerkstatt lassen zu müssen."
+    },
+    "steps": {
+        "title": "Drei-Schritte-Ansatz für alle",
+        "step1": "Schritt 1",
+        "step1Title": "Holen Sie sich die OurSupport Mobile App auf Ihr Gerät",
+        "step1Description": "Wenn Sie ein Kunde sind, der Hilfe benötigt, oder ein IT-Fachmann, der ein zusätzliches Einkommen anstrebt, nutzen Sie die obigen Links, um die OurSupport Mobile App auf Ihrem Smartphone zu installieren.",
+        "step2": "Schritt 2",
+        "step2Title": "Registrieren Sie sich und melden Sie sich bei der OurSupport-App an",
+        "step2Description": "Sobald die App installiert ist, melden Sie sich in der mobilen Anwendung OurSupport als Kunde oder IT-Techniker an, unabhängig davon, ob Sie ein Unternehmen vertreten oder als Einzelperson handeln.",
+        "step3": "Schritt 3",
+        "step3Title": "Bereit, IT-Hilfe anzufordern oder Arbeit anzunehmen",
+        "step3Description": "Nachdem Sie sich registriert und Ihr Konto erfolgreich verifiziert haben, können Sie nun IT-Support anfordern oder annehmen"
+    },
+    "stepsMobile": {
+        "step1": "Schritt 1",
+        "step1Title": "Holen Sie sich die OurSupport Mobile App auf Ihr Gerät",
+        "step1Description": "Wenn Sie ein Kunde sind, der Hilfe benötigt, oder ein IT-Fachmann, der ein zusätzliches Einkommen anstrebt, nutzen Sie die obigen Links, um die OurSupport Mobile App auf Ihrem Smartphone zu installieren.",
+        "step2": "Schritt 2",
+        "step2Title": "Registrieren Sie sich und melden Sie sich bei der OurSupport-App an",
+        "step2Description": "Sobald die App installiert ist, melden Sie sich in der mobilen Anwendung OurSupport als Kunde oder IT-Techniker an, unabhängig davon, ob Sie ein Unternehmen vertreten oder als Einzelperson handeln.",
+        "step3": "Schritt 3",
+        "step3Title": "Bereit, IT-Hilfe anzufordern oder Arbeit zu erhalten",
+        "step3Description": "Nachdem Sie sich registriert und Ihr Konto erfolgreich verifiziert haben, können Sie nun IT-Support anfordern oder annehmen"
+    },
+    "team": {
+        "title": "Ein einziges Team über mehrere Grenzen hinweg",
+        "description": "Unsere ständig wachsende Gemeinschaft von IT-Fachleuten ist immer auf dem neuesten Stand der Technik und steht Ihnen weltweit zur Verfügung.",
+        "ourTeam": "Treffen Sie unser Team",
+        "experts": "IT-Experten",
+        "countries": "Länder",
+        "cities": "Städte"
+    },
+    "navigation": {
+        "about": "Über",
+        "services": "Dienstleistungen",
+        "contactUs": "Kontakt",
+        "onlinePortal": "Online-Portal"
+    },
+    "mobileNavigation": {
+        "home": "Startseite",
+        "about": "Über",
+        "services": "Dienstleistungen",
+        "contactUs": "Kontakt",
+        "onlinePortal": "Online-Portal"
+    },
+    "intouch": {
+        "title": "Kontakt aufnehmen",
+        "description": "Wenn Sie Fragen haben, können Sie sich gerne an uns wenden, und wir werden unser Bestes tun, um so schnell wie möglich zu antworten.",
+        "nameLabel": "Vollständiger Name",
+        "namePlaceholder": "Geben Sie Ihren Namen ein",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "Ihre E-Mail eingeben",
+        "messageLabel": "Ihre Nachricht",
+        "messagePlaceholder": "Hallo! Ich würde gerne wissen...",
+        "button": "Nachricht senden"
+    },
+    "footer": {
+        "description": "Eine benutzerfreundliche Plattform, die Personen, die IT-Support benötigen, mit einem weltweiten Netz von lokal verfügbaren IT-Experten verbindet.",
+        "toAbout": "Über uns",
+        "toJobs": "Karriere",
+        "toFAQ": "FAQ",
+        "toContact": "Kontakt",
+        "getApp": "Die App herunterladen",
+        "investors": "Investoren",
+        "copyright": "© 2024 © Tsolnetworks Connect Europe, S.A. Alle Rechte vorbehalten.",
+        "toTerms": "Nutzungsbedingungen",
+        "toPolicy": "Datenschutzbestimmungen",
+        "deleteAccount": "Konto löschen",
+        "toCookies": "Cookies"
+    }
+}

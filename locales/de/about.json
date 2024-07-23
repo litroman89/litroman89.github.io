@@ -14,54 +14,58 @@
     },
     "mission": {
         "title": "Unser Auftrag",
-        "description": "OurSupport hat sich zum Ziel gesetzt, die Menschen und ihre Gemeinschaften digital zu vernetzen, indem es bequeme IT-Supportdienste und wirtschaftliche Vorteile für Kunden und unsere Gemeinschaft von IT-Technikern bietet.",
+        "description": "OurSupport ist bestrebt, die digitale Konnektivität zwischen Einzelpersonen und ihren Gemeinschaften aufrechtzuerhalten, indem es zugängliche IT-Supportdienste und finanzielle Vorteile sowohl für unsere Kunden als auch für unser Netzwerk von IT-Experten bietet.",
         "card1Title": "Global",
-        "card1Description": "IT-Techniker in Ihrer Nähe.",
+        "card1Description": "IT-Experten sind in Ihrer Region leicht verfügbar.",
         "card2Title": "Keine Verpflichtungen",
         "card2Description": "Keine vertraglichen Verpflichtungen.",
         "card3Title": "Klare Preisgestaltung",
-        "card3Description": "Klares Preismodell ohne Überraschungen.",
+        "card3Description": "Transparente Preisstruktur ohne unerwartete Kosten.",
         "card4Title": "Einfache App",
-        "card4Description": "Einfach zu bedienende mobile und Web-Plattform."
+        "card4Description": "Einfach zu bedienende Mobil- und Webplattform."
     },
     "values": {
         "title": "Unsere Werte",
         "value1": "Immer lernen",
-        "value1Description": "Wir lernen ständig aus allem, was wir täglich tun, um die Qualität und die Art und Weise, wie wir es tun, zu verbessern.",
+        "value1Description": "Wir lernen jeden Tag aus all unseren Handlungen, um die Qualität und die Methode unserer Arbeit zu verbessern.",
         "value2": "Exzellenz",
-        "value2Description": "Unser Ziel ist es, die beste Qualität und Erfahrung zu bieten und unsere Kunden und Vertreter zufrieden zu stellen.",
+        "value2Description": "Unser Ziel ist es, höchste Qualität und Erfahrung zu liefern und gleichzeitig die Zufriedenheit unserer Kunden und Vertreter zu gewährleisten.",
         "value3": "Professionalität",
-        "value3Description": "Wir verbessern täglich die Servicequalität und entwickeln Innovationen für unsere Kunden.",
+        "value3Description": "Jeden Tag verbessern wir die Qualität unserer Dienstleistungen und sorgen für Innovationen zum Nutzen unserer Kunden.",
         "value4": "Innovation",
-        "value4Description": "Wir verbessern ständig unsere Plattform und die Qualität unserer Dienstleistungen, indem wir die neuesten Trends und Technologien nutzen.",
+        "value4Description": "Wir entwickeln unsere Plattform und den Standard unserer Dienstleistungen ständig weiter, indem wir die neuesten Trends und Technologien nutzen.",
         "value5": "Teamgeist",
-        "value5Description": "OurSupport ist eine globale IT-Community, wir alle arbeiten mit Ideen und Vorschlägen zusammen, um effiziente und kostengünstige Lösungen zu erreichen.",
+        "value5Description": "OurSupport ist eine internationale IT-Community, in der wir alle zusammenarbeiten und Ideen und Vorschläge austauschen, um effiziente und kostengünstige Lösungen zu entwickeln.",
         "value6": "Transparenz",
-        "value6Description": "Wir bemühen uns um Transparenz gegenüber unseren Kunden und Vertretern - eine Formel zur Stärkung unserer Beziehungen als ein Team."
+        "value6Description": "Wir bemühen uns um Transparenz gegenüber unseren Kunden und Vertretern, um unsere Beziehungen als einheitliches Team zu festigen."
     },
     "community": {
         "title": "OurSupport gemeinschaft",
         "descriptionTitle": "Wir sind eine IT-Supportgemeinschaft.",
-        "description": "Wir sind ein Team, und jeder Einzelne ist gleich wichtig. <br><br>OurSupport arbeitet mit einem Team erstaunlicher IT-Fachleute zusammen, was es einfach macht, die Erfahrung und das Wissen, das jeder einzelne in die IT-Support-Community einbringt, zu nutzen. <br><br>Stellen Sie sich vor, dass hinter jeder Anfrage nach IT-Hilfe das Wissen und die Erfahrung von Tausenden von IT-Experten steht!",
-        "button": "Treten Sie dem Team bei"
+        "description": "Wir arbeiten als eine Einheit, in der jeder Einzelne die gleiche Bedeutung hat. <br><br>OurSupport arbeitet mit einer Gruppe herausragender IT-Experten zusammen, die das einzigartige Fachwissen und die Kenntnisse jedes einzelnen Mitglieds innerhalb der IT-Supportgemeinschaft nutzen. <br><br>Stellen Sie sich vor, dass die kollektive Weisheit und Erfahrung von Tausenden von IT-Experten hinter jeder IT-Supportanfrage steht!",
+        "button": "Werden Sie ein Teil des Teams"
     },
     "support": {
         "title": "Noch nie war es so einfach, IT-Support zu erhalten",
-        "description": "Die Technologie hält immer mehr Einzug in unser tägliches Leben, die Art und Weise, wie wir arbeiten und von wo aus wir arbeiten, hat sich verändert, wir sind nicht mehr an geografische Grenzen gebunden. <br><br> Einst war die Technologie eine Flucht vor der realen Welt, heute ist die Technologie die reale Welt.",
+        "description": "Mit der zunehmenden Integration der Technologie in unser tägliches Leben hat sie unsere Arbeitsgewohnheiten verändert und geografische Beschränkungen aufgehoben. <br><br> Was einst ein Mittel war, um der Realität zu entfliehen, ist nun unsere Realität geworden.",
         "button": "Loslegen"
     },
     "footer": {
-        "description": "Benutzerfreundliche Plattform, die IT-Support-Suchende mit einer globalen Gemeinschaft von lokal verfügbaren IT-Experten verbindet.",
+        "description": "Eine benutzerfreundliche Plattform, die Personen, die IT-Support benötigen, mit einem weltweiten Netz von lokal verfügbaren IT-Experten verbindet.",
         "toAbout": "Über uns",
         "toJobs": "Karriere",
         "toFAQ": "Häufig gestellte Fragen",
         "toContact": "Kontakt",
         "getApp": "Holen Sie sich die App",
         "investors": "Investoren",
-        "copyright": "",
+        "copyright": "© 2024 © Tsolnetworks Connect Europe, S.A. Alle Rechte vorbehalten.",
         "toTerms": "Nutzungsbedingungen",
         "toPolicy": "Datenschutzbestimmungen",
         "deleteAccount": "Konto löschen",
-        "toCookies": ""
+        "toCookies": "Cookies"
+    },
+    "links": {
+        "title": "Loslegen",
+        "description": "Holen Sie sich die App und werden Sie Teil der OurSupport-Gemeinschaft für mühelosen IT-Support direkt an Ihren Fingerspitzen"
     }
 }

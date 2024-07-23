@@ -1,0 +1,8 @@
+{
+    "reset": {
+        "title": "A redefinição da palavra-passe foi bem sucedida",
+        "description": "Pode agora iniciar sessão com a sua nova palavra-passe.",
+        "back": "Regressar ao início de sessão.",
+        "note": "Nota: Todos os endereços de correio eletrónico, números de telefone e dados de contacto serão mantidos confidenciais. Estas informações não serão divulgadas ou distribuídas a ninguém ou a qualquer outra organização sem o seu consentimento prévio. Obrigado pelo vosso apoio."
+    }
+}

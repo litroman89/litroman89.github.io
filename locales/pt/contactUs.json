@@ -1,0 +1,40 @@
+{
+    "intouch": {
+        "title": "Contactar-nos",
+        "description": "Se tiver alguma dúvida, não hesite em contactar-nos e faremos o nosso melhor para responder o mais rapidamente possível.",
+        "nameLabel": "Nome completo",
+        "namePlaceholder": "Introduza o seu nome",
+        "emailLabel": "Correio eletrónico",
+        "emailPlaceholder": "Introduza o seu email",
+        "messageLabel": "A sua mensagem",
+        "messagePlaceholder": "Olá! Gostaria de saber...",
+        "button": "Enviar mensagem"
+    },
+    "navigation": {
+        "about": "Sobre",
+        "services": "Serviços",
+        "contactUs": "Contactar-nos",
+        "onlinePortal": "Portal online"
+    },
+    "mobileNavigation": {
+        "home": "Início",
+        "about": "Sobre",
+        "services": "Serviços",
+        "contactUs": "Contactar-nos",
+        "onlinePortal": "Portal online"
+    },
+    "footer": {
+        "description": "Uma plataforma de fácil utilização que liga pessoas que necessitam de apoio técnico informático a uma rede mundial de profissionais de TI acessíveis localmente.",
+        "toAbout": "Sobre nós",
+        "toJobs": "Carreiras",
+        "toFAQ": "FAQ",
+        "toContact": "Número de contacto",
+        "getApp": "Descarregar a aplicação",
+        "investors": "Investidores",
+        "copyright": "© 2024 © Tsolnetworks Connect Europe, S.A. Todos os direitos reservados.",
+        "toTerms": "Termos de utilização",
+        "toPolicy": "Política de privacidade",
+        "deleteAccount": "Eliminar a conta",
+        "toCookies": "Cookies"
+    }
+}

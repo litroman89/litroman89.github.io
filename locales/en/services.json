@@ -1,20 +1,7 @@
 {
-    "navigation": {
-        "about": "About",
-        "services": "Services",
-        "contactUs": "Contact us",
-        "onlinePortal": "Online Portal"
-    },
-    "mobileNavigation": {
-        "home": "Home",
-        "about": "About",
-        "services": "Services",
-        "contactUs": "Contact us",
-        "onlinePortal": "Online Portal"
-    },
     "title": "Local IT support for Large Enterprise companies",
     "subTitle": "A End-To-End customised service solution",
-    "description": "Whilst the same approach is applied, having field support engineerd available across the globe. We understand that customers within this category often require more than just the IT guy arriving onsite. <br><br>At Oursupport, we assign a dedicated account manager / coordinator to the account, and work on creatigng automation processes from recieving tickets to updating and reporting and closing each intervention. <br><br>Consolidate invoicing with purchase orders named engineers onboarding process (Security bulletins, Training requirements, pre screening processes)",
+    "description": "Whilst the same approach is applied, having field support engineerd available across the globe. We understand that customers within this category often require more than just the IT guy arriving onsite. <br><br>At Oursupport, we assign a dedicated account manager \/ coordinator to the account, and work on creatigng automation processes from recieving tickets to updating and reporting and closing each intervention. <br><br>Consolidate invoicing with purchase orders named engineers onboarding process (Security bulletins, Training requirements, pre screening processes)",
     "whyTitle": "Why us?",
     "whyDescription": "Imagine the knowedge and experience of 1000´s of IT profesionals behind each request for IT help.",
     "why1Title": "Time & Material",
@@ -29,32 +16,32 @@
         "subtitleh6": "The OurSupport Community Advocate Program allows you to earn additional income by introducing new customers who need IT support to the OurSupport platform."
     },
     "stepsMobile": {
+        "step4": "Step 4",
+        "step4Title": "Earn Commissions",
+        "step4Description": "When your contacts register and accept you as their representative, you'll earn a commission based on all their spending revenue for one year.",
         "step1": "Step 1",
-        "step1Title": "Install and Register",
-        "step1Description": "Download and register as a customer or IT tech support in the OurSupport application.",
+        "step1Title": "Set Up and Sign Up",
+        "step1Description": "Download and register as a customer or IT support specialist in the OurSupport app.",
         "step2": "Step 2",
         "step2Title": "Request and Get Approval",
         "step2Description": "Go to the settings section of the OurSupport mobile app and request approval to become a Sales Advocate. Once approved, you can act as a Sales Advocate for OurSupport.",
         "step3": "Step 3",
         "step3Title": "Share Your Unique Link",
-        "step3Description": "Create and share your unique link with your contacts from within the Sales Advocate section inside the OurSupport mobile application.",
-        "step4": "Step 4",
-        "step4Title": "Earn Commissions",
-        "step4Description": "When your contacts register and accept you as their representative, you'll earn a commission based on all their spending revenue for one year."
+        "step3Description": "Create and share your unique link with your contacts from within the Sales Advocate section inside the OurSupport mobile application."
     },
     "steps": {
-        "step1": "Step 1",
-        "step1Title": "Install and Register",
-        "step1Description": "Download and register as a customer or IT tech support in the OurSupport application.",
-        "step2": "Step 2",
-        "step2Title": "Request and Get Approval",
-        "step2Description": "Go to the settings section of the OurSupport mobile app and request approval to become a Sales Advocate. Once approved, you can act as a Sales Advocate for OurSupport.",
-        "step3": "Step 3",
-        "step3Title": "Share Your Unique Link",
-        "step3Description": "Create and share your unique link with your contacts from within the Sales Advocate section inside the OurSupport mobile application.",
         "step4": "Step 4",
         "step4Title": "Earn Commissions",
-        "step4Description": "When your contacts register and accept you as their representative, you'll earn a commission based on all their spending revenue for one year."
+        "step4Description": "When your contacts register and accept you as their representative, you'll earn a commission based on all their spending revenue for one year.",
+        "step1": "Step 1",
+        "step1Title": "Set Up and Sign Up",
+        "step1Description": "Download the OurSupport application and sign up as a customer or IT tech support.",
+        "step2": "Step 2",
+        "step2Title": "Request and Get Approval",
+        "step2Description": "Navigate to the settings area of the OurSupport mobile app and seek permission to become a Sales Advocate. After receiving approval, you'll be able to serve as a Sales Advocate for OurSupport.",
+        "step3": "Step 3",
+        "step3Title": "Share Your Unique Link",
+        "step3Description": "Create and share your unique link with your contacts from within the Sales Advocate section inside the OurSupport mobile application."
     },
     "advocateLinks": {
         "title": "Share your link now and let's connect OurSupport together!",
@@ -89,13 +76,29 @@
         "linkTitle": "Join us now!",
         "linkDescr": "A simple way to earn extra income while helping others discover the benefits of OurSupport."
     },
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal"
+    },
+    "smeTitle": "SMB \/ Individual - IT support",
+    "smeSubTitle": "A simple way of requesting IT assitance",
+    "smeDescription": "All customers are equally as important to us. however we do recognise that for indicual users and small organizations, there may not be the large corporate screening, pre registering and access security controls required. <br><br>Our quick to service approach, means that any customer is able to open a request by downloading our mobile application and registering as a customer. A request is as easy as taking a photo and hiting open ticket. <br><br>All intervention requets are followed through by a authorized IT service person within your area. A call is made to confirm, arrange a time and perfome the work. All tasks from calling,travelling are viewable within the app, and have detailed reports to the work done and the time spent. Payment for the service are made within the mobile application, only once the work done the customer is happy with the work. This is based on a predetermined fixed hourly cost across the world, and is made clear on the requesting of an intervention.",
     "footer": {
-        "description": "User-friendly platform linking those seeking IT tech support with a global community of locally available IT experts.",
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
         "toAbout": "About Us",
         "toJobs": "Careers",
         "toFAQ": "FAQ",
         "toContact": "Contact",
-        "getApp": "Get the app",
+        "getApp": "Download the app",
         "investors": "Investors",
         "copyright": "© 2023 © Tsolnetworks connect europe. All rights reserved",
         "toTerms": "Terms of Use",
@@ -103,5 +106,4 @@
         "deleteAccount": "Delete account",
         "toCookies": "Cookies"
     }
-
 }

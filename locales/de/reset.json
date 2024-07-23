@@ -1,0 +1,8 @@
+{
+    "reset": {
+        "title": "Ihr Passwort wurde erfolgreich zurückgesetzt",
+        "description": "Sie können sich jetzt mit Ihrem neuen Passwort anmelden.",
+        "back": "Zurück zur Anmeldung",
+        "note": "Bitte beachten Sie: Alle email-Adressen, Telefonnummern und Kontaktangaben werden vertraulich behandelt. Diese Informationen werden ohne Ihre vorherige Zustimmung weder an Dritte noch an andere Organisationen weitergegeben. Wir danken Ihnen für Ihre Unterstützung."
+    }
+}

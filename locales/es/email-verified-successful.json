@@ -1,0 +1,8 @@
+{
+    "emailVerified": {
+        "title": "La dirección de correo electrónico se ha verificado correctamente",
+        "description": "Ya puedes iniciar sesión en tu aplicación móvil OurSupport.",
+        "toAccount": "Volver al panel de control de la cuenta",
+        "note": "Tenga en cuenta lo siguiente: Todas sus direcciones de correo electrónico, números de teléfono e información de contacto serán confidenciales. Estos datos no serán compartidos ni difundidos a ninguna persona u otra organización sin su aprobación previa. Le agradecemos su apoyo."
+    }
+}
