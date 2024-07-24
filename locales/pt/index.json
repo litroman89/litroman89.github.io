@@ -109,20 +109,20 @@
         "toCookies": "Cookies"
     },
     "carousel": {
-        "carousel-text1": "Tecnologia de TI<br>Suporte para<br>Todos",
-        "carousel-text2": "Tecnologia de TI<br>Suporte para<br>Todos",
-        "carousel-btn1": "Saiba mais",
-        "carousel-btn2": "Saiba mais",
-        "carousel-text3": "Junte-se à nossa equipa<br>como técnico de TI<br>support ",
-        "carousel-text4": "Junte-se à nossa equipa<br>como técnico de TI<br>support ",
-        "carousel-btn3": "Junte-se à nossa equipa",
-        "carousel-btn4": "Junte-se à nossa equipa",
-        "carousel-text5": "Ganhe dinheiro extra em<br>como agente de vendas em<br>",
-        "carousel-text6": "Ganhe dinheiro extra em<br>como consultor de vendas em<br>",
-        "carousel-btn5": "Saiba mais",
-        "carousel-btn6": "Saiba mais",
-        "carousel-nav1": "Suporte técnico de TI",
-        "carousel-nav2": "Junte-se à nossa equipa",
-        "carousel-nav3": "Agente de Vendas"
+        "text1": "Tecnologia de TI<br>Suporte para<br>Todos",
+        "text2": "Tecnologia de TI<br>Suporte para<br>Todos",
+        "btn1": "Saiba mais",
+        "btn2": "Saiba mais",
+        "text3": "Junte-se à nossa equipa<br>como técnico de TI<br>support ",
+        "text4": "Junte-se à nossa equipa<br>como técnico de TI<br>support ",
+        "btn3": "Junte-se à nossa equipa",
+        "btn4": "Junte-se à nossa equipa",
+        "text5": "Ganhe dinheiro extra em<br>como agente de vendas em<br>",
+        "text6": "Ganhe dinheiro extra em<br>como consultor de vendas em<br>",
+        "btn5": "Saiba mais",
+        "btn6": "Saiba mais",
+        "nav1": "Suporte técnico de TI",
+        "nav2": "Junte-se à nossa equipa",
+        "nav3": "Agente de Vendas"
     }
 }

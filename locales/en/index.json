@@ -109,20 +109,20 @@
         "toCookies": "Cookies"
     },
     "carousel": {
-        "carousel-text1": "IT Technology<br>Support for<br>Everyone",
-        "carousel-text2": "IT Technology<br>Support for<br>Everyone",
-        "carousel-btn1": "Learn more",
-        "carousel-btn2": "Learn more",
-        "carousel-text3": "Join our team<br>as a IT Tech<br>support ",
-        "carousel-text4": "Join our team<br>as a IT Tech<br>support ",
-        "carousel-btn3": "Join our team",
-        "carousel-btn4": "Join our team",
-        "carousel-text5": "Earn extra<br>Money as a<br>Sales Advocate ",
-        "carousel-text6": "Earn extra<br>Money as a<br>Sales Advocate ",
-        "carousel-btn5": "Learn more",
-        "carousel-btn6": "Learn more",
-        "carousel-nav1": "IT Tech Support",
-        "carousel-nav2": "Join our team",
-        "carousel-nav3": "Sales Advocate"
+        "text1": "IT Technology<br>Support for<br>Everyone",
+        "text2": "IT Technology<br>Support for<br>Everyone",
+        "btn1": "Learn more",
+        "btn2": "Learn more",
+        "text3": "Join our team<br>as a IT Tech<br>support ",
+        "text4": "Join our team<br>as a IT Tech<br>support ",
+        "btn3": "Join our team",
+        "btn4": "Join our team",
+        "text5": "Earn extra<br>Money as a<br>Sales Advocate ",
+        "text6": "Earn extra<br>Money as a<br>Sales Advocate ",
+        "btn5": "Learn more",
+        "btn6": "Learn more",
+        "nav1": "IT Tech Support",
+        "nav2": "Join our team",
+        "nav3": "Sales Advocate"
     }
 }

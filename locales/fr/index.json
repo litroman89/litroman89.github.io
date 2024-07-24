@@ -109,20 +109,20 @@
         "toCookies": "Cookies"
     },
     "carousel": {
-        "carousel-text1": "Technologie informatique<br>Support pour<br>Tout le monde",
-        "carousel-text2": "Technologie informatique<br>Support pour<br>Tout le monde",
-        "carousel-btn1": "En savoir plus",
-        "carousel-btn2": "En savoir plus",
-        "carousel-text3": "Rejoignez notre équipe<br>en tant que technicien informatique<br>support ",
-        "carousel-text4": "Rejoignez notre équipe<br>en tant que technicien informatique<br>support ",
-        "carousel-btn3": "Rejoindre notre équipe",
-        "carousel-btn4": "Rejoindre notre équipe",
-        "carousel-text5": "Gagnez de l'argent supplémentaire sur<br>en tant qu'agent commercial sur<br>",
-        "carousel-text6": "Gagnez de l'argent supplémentaire sur<br>en tant qu'agent commercial sur<br>",
-        "carousel-btn5": "En savoir plus",
-        "carousel-btn6": "En savoir plus",
-        "carousel-nav1": "Support technique informatique",
-        "carousel-nav2": "Rejoindre notre équipe",
-        "carousel-nav3": "Avocat des ventes"
+        "text1": "Technologie informatique<br>Support pour<br>Tout le monde",
+        "text2": "Technologie informatique<br>Support pour<br>Tout le monde",
+        "btn1": "En savoir plus",
+        "btn2": "En savoir plus",
+        "text3": "Rejoignez notre équipe<br>en tant que technicien informatique<br>support ",
+        "text4": "Rejoignez notre équipe<br>en tant que technicien informatique<br>support ",
+        "btn3": "Rejoindre notre équipe",
+        "btn4": "Rejoindre notre équipe",
+        "text5": "Gagnez de l'argent supplémentaire sur<br>en tant qu'agent commercial sur<br>",
+        "text6": "Gagnez de l'argent supplémentaire sur<br>en tant qu'agent commercial sur<br>",
+        "btn5": "En savoir plus",
+        "btn6": "En savoir plus",
+        "nav1": "Support technique informatique",
+        "nav2": "Rejoindre notre équipe",
+        "nav3": "Avocat des ventes"
     }
 }
