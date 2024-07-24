@@ -107,5 +107,22 @@
         "toPolicy": "Datenschutzbestimmungen",
         "deleteAccount": "Konto löschen",
         "toCookies": "Cookies"
+    },
+    "carousel": {
+        "carousel-text1": "IT-Technologie<br>Unterstützung für<br>Alle",
+        "carousel-text2": "IT-Technologie<br>Unterstützung für<br>Alle",
+        "carousel-btn1": "Mehr erfahren",
+        "carousel-btn2": "Mehr erfahren",
+        "carousel-text3": "Kommen Sie in unser Team<br>als IT-Techniker<br>Unterstützung ",
+        "carousel-text4": "Kommen Sie in unser Team<br>als IT-Techniker<br>Unterstützung ",
+        "carousel-btn3": "Werden Sie Mitglied unseres Teams",
+        "carousel-btn4": "Werden Sie Mitglied unseres Teams",
+        "carousel-text5": "Verdienen Sie zusätzliches<br>Geld als<br>Sales Advocate ",
+        "carousel-text6": "Verdienen Sie zusätzliches<br>Geld als<br>Sales Advocate ",
+        "carousel-btn5": "Mehr erfahren",
+        "carousel-btn6": "Mehr erfahren",
+        "carousel-nav1": "Technischer IT-Support",
+        "carousel-nav2": "Werden Sie Mitglied unseres Teams",
+        "carousel-nav3": "Verkaufsförderer"
     }
 }

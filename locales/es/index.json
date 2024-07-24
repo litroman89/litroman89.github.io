@@ -107,5 +107,22 @@
         "toPolicy": "Política de privacidad",
         "deleteAccount": "Eliminar cuenta",
         "toCookies": "Cookies"
+    },
+    "carousel": {
+        "carousel-text1": "Tecnología de la información<br>Soporte para<br>Todos",
+        "carousel-text2": "Tecnología de la información<br>Soporte para<br>Todos",
+        "carousel-btn1": "Más información",
+        "carousel-btn2": "Más información",
+        "carousel-text3": "Únete a nuestro equipo<br>como técnico informático<br>support ",
+        "carousel-text4": "Únete a nuestro equipo<br>como técnico informático<br>support ",
+        "carousel-btn3": "Únete a nuestro equipo",
+        "carousel-btn4": "Únete a nuestro equipo",
+        "carousel-text5": "Gana dinero extra<br>como promotor de ventas<br>",
+        "carousel-text6": "Gana dinero extra<br>como promotor de ventas<br>",
+        "carousel-btn5": "Más información",
+        "carousel-btn6": "Más información",
+        "carousel-nav1": "Soporte técnico informático",
+        "carousel-nav2": "Únete a nuestro equipo",
+        "carousel-nav3": "Defensor de ventas"
     }
 }
