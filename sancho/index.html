@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Dynasty DMC</title>
+    <meta name="theme-color" content="#fff">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="shortcut icon" href="img/favicons/favicon.ico" type="image/x-icon">
+    <link rel="icon" sizes="16x16" href="img/favicons/favicon-16x16.png" type="image/png">
+    <link rel="icon" sizes="32x32" href="img/favicons/favicon-32x32.png" type="image/png">
+    <link rel="apple-touch-icon-precomposed" href="img/favicons/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon" href="img/favicons/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="img/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="img/favicons/apple-touch-icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="img/favicons/apple-touch-icon-1024x1024.png">
+    <link rel="stylesheet" href="styles/main.min.css">
+    <link rel="stylesheet" href="https://cdn.min.jsdelivr.net/npm/swiper@8/swiper-bundle.min.min.css">
+    <script src="https://cdn.min.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.min.js"></script>
+    <script src="https://cdn.min.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.5/swiper-bundle.min.min.js"></script>
+</head>
+
+<body class="home-page">
+    <!-- test -->
+    <div class="headerWrapper">
+    <header class="header">
+        <div class="container">
+            <div class="header__data">
+                <a class="logoLink" href="/">
+                    <img src="/img/header/logo-horizontal.svg" alt="logo">
+                </a>
+                <nav>
+                    <ul>
+                        <li class="montserrat-regular test"><a href="/" data-localization="header-home">Home</a></li>
+                        <li class="montserrat-regular"><a href="#" data-localization="header-about">About</a></li>
+                        <li class="montserrat-regular"><a href="/pages/recommended-destinations.html"
+                                data-localization="header-destinations">Destinations</a></li>
+                        <li class="montserrat-regular"><a href="#" data-localization="header-offers">Offers</a></li>
+                        <li class="montserrat-regular"><a href="#" data-localization="header-contacts">Contact</a></li>
+                    </ul>
+                </nav>
+                <div class="langSwitcher montserrat-regular">
+                    <div class="en "><span>EN</span></div>
+                    <img src="/img/globe-icon-black.svg" alt="globe">
+                    <div class="ru "><span>RU</span></div>
+                </div>
+            </div>
+        </div>
+    </header>
+</div>
+    <div class="mobileContainer">
+    <header class="mobileHeader">
+        <a href="/index.html">
+            <img class="mobileHeader__logo " src="/img/logo-mobile-header.svg" alt="logo">
+            <img class="mobileHeader__logo mobileHeader__logo-colored hiddenLogo"
+                src="/img/logo-mobile-header-colored.svg" alt="logo">
+        </a>
+        <div class="iconsWrapper">
+            <img class="mobileHeader__menu-icon" src="/img/menu.svg" alt="menu icon">
+            <img class="mobileHeader__menu-icon hiddenIcon" src="/img/close.svg" alt="close icon">
+        </div>
+    </header>
+    <div class="mobile-menu ">
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a data-localization="mobileNavigation-home" href="/index.html">Home</a>
+                </li>
+                <li>
+                    <a data-localization="mobileNavigation-about" href="/pages/about.html">About</a>
+                </li>
+                <li>
+                    <a data-localization="mobileNavigation-destinations"
+                        href="/pages/recommended-destinations.html">Destinations</a>
+                </li>
+                <li>
+                    <a data-localization="mobileNavigation-offers" href="/pages/contactUs.html">Offers</a>
+                </li>
+                <li>
+                    <a data-localization="mobileNavigation-contacts" href="/pages/contactUs.html">Contacts</a>
+                </li>
+            </ul>
+            <div class="langSwitcher montserrat-regular">
+                <div class="en "><span>EN</span></div>
+                <img src="/img/globe-icon-black.svg" alt="globe">
+                <div class="ru "><span>RU</span></div>
+            </div>
+        </nav>
+
+    </div>
+</div>
+</div>
+    <section class="hero">
+    <img class="mainLogo" src="img/home-page/Logo.svg" alt="logo">
+    <video preload="none" autoplay loop muted playsinline class="hero__video">
+        <source src="video/Video_China.mp4" media="(min-width: 500px)" />
+        <source src="video/Video_mobile.mp4" media="(max-width: 500px)" />
+    </video>
+
+    <div class="hero__header">
+        <a class="logoLink" href="/index.html">
+            <img src="img/header/logo-horizontal.svg" alt="logo">
+        </a>
+        <nav>
+            <ul>
+                <li class="montserrat-regular test"><a href="/" data-localization="hero-home">Home</a></li>
+                <li class="montserrat-regular"><a href="#" data-localization="hero-about">About</a></li>
+                <li class="montserrat-regular"><a href="/pages/recommended-destinations.html"
+                        data-localization="hero-destinations">Destinations</a>
+                </li>
+                <li class="montserrat-regular"><a href="#" data-localization="hero-offers">Offers</a></li>
+                <li class="montserrat-regular"><a href="#" data-localization="hero-contacts">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="langSwitcher montserrat-regular">
+    <div class="en "><span>EN</span></div>
+    <img src="/img/globe-icon-white.svg" alt="globe">
+    <div class="ru "><span>RU</span></div>
+</div>
+    </div>
+    <div class="langSwitcherWrapper">
+        <div class="langSwitcher montserrat-regular">
+    <div class="en "><span>EN</span></div>
+    <img src="/img/globe-icon-white.svg" alt="globe">
+    <div class="ru "><span>RU</span></div>
+</div>
+    </div>
+    <h3 class="hero__descr montserrat-regular" data-localization="hero-descr">
+        We create unforgettable itineraries tailored to your interests and
+        preferences
+    </h3>
+
+    <div class="hero__darkBg">
+        <span>CHINA</span>
+    </div>
+</section>
+    <section class="welcome">
+    <div class="container">
+        <div class="welcome__block block-1">
+            <div class="welcome__block__descr descr-1 cormorant-semiBold" data-localization="welcome-descr1">
+                Welcome to our DYNASTY Destination Management Company in China! We offer you unique and exciting
+                journeys that will allow you to discover this amazing country.
+            </div>
+            <img src="/img/welcome/party.jpg" alt="party" loading="lazy">
+        </div>
+        <div class="welcome__block block-2">
+            <img src="/img/welcome/lake.jpg" alt="lake" loading="lazy">
+            <div class="welcome__block__descr descr-2 montserrat-regular " data-localization="welcome-descr2">
+                From ancient temples and rich culture to modern metropolises and stunning natural landscapes, we create
+                unforgettable itineraries tailored to your interests and preferences. Trust our professionalism and
+                local expertise to make your trip to China truly special. Dive into a new adventure with us and create
+                memories that will last a lifetime!
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="carousel">
+    <div class="container">
+        <h2 class="carousel-title cormorant-semiBold">Recommended Destinations</h2>
+        <p class="carousel-descr montserrat-regular">
+            We offer many popular tourist destinations in China. Here are some of the most well-known. These
+            destinations offer unique cultural, historical, and natural attractions in China.
+        </p>
+
+        <div class="swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide swiper-slide--one">
+                    <img src="/img/carousel/slide-1.jpg" loading="lazy" alt="Beijing">
+                    <div>
+                        <h3 class="cormorant-semiBold ">Beijing</h3>
+                        <a href="#" class="montserrat-regular">
+                            Explore
+                        </a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide swiper-slide--two">
+                    <img src="/img/carousel/slide-2.jpg" loading="lazy" alt="Shanghai">
+                    <div>
+                        <h3 class="cormorant-semiBold ">Shanghai</h3>
+                        <a href="#" class="montserrat-regular">
+                            Explore
+                        </a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide swiper-slide--three">
+                    <img src="/img/carousel/slide-3.jpg" loading="lazy" alt="Hong Kong">
+                    <div>
+                        <h3 class="cormorant-semiBold ">Hong Kong</h3>
+                        <a href="#" class="montserrat-regular">
+                            Explore
+                        </a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide swiper-slide--four">
+                    <img src="/img/carousel/slide-4.jpg" loading="lazy" alt="Macau">
+                    <div>
+                        <h3 class="cormorant-semiBold ">Macau</h3>
+                        <a href="#" class="montserrat-regular">
+                            Explore
+                        </a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide swiper-slide--five">
+                    <img src="/img/carousel/slide-5.jpg" loading="lazy" alt="Chengdu">
+                    <div>
+                        <h3 class="cormorant-semiBold ">Chengdu</h3>
+                        <a href="#" class="montserrat-regular">
+                            Explore
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <a class="carousel__discover" href="#">Discover more</a>
+
+    </div>
+</section>
+    <section class="offers">
+    <div class="container">
+        <div class="offers__wrapper">
+            <h2 class="offers__wrapper__title cormorant-semiBold" data-localization="offers-title">Offers</h2>
+            <p class="offers__wrapper__descr" data-localization="offers-descr">
+                We strive to provide our clients with the best service and make their stay in China comfortable, safe,
+                and full of bright impressions.
+            </p>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">01</div>
+                <h4 data-localization="offers-offer1">Tour and Excursion Organization</h4>
+            </div>
+            <p data-localization="offers-offer1Descr">
+                Individual and group tours to popular tourist destinations in China. Themed tours, including cultural,
+                historical, culinary, and adventure routes. Guided excursions with professional multilingual guides.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-1.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">02</div>
+                <h4 data-localization="offers-offer2">Corporate Events and MICE</h4>
+            </div>
+            <p data-localization="offers-offer2Descr">
+                Organization of business meetings, conferences, and exhibitions.
+                Planning and hosting corporate events and team-building activities.
+                Logistic support and technical provision for events.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-2.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">03</div>
+                <h4 data-localization="offers-offer3">Transfers and Transportation Services</h4>
+            </div>
+            <p data-localization="offers-offer3Descr">
+                Organization of transfers for convenient movement around the city and beyond.
+                Purchasing railway and air tickets. VIP transportation services.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-3.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">04</div>
+                <h4 data-localization="offers-offer4">Accommodation and Hotel Booking</h4>
+            </div>
+            <p data-localization="offers-offer4Descr">
+                Selection and booking of hotels of various categories according to clients’ preferences. Arrangement of
+                stays in traditional Chinese inns and international hotel chains.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-4.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">05</div>
+                <h4 data-localization="offers-offer5">Cultural and Entertainment Programs</h4>
+            </div>
+            <p data-localization="offers-offer5Descr">
+                Traditional Chinese performances, festivals, and shows. Organization of workshops on Chinese
+                calligraphy, tea ceremonies, and other cultural activities. Conducting culinary tours and gastronomic
+                workshops.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-5.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">06</div>
+                <h4 data-localization="offers-offer6">Nature and Adventure Tours</h4>
+            </div>
+            <p data-localization="offers-offer6Descr">
+                Hiking, trekking, and active recreation in scenic areas of China.
+                Water sports such as rafting and river cruises.
+                Visits to national parks and reserves.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-6.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">07</div>
+                <h4 data-localization="offers-offer7">Personalized Services</h4>
+            </div>
+            <p data-localization="offers-offer7Descr">
+                Customized itineraries and programs tailored to clients' preferences and interests. 24/7 support and
+                assistance throughout the trip. Services of personal guides and translators.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-7.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+
+        <div class="offers__block">
+            <div class="offers__block__wrapper">
+                <div class="offers__block__number">08</div>
+                <h4 data-localization="offers-offer8">Medical and Wellness Tourism</h4>
+            </div>
+            <p data-localization="offers-offer8Descr">
+                Arranging visits to leading medical institutions and spa centers.
+                Programs of traditional Chinese medicine and wellness tours.
+            </p>
+            <div class="image-wrapper"><img src="/img/offers/offer-8.jpg" loading="lazy" alt="offer"></div>
+        </div>
+
+        <hr>
+    </div>
+</section>
+    <section class="footer">
+    <div class="container">
+        <div class="footer__wrapper">
+            <a href="/">
+                <img class="footer__wrapper-logo" src="/img/footer/footer-logo.png" alt="logo">
+            </a>
+            <div class="footer__wrapper__socials">
+                <h5>WeChat:</h5>
+                <a href="#" class="disabled">KARNARICOMPANY</a>
+                <h5>Telegram:</h5>
+                <a href="https://t.me/+8613600196225">@KARNARICOMPANY</a>
+                <h5>WhatsApp:</h5>
+                <a href="https://wa.me/+8615620567203">+86 1562 0567203</a>
+            </div>
+            <div class="footer__wrapper__left">
+                <h5>Phone:</h5>
+                <a href="tel:86-1727-9671560">86 1727 9671560</a>
+
+                <h5>Email:</h5>
+                <a href="mailto:official.dynastydmc@gmail.com">official.dynastydmc@gmail.com</a>
+            </div>
+            <div class="footer__wrapper__right">
+                <h5>Address:</h5>
+                <a href="https://maps.app.goo.gl/m2ZdFGCiTroqrH7r5" target="_blank">Sanchos adress</a>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="copyright montserrat-regular">
+            Copyright © 2020 Dynasty DMC. All rights reserved.
+        </div>
+    </div>
+</section>
+    <script src="js/vendor.min.js"></script>
+    <script src="js/main.min.js"></script>
+</body>
+
+</html>
