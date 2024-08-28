@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "city": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact",
+        "name": "Shanghai",
+        "bund": "The Bund",
+        "bundDescr": "The Bund is a famous waterfront along the Huangpu River, where historical European-style buildings are located. You can enjoy views of the modern financial district of Pudong with its skyscrapers, such as the Shanghai Tower and Oriental Pearl Tower.",
+        "pearl": "The Oriental Pearl Tower",
+        "pearlDescr": "One of Shanghai’s symbols, the Oriental Pearl Tower offers panoramic views of the city. The tower also houses the Shanghai History Museum and a revolving restaurant.",
+        "garden": "The Yu Garden",
+        "gardenDescr":"This classic Chinese garden was created in the 16th century and serves as an oasis of tranquility in the city center. You can see traditional pavilions, ponds, bridges, and beautiful vegetation.",
+        "temple": "The Jade Buddha Temple",
+        "templeDescr":"This Buddhist temple is known for its jade Buddha statues. It is an important religious site where you can learn more about Buddhist traditions and culture.",
+        "aquarium": "The Shanghai Ocean Aquarium",
+        "aquariumDescr": "One of the largest aquariums in Asia, where you can see a variety of marine creatures, including sharks, rays, and tropical fish. A notable feature is the 155-meter-long underwater tunnel.",
+        "tower": "The Shanghai Tower",
+        "towerDescr": "The second tallest skyscraper in the world. The observation deck on the 118th floor offers a stunning view of the city. The tower also houses offices, hotels, and restaurants.",
+        "back": "All Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

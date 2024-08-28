@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "city": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact",
+        "name": "Hongkong",
+        "peak": "Victoria Peak",
+        "peakDescr": "The highest point in Hong Kong, offering stunning panoramic views of the city, harbor, and surrounding islands. You can take the historic Peak Tram to the summit.",
+        "park": "The Ocean Park",
+        "parkDescr": "An amusement park combining an aquarium, zoo, and rides. It’s popular with family tourists and offers various shows and exhibits.",
+        "disneyland": "Hong Kong Disneyland",
+        "disneylandDescr":"A theme park with attractions, shows, and meet-and-greets with Disney characters. A great spot for family fun.",
+        "temple": "Man Mo Temple",
+        "templeDescr":"One of Hong Kong’s oldest and most famous temples, dedicated to the gods of literature and war. It’s a place to see traditional rituals and architecture.",
+        "island": "Lantau Island",
+        "islandDescr": "The largest island in Hong Kong, known for its natural beauty and attractions such as the Big Buddha (Tian Tan Buddha) and Po Lin Monastery. Enjoy scenic views of Lantau Island and Victoria Harbor while riding the Ngong Ping 360 cable car.",
+        "harbour": "Victoria Harbour",
+        "harbourDescr": "Enjoy the ambiance of the city at night from one of the famous Aqua Luna boats.",
+        "back": "All Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

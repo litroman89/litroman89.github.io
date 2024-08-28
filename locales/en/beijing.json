@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "city": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact",
+        "name": "Beijing",
+        "wall": "The Great Wall of China",
+        "wallDescr": "One of the most famous and impressive monuments in the world. Walking along the Great Wall, especially in the Badaling or Mutianyu sections, will provide unique views of the surrounding landscapes and allow you to experience the grandeur of this ancient defensive structure.",
+        "forbidden": "The Forbidden City (Imperial Palace)",
+        "forbiddenDescr": "The imperial palace that served as the residence of Chinese emperors for nearly 500 years. It is a vast complex of palaces and temples with numerous exhibits showcasing the life and culture of the Ming and Qing dynasties.",
+        "temple": "The Temple of Heaven",
+        "templeDescr": "An ancient temple complex built in the 15th century, used by emperors to pray for good harvests. Known for its unique architecture and extensive parks where locals practice morning exercises like Tai Chi.",
+        "palace": "Summer Palace",
+        "palaceDescr": "A magnificent imperial garden located on the shores of a lake, featuring palaces, pavilions, and beautiful parks. This place is ideal for walks and outdoor relaxation.",
+        "square": "Tiananmen Square",
+        "squareDescr": "The largest square in the world, surrounded by important buildings such as the Gate of Heavenly Peace and the Mausoleum of Mao Zedong. The square holds significant historical importance and is an integral part of Chinese history.walks and outdoor relaxation.",
+        "arts": "The National Centre for the Performing Arts",
+        "artsDescr": "This architectural marvel in the shape of an egg offers various theatrical performances, concerts, and opera shows. The building itself is an impressive example of modern design.",
+        "back": "All Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

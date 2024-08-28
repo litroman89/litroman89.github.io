@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "city": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact",
+        "name": "Huangshan",
+        "platforms": "Scenic Viewing Platforms",
+        "platformsDescr": "Huangshan has several viewing platforms offering breathtaking views of mountain peaks, clouds, and sunrises/sunsets. Notable platforms include those at \"Left Ear Peak\" and \"Right Ear Peak.\"",
+        "clouds": "Scenic Views of Clouds",
+        "cloudsDescr": "Huangshan is known for its \"sea of clouds,\" where clouds envelop the mountains, creating fantastic vistas. The best spots for cloud viewing are Lotus Peak and the Peak of Death.",
+        "springs": "Huangshan Hot Springs",
+        "springsDescr":"The Huangshan Mountains have several hot springs where you can relax and enjoy natural thermal waters. It’s a great place to unwind after long hikes.",
+        "tangxi": "The Ancient Town of Tangxi",
+        "tangxiDescr":"Located near Huangshan, this historical town offers a glimpse into ancient China and traditional architectural styles.",
+        "lake": "Tianhu Lake",
+        "lakeDescr": "A small lake in the Huangshan Mountains with picturesque views and a peaceful atmosphere, perfect for relaxation.",
+        "workshops": "Calligraphy or Painting Workshops",
+        "workshopsDescr": "The museum showcases a rich collection of ancient ceramics, including famous Sichuan ceramics.",
+        "back": "All Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

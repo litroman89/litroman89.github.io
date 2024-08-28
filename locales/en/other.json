@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "city": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact",
+        "name": "Other Destinations",
+        "dunhuang": "Dunhuang",
+        "dunhuangDescr": "Dunhuang is a famous historical city located on the ancient Silk Road. Key attractions: Mogao Caves and Sand Dunes.",
+        "zhangye": "Zhangye",
+        "zhangyeDescr": "Zhangye is famous for its colorful landscapes, especially in the Zhangye Danxia Geopark. This place attracts photographers and nature lovers.",
+        "pingyao": "Pingyao",
+        "pingyaoDescr":"Pingyao is one of the oldest cities in China, renowned for its well-preserved city walls and traditional architecture. A UNESCO World Heritage Site.",
+        "harbin": "Harbin",
+        "harbinDescr":"Harbin is known for its Ice Sculpture Festival and Russian architectural influence. In winter, the city turns into a fairy-tale world of ice.",
+        "nanjing": "Nanjing",
+        "nanjingDescr": "Nanjing is a city rich in history and cultural heritage. Key attractions: Sun Yat-sen's Mausoleum and the Nanjing City Wall.",
+        "xiamen": "Xiamen",
+        "xiamenDescr": "Xiamen is a coastal city famous for its mild climate and the charming Gulangyu Island, known for its colonial-style buildings and seafood.",
+        "back": "All Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

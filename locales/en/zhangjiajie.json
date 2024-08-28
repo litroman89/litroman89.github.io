@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "city": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact",
+        "name": "Zhangjiajie",
+        "park": "Zhangjiajie National Forest Park",
+        "parkDescr": "This park is famous for its majestic pillars and rock formations. It inspired the movie \"Avatar.\" Key attractions include: Tianzi Mountain Pillars: Remarkable rock formations offering breathtaking views of the surrounding landscapes. Heavenly Pillar: One of the park’s most famous pillars, featuring a tall and narrow rock.",
+        "bridge": "The Glass Bridge Over the Grand Canyon",
+        "bridgeDescr": "Zhangjiajie is famous for its historic canals, which can be explored by boat. Canal tours offer views of traditional houses, bridges, and ancient architecture.",
+        "cable": "Cable Car Ride to Tianmen Mountain",
+        "cableDescr":"The world’s longest cable car ride leads to the top of Tianmen Mountain. At the summit is the \"Heaven’s Gate,\" a rock-hewn passageway that you can walk through.",
+        "village": "Tuoja Village",
+        "villageDescr":"A park where you can learn about the culture and traditions of the Tujia people, including traditional houses, costumes, and crafts.",
+        "river": "The Lao River",
+        "riverDescr": "Enjoy scenic views of rivers and canyons on a ferry, passing through some of the region’s most picturesque areas.",
+        "forest": "The Bamboo Forest",
+        "forestDescr": "A forest where you can walk among tall bamboo trees and enjoy the tranquility of nature.",
+        "back": "All Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

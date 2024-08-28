@@ -1,0 +1,40 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "city": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact",
+        "name": "Suzhou",
+        "gardens": "Suzhou’s Classic Gardens",
+        "gardensDescr": "Suzhou is renowned for its traditional Chinese gardens, which are outstanding examples of garden art. Notable gardens include: Humble Administrator's Garden (Yuan Yuan); Lingering Garden (Ling Yin); Master of Nets Garden (Wangshi Yuan).",
+        "tours": "Canal Boat Tours in Suzhou",
+        "toursDescr": "Suzhou is famous for its historic canals, which can be explored by boat. Canal tours offer views of traditional houses, bridges, and ancient architecture.",
+        "wall": "The Ancient City Wall",
+        "wallDescr":"Explore well-preserved sections of the ancient city wall that once surrounded the city. It’s a great place for a walk and to gain insight into Suzhou’s past.",
+        "market": "The Ancient Market",
+        "marketDescr":"The Pingjiang Street market offers a variety of Chinese products, souvenirs, and street food. It’s a great place to sample local delicacies and buy traditional goods.",
+        "workshop": "Silk-Making Workshop",
+        "workshopDescr": "Learn about the silk-making process and create your own items under the guidance of a master.",
+        "kungfu": "Kung Fu and Traditional Performances",
+        "kungfuDescr": "Suzhou is known for its traditional arts, and you can see performances including kung fu and other Chinese theatrical forms.",
+        "back": "All Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

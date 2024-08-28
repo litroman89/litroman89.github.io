@@ -1,0 +1,41 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "allDestinations": {
+        "title": "Recommended Destinations",
+        "descr": "We offer many popular tourist destinations in China. Here are some of the most well-known. These destinations offer unique cultural, historical, and natural attractions in China.",
+        "beijing": "Beijing",
+        "shanghai": "Shanghai",
+        "hongkong": "Hong Kong",
+        "macau": "Macau",
+        "chengdu": "Chengdu",
+        "xian": "Xi'an",
+        "yangshuo": "Yangshuo",
+        "hangzhou": "Hangzhou",
+        "suzhou": "Suzhou",
+        "huangshan": "Huangshan",
+        "zhangjiajie": "Zhangjiajie",
+        "lhasa": "Lhasa",
+        "shenzhen": "Shenzhen",
+        "guangzhou": "Guangzhou",
+        "hainan": "Hainan",
+        "guizhou": "Guizhou",
+        "yunnan": "Yunnan",
+        "other": "Other Destinations"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}
