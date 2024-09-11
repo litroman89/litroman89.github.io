@@ -1,0 +1,34 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "destinations": "Destinations",
+        "offers": "Offers",
+        "contacts": "Contact"
+    },
+    "contacts": {
+        "title": "Get in touch",
+        "description": "Our friendly team would love to hear from you.",
+        "nameLabel": "First name",
+        "namePlaceholder": "First name",
+        "surnameLabel": "Last name",
+        "surnamePlaceholder": "Last name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "you@company.com",
+        "phoneLabel": "Phone number",
+        "phonePlaceholder": "(555) 000-0000",
+        "messageLabel": "Message",
+        "messagePlaceholder": "Leave us a message...",
+        "submitButton": "Send message"
+    },
+    "footer": {
+        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+    }
+}

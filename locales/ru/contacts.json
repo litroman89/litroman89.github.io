@@ -1,0 +1,34 @@
+{
+    "header": {
+        "home": "Главная",
+        "about": "О нас",
+        "destinations": "Направления",
+        "offers": "Услуги",
+        "contacts": "Контакты"
+    },
+    "mobileNavigation": {
+        "home": "Главная",
+        "about": "О нас",
+        "destinations": "Направления",
+        "offers": "Услуги",
+        "contacts": "Контакты"
+    },
+    "contacts": {
+        "title": "Свяжитесь с нами",
+        "description": "Наша дружная команда будет рада вам помочь",
+        "nameLabel": "Имя",
+        "namePlaceholder": "Ваше имя",
+        "surnameLabel": "Фамилия",
+        "surnamePlaceholder": "Ваша фамилия",
+        "emailLabel": "Эмеил",
+        "emailPlaceholder": "you@company.com",
+        "phoneLabel": "Номер телефона",
+        "phonePlaceholder": "(555) 000-0000",
+        "messageLabel": "Сообщение",
+        "messagePlaceholder": "Напишите ваше сообщение...",
+        "submitButton": "Отправить сообщение"
+    },
+    "footer": {
+        "copyright": "Авторские права © 2020 Dynasty DMC. Все права защищены."
+    }
+}
