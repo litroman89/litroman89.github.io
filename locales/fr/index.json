@@ -1,0 +1,128 @@
+{
+    "hero": {
+        "description": "Une plateforme conviviale qui met en relation les personnes ayant besoin d'une assistance technique informatique avec un réseau mondial de professionnels de l'informatique accessibles localement.",
+        "quote": "Dans l'ère numérique actuelle, la demande d'une assistance informatique rapide et fiable n'a jamais été aussi forte.",
+        "title": "Obtenez une assistance technique professionnelle sur<br>dès maintenant !"
+    },
+    "b2b": {
+        "title": "Support technique informatique sur site pour les entreprises (b2b)",
+        "description": "OurSupport for businesses ; facilite les défis liés à l'obtention d'une assistance technique informatique, comme les disparités culturelles, les obstacles linguistiques, les différences de fuseaux horaires, les sources d'information variées, les conditions de paiement fluctuantes et les monnaies multiples. Nous consolidons tous ces éléments sur une seule plateforme, en établissant une procédure simplifiée et uniforme qui profite à nos clients.",
+        "card1": "Disponible pour une assistance informatique sur site",
+        "card2": "Accessible dans le monde entier",
+        "card3": "Sur mesure pour les clients",
+        "card4": "Pas d'accords contraignants"
+    },
+    "support": {
+        "easyAccess": "Accès facile",
+        "easyAccessDesc": "Un accès simple pour tous à des professionnels de l'assistance technique informatique locale, en personne ou à distance.",
+        "noHassle": "Pas de tracas",
+        "noHassleDesc": "Il n'est pas nécessaire de s'efforcer de trouver un agent informatique local ou un magasin et d'attendre des jours pour recevoir un devis.",
+        "noHiddenCosts": "Pas de frais cachés",
+        "noHiddenCostsDesc": "Toutes les entreprises et tous les particuliers peuvent planifier en toute confiance leur budget pour l'assistance informatique.",
+        "globalCommunity": "Communauté mondiale",
+        "globalCommunityDesc": "Accédez à une communauté de professionnels de la technologie de l'information qui possèdent l'expertise nécessaire pour résoudre efficacement vos problèmes techniques.",
+        "platform": "La plateforme OurSupport",
+        "platformDesc": "Un support technique fiable et régulier, minimisant la possibilité d'interruptions de service.",
+        "title": "Assistance technique pour tous"
+    },
+    "access": {
+        "title": "Accès facile à des experts locaux de l'assistance technique informatique !",
+        "description": "Grâce à OurSupport, les entreprises et les particuliers peuvent rapidement faire appel à un spécialiste informatique sur place, sans avoir à marchander les prix ou à attendre longtemps pour obtenir un devis ou un rendez-vous.",
+        "service": "Service personnalisé",
+        "serviceDesc": "L'assistance informatique sur site offre un service sur mesure, permettant au spécialiste informatique de se familiariser avec la configuration informatique du client et de répondre ainsi à ses besoins spécifiques.",
+        "jargon": "Pas de jargon technique",
+        "jargonDesc": "Il n'est pas nécessaire d'être un expert en technologie pour demander une assistance informatique, OurSupport n'exige pas que vous compreniez la terminologie technique.",
+        "pricing": "Tableau des prix",
+        "pricingDesc": "OurSupport fonctionne sur la base d'une grille tarifaire simple. Le client a toujours le contrôle sur le nombre d'heures de travail approuvées, ce qui évite les frais imprévus.",
+        "expert": "Spécialiste local des technologies de l'information",
+        "expertDesc": "Établir un lien avec un spécialiste local des technologies de l'information qui parle votre langue et comprend la culture de votre pays.",
+        "data": "Données sûres",
+        "dataDesc": "Grâce à l'assistance sur site, les clients peuvent protéger leurs données ou leurs photos sans avoir à laisser leur PC sans surveillance dans un atelier de réparation local."
+    },
+    "steps": {
+        "title": "Une approche en trois étapes pour tous",
+        "step1": "Étape 1",
+        "step1Title": "Téléchargez l'application mobile OurSupport sur votre appareil",
+        "step1Description": "Si vous êtes un client ayant besoin d'assistance ou un professionnel de l'informatique à la recherche d'un revenu supplémentaire, utilisez les liens ci-dessus pour installer l'application mobile OurSupport sur votre smartphone.",
+        "step2": "Étape 2",
+        "step2Title": "S'inscrire et se connecter à l'application OurSupport",
+        "step2Description": "Une fois l'application installée, inscrivez-vous sur l'application mobile OurSupport en tant que client ou technicien informatique, que vous représentiez une entreprise ou que vous agissiez à titre individuel.",
+        "step3": "Étape 3",
+        "step3Title": "Prêt à demander de l'aide informatique ou à accepter du travail",
+        "step3Description": "Après vous être inscrit et avoir vérifié votre compte, vous pouvez demander ou accepter une assistance informatique."
+    },
+    "stepsMobile": {
+        "step1": "Étape 1",
+        "step1Title": "Téléchargez l'application mobile OurSupport sur votre appareil",
+        "step1Description": "Si vous êtes un client ayant besoin d'assistance ou un professionnel de l'informatique à la recherche d'un revenu supplémentaire, utilisez les liens ci-dessus pour installer l'application mobile OurSupport sur votre smartphone.",
+        "step2": "Étape 2",
+        "step2Title": "S'inscrire et se connecter à l'application OurSupport",
+        "step2Description": "Une fois l'application installée, inscrivez-vous sur l'application mobile OurSupport en tant que client ou technicien informatique, que vous représentiez une entreprise ou que vous agissiez à titre individuel.",
+        "step3": "Étape 3",
+        "step3Title": "Prêt à demander de l'aide informatique ou à recevoir du travail",
+        "step3Description": "Après vous être inscrit et avoir vérifié votre compte, vous pouvez demander ou accepter une assistance informatique."
+    },
+    "team": {
+        "title": "Une seule équipe couvrant plusieurs pays",
+        "description": "Notre communauté de professionnels de l'informatique, en constante expansion, se tient au courant des dernières technologies et est prête à vous aider à l'échelle mondiale.",
+        "ourTeam": "Rencontrez notre équipe",
+        "experts": "Experts en informatique",
+        "countries": "Pays",
+        "cities": "Villes"
+    },
+    "navigation": {
+        "about": "A propos de",
+        "services": "Services",
+        "contactUs": "Contactez nous",
+        "onlinePortal": "Portail en ligne"
+    },
+    "mobileNavigation": {
+        "home": "Accueil",
+        "about": "A propos de",
+        "services": "Services",
+        "contactUs": "Contactez nous",
+        "onlinePortal": "Portail en ligne"
+    },
+    "intouch": {
+        "title": "Prendre contact",
+        "description": "Si vous avez des questions, n'hésitez pas à nous contacter et nous ferons de notre mieux pour vous répondre le plus rapidement possible.",
+        "nameLabel": "Nom complet",
+        "namePlaceholder": "Entrez votre nom",
+        "emailLabel": "Courriel",
+        "emailPlaceholder": "Saisissez votre adresse électronique",
+        "messageLabel": "Votre message",
+        "messagePlaceholder": "Bonjour, j'aimerais savoir...",
+        "button": "Envoyer un message"
+    },
+    "footer": {
+        "description": "Une plateforme conviviale qui met en relation les personnes ayant besoin d'une assistance technique informatique avec un réseau mondial de professionnels de l'informatique accessibles localement.",
+        "toAbout": "À propos de nous",
+        "toJobs": "Carrières",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Télécharger l'application",
+        "investors": "Investisseurs",
+        "copyright": "2024 © Tsolnetworks Connect Europe, S.A. Tous droits réservés",
+        "toTerms": "Conditions d'utilisation",
+        "toPolicy": "Politique de confidentialité",
+        "deleteAccount": "Supprimer le compte",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    },
+    "carousel": {
+        "text1": "Technologie informatique<br>Support pour<br>Tout le monde",
+        "text2": "Technologie informatique<br>Support pour<br>Tout le monde",
+        "btn1": "En savoir plus",
+        "btn2": "En savoir plus",
+        "text3": "Rejoignez notre équipe<br>en tant que technicien informatique<br>support ",
+        "text4": "Rejoignez notre équipe<br>en tant que technicien informatique<br>support ",
+        "btn3": "Rejoindre notre équipe",
+        "btn4": "Rejoindre notre équipe",
+        "text5": "Gagnez de l'argent supplémentaire sur<br>en tant qu'agent commercial sur<br>",
+        "text6": "Gagnez de l'argent supplémentaire sur<br>en tant qu'agent commercial sur<br>",
+        "btn5": "En savoir plus",
+        "btn6": "En savoir plus",
+        "nav1": "Support technique informatique",
+        "nav2": "Rejoindre notre équipe",
+        "nav3": "Avocat des ventes"
+    }
+}

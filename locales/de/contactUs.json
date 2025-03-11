@@ -1,0 +1,40 @@
+{
+    "intouch": {
+        "title": "Kontakt",
+        "description": "Wenn Sie Fragen haben, können Sie sich gerne an uns wenden, und wir werden unser Bestes tun, um so schnell wie möglich zu antworten.",
+        "nameLabel": "Vollständiger Name",
+        "namePlaceholder": "Geben Sie Ihren Namen ein",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "Ihre email eingeben",
+        "messageLabel": "Ihre Nachricht",
+        "messagePlaceholder": "Hallo! Ich würde gerne wissen...",
+        "button": "Nachricht senden"
+    },
+    "navigation": {
+        "about": "Über",
+        "services": "Dienstleistungen",
+        "contactUs": "Kontakt",
+        "onlinePortal": "Online-Portal"
+    },
+    "mobileNavigation": {
+        "home": "Startseite",
+        "about": "Über",
+        "services": "Dienstleistungen",
+        "contactUs": "Kontakt",
+        "onlinePortal": "Online-Portal"
+    },
+    "footer": {
+        "description": "Eine benutzerfreundliche Plattform, die Personen, die IT-Support benötigen, mit einem weltweiten Netz von lokal verfügbaren IT-Experten verbindet.",
+        "toAbout": "Über uns",
+        "toJobs": "Karriere",
+        "toFAQ": "FAQ",
+        "toContact": "Kontakt",
+        "getApp": "Die App herunterladen",
+        "investors": "Investoren",
+        "copyright": "© 2024 © Tsolnetworks Connect Europe, S.A. Alle Rechte vorbehalten.",
+        "toTerms": "Nutzungsbedingungen",
+        "toPolicy": "Datenschutzbestimmungen",
+        "deleteAccount": "Konto löschen",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "reset": {
+        "title": "El restablecimiento de la contraseña se ha realizado correctamente",
+        "description": "Ya puedes conectarte con tu nueva contraseña.",
+        "back": "Volver al inicio de sesión",
+        "note": "Nota: Todas las direcciones de correo electrónico, números de teléfono y datos de contacto serán confidenciales. Esta información no se revelará ni distribuirá a nadie ni a ninguna otra organización sin su consentimiento previo. Gracias por su apoyo."
+    }
+}

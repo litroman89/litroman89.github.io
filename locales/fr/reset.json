@@ -1,0 +1,8 @@
+{
+    "reset": {
+        "title": "La réinitialisation de votre mot de passe a été effectuée avec succès",
+        "description": "Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.",
+        "back": "Retour à la connexion",
+        "note": "Remarque : toutes les adresses électroniques, tous les numéros de téléphone et toutes les coordonnées resteront confidentiels. Ces informations ne seront pas divulguées ou distribuées à qui que ce soit ou à toute autre organisation sans votre consentement préalable. Nous vous remercions de votre soutien."
+    }
+}

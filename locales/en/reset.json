@@ -1,0 +1,8 @@
+{
+    "reset": {
+        "title": "Your password has been successfully reset",
+        "description": "You can now login with your new password.",
+        "back": "Back to login",
+        "note": "Please note: All email addresses, phone numbers and contact details will remain confidential. This information will not be disclosed or distributed to anyone or any other organization without prior consent from you. Thank you for your support."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "text": {
+        "introductionTitle": "1. Introduction",
+        "introductionDescription": "We are excited to introduce the OurSupport Tech Broker Program, designed to facilitate partnerships between engineers and Tech Brokers. This program allows engineers to delegate earnings management to a Tech Broker, ensuring structured commission handling and financial convenience. <br><br>The Tech Broker Program functions similarly to the Sales Advocate Program but is specifically tailored for engineers who prefer to work under a broker for financial and administrative ease.",
+        "employmentTitle": "2. Non-Employment Relationship",
+        "employmentDescription": "• Participation in this program does not create an employer-employee relationship between Tech Brokers and OurSupport or between Tech Brokers and engineers. <br><br>• Tech Brokers are independent participants and not employees, contractors, or representatives of OurSupport, its shareholders, or direct employees.",
+        "limitationTitle": "3. Limitation of Liability",
+        "limitationDescription": "• OurSupport is not liable for any errors, omissions, or disputes between Tech Brokers and engineers. <br><br> • OurSupport does not assume responsibility for any commitments, expectations, or financial agreements made between brokers and engineers outside the platform.",
+        "respTitle": "4. Responsibilities of the Tech Broker",
+        "respDescription": "• Tech Brokers manage withdrawals and earnings for engineers assigned to them. <br><br>• Brokers must process withdrawals for engineers who have self-withdrawal disabled. <br><br>• OurSupport does not provide training or direct financial oversight beyond the platform’s built-in automation.",
+        "paymentsTitle": "5. Commission & Payment Structure",
+        "paymentsDescription": "• Tech Brokers earn commission by inviting and managing other IT technicians within the platform. <br><br>• Fixed Commission Model: Brokers set a fixed hourly/ticket-based commission amount when connecting with an engineer. <br><br>• Once set, the commission rate cannot be modified unless the broker cancels and re-invites the engineer. <br><br>• Payments are automated, with commissions reflected in the wallets of both brokers and engineers.",
+        "regionTitle": "6. Region Changes & Connection Termination",
+        "regionDescription": "• If an engineer changes regions, their connection to the Tech Broker is automatically terminated. <br><br>• Once terminated, the engineer’s self-withdrawal feature is reactivated, allowing them to manage their own earnings. <br><br>• Both the Tech Broker and Engineer will receive system notifications upon disconnection.",
+        "cancellationTitle": "7. Tech Broker Cancellation",
+        "cancellationDescription": "• A Tech Broker can cancel their role at any time but must settle all outstanding balances before doing so. <br><br>• If engineers have pending earnings, the broker must distribute funds before cancellation. <br><br>• Once a broker cancels, all assigned engineers regain self-withdrawal access and can manage their own earnings independently.",
+        "updatesTitle": "8. Policy Updates & Modifications",
+        "updatesDescription": "• OurSupport reserves the right to modify this program with a 30-day notice to participants.<br><br>• Any modifications will not affect existing earnings or agreements already in place for active engineers.",
+        "disputeTitle": "9. Governing Law & Disputes",
+        "disputeDescription": "• This agreement is governed by European Union laws. <br><br>• Disputes shall be resolved through arbitration in accordance with the rules of [Arbitration Organization].",
+        "entireTitle": "10. Entire Agreement",
+        "entireDescription": "• This policy represents the entire agreement between participants and supersedes all previous agreements, whether written or verbal. <br><br>• Any modifications must be in writing and signed by both parties. <br><br>• The invalidity of any clause in this agreement does not affect the validity of the remaining clauses.",
+        "confidentTitle": "11. Confidentiality & Non-Disclosure",
+        "confidentDescription": "• Tech Brokers and Engineers must maintain confidentiality regarding financial agreements and OurSupport’s business processes. <br><br>• Participants must not share proprietary information related to transactions, commissions, or platform functionality. <br><br>• This confidentiality obligation remains in effect for three (3) years after leaving the program."
+    },
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "hero": {
+        "title": "OurSupport Tech Broker Program Policy & Conditions"
+    },
+    "footer": {
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Download the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks Connect Europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies", 
+        "toTechBrokerPolicy": "Tech Broker Policy"
+    }
+}

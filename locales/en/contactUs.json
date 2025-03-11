@@ -1,0 +1,44 @@
+{
+    "intouch": {
+        "title": "Get in touch",
+        "description": "If you have any questions, please feel free to contact us, and we will do our best to respond as quickly as possible.",
+        "nameLabel": "Full name",
+        "namePlaceholder": "Enter your name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Enter your email",
+        "messageLabel": "Your message",
+        "messagePlaceholder": "Hi! I would like to know...",
+        "button": "Send message"
+    },
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+
+    },
+    "footer": {
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Download the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks Connect Europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    }
+}

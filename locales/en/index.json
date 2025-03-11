@@ -1,61 +1,130 @@
 {
-    "header": {
-        "home": "Home",
+    "hero": {
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "quote": "In today's digital world, the need for quick and reliable IT support has never been greater.",
+        "title": "Get professional<br>Tech Support now!"
+    },
+    "b2b": {
+        "title": "For Businesses and Individuals Seeking Reliable Tech Support",
+        "description": "OurSupport simplifies IT Tech support for businesses and individuals by eliminating challenges like cultural differences, language barriers, time zones, scattered information, varying payment terms, and multiple currencies. We bring everything together on one platform, offering a seamless and standardised experience for everyone.",
+        "card1": "Available for onsite IT support",
+        "card2": "Widely available across the entire globe",
+        "card3": "Customized for customers",
+        "card4": "No contractual obligations"
+    },
+    "support": {
+        "easyAccess": "Easy access",
+        "easyAccessDesc": "Easy access for everyone, to local onsite or remote IT Tech support experts.",
+        "noHassle": "No hassle",
+        "noHassleDesc": "No hassle of searching for taking your hardware to a local dealer or store and waiting days for quotes.",
+        "noHiddenCosts": "No hidden costs",
+        "noHiddenCostsDesc": "All companies and private individuals can budget for IT support with confidence.",
+        "globalCommunity": "Global community",
+        "globalCommunityDesc": "Access to a community of IT Tech experts with knowledge to resolve your technical issues efficiently.",
+        "platform": "OurSupport's platform",
+        "platformDesc": "Reliable and consistent standard of IT Tech support, reducing the risk of service disruptions.",
+        "title": "Tech Support for everyone"
+    },
+    "access": {
+        "title": "Easy access to local IT Tech support experts!",
+        "description": "Using OurSupport, businesses or individuals can get an IT expert on-site quickly, without having to negotiate pricing or wait days for a quote or an appointment.",
+        "service": "Personalized service",
+        "serviceDesc": "Onsite IT support provides a more personalized service, allowing the IT technician to get to know the customer's IT environment and thus meet their specific needs.",
+        "jargon": "No technical jargon",
+        "jargonDesc": "You do not need to be IT literate to ask for IT help, OurSupport does not require that you know technical jargon.",
+        "pricing": "Pricing table",
+        "pricingDesc": "OurSupport works on a easy to understand pricing table. The customer will always be in control of how many hours are approved to work, thus avoiding surprise charges.",
+        "expert": "Local IT expert",
+        "expertDesc": "Connect with a local IT expert, that speaks the same language and shares the same country cultures",
+        "data": "Safe data",
+        "dataDesc": "With onsite support, customers can ensure that their data or pictures by not having to leave your PC unattended by you at a local repair store."
+    },
+    "steps": {
+        "title": "Three steps approach for everyone",
+        "step1": "Step 1",
+        "step1Title": "Download the OurSupport mobile app",
+        "step1Description": "If you are a customer needing support or an IT technician looking to earn extra income, use the links above to download the OurSupport mobile application onto your mobile phone.",
+        "step2": "Step 2",
+        "step2Title": "Register and login on the OurSupport app",
+        "step2Description": "After the app installation, register on the OurSupport mobile application as either a customer or IT technician, if your represent a company or as an individual capacity.",
+        "step3": "Step 3",
+        "step3Title": "Ready to request IT help or receive work",
+        "step3Description": "Once you have registered and successfully verified your account, you can now request or accept IT support work"
+    },
+    "stepsMobile": {
+        "step1": "Step 1",
+        "step1Title": "Download the OurSupport mobile app",
+        "step1Description": "If you are a customer needing support or an IT technician looking to earn extra income, use the links above to download the OurSupport mobile application onto your mobile phone.",
+        "step2": "Step 2",
+        "step2Title": "Register and login on the OurSupport app",
+        "step2Description": "After the app installation, register on the OurSupport mobile application as either a customer or IT technician, if your represent a company or as an individual capacity.",
+        "step3": "Step 3",
+        "step3Title": "Ready to request IT help or receive work",
+        "step3Description": "Once you have registered and successfully verified your account, you can now request or accept IT support work"
+    },
+    "team": {
+        "title": "One team across many borders",
+        "description": "Our ever growing community of IT experts are up to date with the latest technologies and available to support you around the world.",
+        "ourTeam": "Meet our team",
+        "experts": "IT Experts",
+        "countries": "Countries",
+        "cities": "Cities"
+    },
+    "navigation": {
         "about": "About",
-        "destinations": "Destinations",
-        "offers": "Offers",
-        "contacts": "Contact"
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
     },
     "mobileNavigation": {
         "home": "Home",
         "about": "About",
-        "destinations": "Destinations",
-        "offers": "Offers",
-        "contacts": "Contact"
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
     },
-    "hero": {
-        "home": "Home",
-        "about": "About",
-        "destinations": "Destinations",
-        "offers": "Offers",
-        "contacts": "Contact",
-        "descr": "We create unforgettable itineraries tailored to your interests and preferences"
-    },
-    "welcome": {
-        "descr1": "Welcome to our DYNASTY Destination Management Company in China! We offer you unique and exciting journeys that will allow you to discover this amazing country.",
-        "descr2": "From ancient temples and rich culture to modern metropolises and stunning natural landscapes, we create unforgettable itineraries tailored to your interests and preferences. Trust our professionalism and local expertise to make your trip to China truly special. Dive into a new adventure with us and create memories that will last a lifetime!"
-    },
-    "carousel": {
-      "title": "Recommended Destinations",
-      "descr": "We offer many popular tourist destinations in China. Here are some of the most well-known. These destinations open unique cultural, historical, and natural attractions in China.",
-      "beijing": "Beijing",
-      "shanghai": "Shanghai",
-      "hongkong": "Hong Kong",
-      "macau": "Macau",
-      "chengdu": "Chengdu",
-      "discover": "Discover"
-    },
-    "offers": {
-        "title": "Offers",
-        "descr": "We strive to provide our clients with the best service and make their stay in China comfortable, safe, and full of bright impressions.",
-        "offer1": "Tour and Excursion Organization",
-        "offer1Descr": "Individual and group tours to popular tourist destinations in China. Themed tours, including cultural, historical, culinary, and adventure routes. Guided excursions with professional multilingual guides.",
-        "offer2": "Corporate Events and MICE",
-        "offer2Descr": "Organization of business meetings, conferences, and exhibitions. Planning and hosting corporate events and team-building activities. Logistic support and technical provision for events.",
-        "offer3": "Transfers and Transportation Services",
-        "offer3Descr": "Organization of transfers for convenient movement around the city and beyond. Purchasing railway and air tickets. VIP transportation services.",
-        "offer4": "Accommodation and Hotel Booking",
-        "offer4Descr": "Selection and booking of hotels of various categories according to clients’ preferences. Arrangement of stays in traditional Chinese inns and international hotel chains.",
-        "offer5": "Cultural and Entertainment Programs",
-        "offer5Descr": "Traditional Chinese performances, festivals, and shows. Organization of workshops on Chinese calligraphy, tea ceremonies, and other cultural activities. Conducting culinary tours and gastronomic workshops.",
-        "offer6": "Nature and Adventure Tours",
-        "offer6Descr": "Hiking, trekking, and active recreation in scenic areas of China. Water sports such as rafting and river cruises. Visits to national parks and reserves.",
-        "offer7": "Personalized Services",
-        "offer7Descr": "Customized itineraries and programs tailored to clients' preferences and interests. 24/7 support and assistance throughout the trip. Services of personal guides and translators.",
-        "offer8": "Medical and Wellness Tourism",
-        "offer8Descr": "Arranging visits to leading medical institutions and spa centers. Programs of traditional Chinese medicine and wellness tours."
+    "intouch": {
+        "title": "Get in touch",
+        "description": "If you have any questions, please feel free to contact us, and we will do our best to respond as quickly as possible.",
+        "nameLabel": "Full name",
+        "namePlaceholder": "Enter your name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Enter your email",
+        "messageLabel": "Your message",
+        "messagePlaceholder": "Hi! I would like to know...",
+        "button": "Send message"
     },
     "footer": {
-        "copyright": "Copyright © 2020 Dynasty DMC. All rights reserved."
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Download the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks connect europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    },
+    "carousel": {
+        "text1": "IT Technology<br>Support for<br>Everyone",
+        "text2": "IT Technology<br>Support for<br>Everyone",
+        "btn1": "Learn more",
+        "btn2": "Learn more",
+        "text3": "Join our team<br>as a IT Tech<br>support",
+        "text4": "Join our team<br>as a IT Tech<br>support",
+        "btn3": "Join our team",
+        "btn4": "Join our team",
+        "text5": "Earn extra<br>Money as a<br>Sales Advocate",
+        "text6": "Earn extra<br>Money as a<br>Sales Advocate",
+        "btn5": "Learn more",
+        "btn6": "Learn more",
+        "nav1": "IT Tech Support",
+        "nav2": "Join our team",
+        "nav3": "Sales Advocate"
     }
 }

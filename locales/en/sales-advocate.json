@@ -1,0 +1,133 @@
+{
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "hero": {
+        "title": "Become an OurSupport Sales Advocate!",
+        "subtitle": "Earn Recurring Commissions for Referrals",
+        "description": "The OurSupport Sales Advocate Program is a great way to earn additional income by referring other businesses and customers who need IT support. Whether you’re an IT Pro in our network or a new user who wants to promote our services, this program offers great opportunities and rewards."
+    },
+    "whyJoin": {
+        "title": "Why Join the Sales Advocate Program?",
+        "card1Title": "Earn Commissions",
+        "card1Description": "on every successful referral and transaction.",
+        "card2Title": "Support Businesses ",
+        "card2Description": "by connecting them with reliable IT solutions.",
+        "card3Title": "Join a Growing",
+        "card3Description": "community shaping the future of IT support."
+    },
+    "guide": {
+        "title": "Step-by-Step Guide",
+        "step1": "Step 1",
+        "step1Title": "Set Up and Sign Up",
+        "step1Descr": "Download the OurSupport mobile app and register as either a customer or IT technician. Once you've created your account, you're one step closer to becoming a Sales Advocate.",
+        "step2": "Step 2",
+        "step2Title": "Request Approval",
+        "step2Descr": "Once you've downloaded the app and registered, go to your profile settings page and select <b>“Sales Advocate”</b> and at the bottom fo the screen <b>“Become a Sales Advocate”</b>.<br><br>Alternatively, you can email us at  <b><u>info@oursupport.co</u></b> to submit your request. Once reviewed and approved, you’ll receive a welcome email and can start promoting our services right away!",
+        "step3": "Step 3",
+        "step3Title": "Share Your Link",
+        "step3Descr": "Find your personal referral link in the app under the \"Sales Advocate Program\" option. Share it with other potential customers to connect them to your referrals.",
+        "step4": "Step 4",
+        "step4Title": "Earn Commissions",
+        "step4Descr": "Earn 5% of your referred contacts’ spending in their first year, and 3% for recurring use after that (conditions apply)."
+    },
+    "guideMobile": {
+        "title": "Step-by-Step Guide",
+        "step1": "Step 1",
+        "step1Title": "Set Up and Sign Up",
+        "step1Descr": "Download the OurSupport mobile app and register as either a customer or IT technician. Once you've created your account, you're one step closer to becoming a Sales Advocate.",
+        "step2": "Step 2",
+        "step2Title": "Request Approval",
+        "step2Descr": "Once you've downloaded the app and registered, go to your profile settings page and select <b>“Sales Advocate”</b> and at the bottom fo the screen <b>“Become a Sales Advocate”</b>.<br><br>Alternatively, you can email us at  <b><u>info@oursupport.co</u></b> to submit your request. Once reviewed and approved, you’ll receive a welcome email and can start promoting our services right away!",
+        "step3": "Step 3",
+        "step3Title": "Share Your Link",
+        "step3Descr": "Find your personal referral link in the app under the \"Sales Advocate Program\" option. Share it with other potential customers to connect them to your referrals.",
+        "step4": "Step 4",
+        "step4Title": "Earn Commissions",
+        "step4Descr": "Earn 5% of your referred contacts’ spending in their first year, and 3% for recurring use after that (conditions apply)."
+    },
+    "comission": {
+        "title": "Commission Structure",
+        "date1": "First 12 Months",
+        "date1Descr": "Earn 5% of your referrals' total revenue (excluding taxes) (terms and conditions apply).",
+        "date2": "12 - 36  Months",
+        "date2Descr": "Continue earning 3% as long as customers use at least 2 hours of service within a 3-month period. Referrals become inactive if customers stop using OurSupport for over 3 months. (terms and conditions apply)",
+        "benefitsTitle": "Special Benefits for Active Advocates",
+        "trainingTitle": "Exclusive Training",
+        "trainingDescr": "Receive access to sales materials, training modules, and community support to help you succeed.",
+        "bonus": "Bonus Opportunities",
+        "bonusDescr": "Top-performing advocates may qualify for bonus commissions, special promotions, and recognition."
+
+    },
+    "maximizeSuccess": {
+        "title": "How to Maximize Your Success",
+        "block1Title": "Engage Your Network",
+        "block1Descr": "Share your unique link from OurSupport with your contact list who could benefit from IT support.",
+        "block2Title": "Stay Updated",
+        "block2Descr": "Keep up with OurSupport features to enhance your advocacy.",
+        "block3Title": "Leverage Social Media",
+        "block3Descr": "Promote your referral link across social channels and professional networks.",
+        "block4Title": "Follow Up",
+        "block4Descr": "Encourage contacts to sign up and get started with OurSupport."
+    },
+    "maximizeSuccessMobile": {
+        "title": "How to Maximize Your Success",
+        "block1Title": "Engage Your Network",
+        "block1Descr": "Share your unique link from OurSupport with your contact list who could benefit from IT support.",
+        "block2Title": "Stay Updated",
+        "block2Descr": "Keep up with OurSupport features to enhance your advocacy.",
+        "block3Title": "Leverage Social Media",
+        "block3Descr": "Promote your referral link across social channels and professional networks.",
+        "block4Title": "Follow Up",
+        "block4Descr": "Encourage contacts to sign up and get started with OurSupport."
+    },
+    "faq": {
+        "title": "FAQ",
+        "description": "Have other questions? Get in touch with our team via <b><u>info@oursupport.co</u></b>",
+        "item1Title": "Who can become a Sales Advocate?",
+        "item1Content": " Anyone with an OurSupport account can apply to become a Sales Advocate.",
+        "item2Title": "How are commissions tracked?",
+        "item2Content": "All referral earnings are tracked individually. Each ticket associated with your referrals’ spending is listed in the Wallet section of your OurSupport app, allowing you to monitor each commission earned in real-time.",
+        "item3Title": "When do I receive my commissions?",
+        "item3Content": "Commissions are credited to your Wallet section in the OurSupport app as soon as your referred customer approves the completed work and successfully settles their account. Sales Advocates can withdraw these funds anytime, giving you full control over your earnings",
+        "item4Title": "Can I refer businesses as well as individuals?",
+        "item4Content": "Yes, OurSupport serves both individual and business clients",
+        "item5Title": "What happens if a customer I referred stops using the service?",
+        "item5Content": "The referral connection will be automatically canceled if the customer you referred is inactive for more than 3 consecutive months, after the first 12 monhths. Additionally, if the referred customer chooses to end the connection with the Sales Advocate, the referral is also terminated."
+
+    },
+    "downloadApp": {
+        "title": "Ready to Become a Sales Advocate?",
+        "description": "Download the OurSupport app, register, and start sharing your referral link to earn today! For questions or assistance, contact <b><u>info@oursupport.co.</u></b>"
+    },
+    "footer": {
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Get the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks Connect Europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    },
+    "links": {
+        "title": "Get started",
+        "description": "Download the app to and join the OurSupport community of hassle free IT support at your fingertips"
+    }
+}

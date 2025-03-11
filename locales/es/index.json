@@ -1,0 +1,128 @@
+{
+    "hero": {
+        "description": "Una plataforma fácil de usar que conecta a las personas que necesitan soporte técnico informático con una red mundial de profesionales informáticos accesibles localmente.",
+        "quote": "En la actual era digital, la demanda de un soporte informático rápido y fiable es máxima.",
+        "title": "Obtenga asistencia técnica profesional en<br>."
+    },
+    "b2b": {
+        "title": "Asistencia técnica informática in situ para empresas (b2b)",
+        "description": "OurSupport para empresas; alivia los retos relacionados con la obtención de soporte técnico informático, como lidiar con disparidades culturales, obstáculos lingüísticos, diferencias horarias, fuentes de información variadas, condiciones de pago fluctuantes y múltiples divisas. Consolidamos todos estos elementos en una plataforma, estableciendo un procedimiento simplificado y uniforme que beneficia a nuestros clientes.",
+        "card1": "Asistencia informática in situ",
+        "card2": "Accesible en todo el mundo",
+        "card3": "A la medida de los clientes",
+        "card4": "Sin acuerdos vinculantes"
+    },
+    "support": {
+        "easyAccess": "Fácil acceso",
+        "easyAccessDesc": "Accesibilidad sencilla para todos, a profesionales locales de asistencia técnica informática en persona o a distancia.",
+        "noHassle": "Sin complicaciones",
+        "noHassleDesc": "No hay necesidad de complicarse buscando un agente o tienda de informática local y esperar días para recibir un presupuesto.",
+        "noHiddenCosts": "Sin gastos ocultos",
+        "noHiddenCostsDesc": "Todas las empresas y particulares pueden planificar con confianza su presupuesto para asistencia informática.",
+        "globalCommunity": "Comunidad mundial",
+        "globalCommunityDesc": "Acceda a una comunidad de profesionales técnicos de TI que poseen la experiencia necesaria para resolver eficazmente sus problemas técnicos.",
+        "platform": "Plataforma OurSupport",
+        "platformDesc": "Soporte técnico informático estándar, fiable y constante, que reduce al mínimo la posibilidad de interrupciones del servicio.",
+        "title": "Asistencia técnica para todos"
+    },
+    "access": {
+        "title": "Fácil acceso a expertos locales en asistencia técnica informática",
+        "description": "Con OurSupport, tanto las empresas como los particulares pueden disponer rápidamente de un especialista informático in situ, sin necesidad de regatear precios ni soportar largas esperas para obtener un presupuesto o una cita.",
+        "service": "Servicio personalizado",
+        "serviceDesc": "El soporte informático in situ ofrece un servicio a medida, que permite al informático familiarizarse con la configuración informática del cliente y, en consecuencia, atender sus necesidades específicas.",
+        "jargon": "Sin jerga técnica",
+        "jargonDesc": "No es necesario que seas un experto en tecnología para solicitar asistencia informática, OurSupport no requiere que entiendas terminología técnica.",
+        "pricing": "Tabla de precios",
+        "pricingDesc": "OurSupport funciona con una tabla de precios sencilla. El cliente siempre tiene el control sobre el número de horas de trabajo aprobadas, evitando así cargos inesperados.",
+        "expert": "Informático local",
+        "expertDesc": "Establecer una conexión con un informático local que hable su idioma y comprenda la cultura de su país.",
+        "data": "Datos seguros",
+        "dataDesc": "Con la asistencia in situ, los clientes pueden proteger sus datos o fotos sin tener que dejar su PC desatendido en un taller de reparación local."
+    },
+    "steps": {
+        "title": "Tres pasos para todos",
+        "step1": "Primer paso",
+        "step1Title": "Obtenga la aplicación móvil OurSupport en su dispositivo",
+        "step1Description": "Si eres un cliente que necesita asistencia o un profesional de TI que busca ingresos adicionales, utiliza los enlaces anteriores para instalar la aplicación móvil OurSupport en tu smartphone.",
+        "step2": "Paso 2",
+        "step2Title": "Regístrese e inicie sesión en la aplicación OurSupport",
+        "step2Description": "Una vez instalada la aplicación, regístrese en la aplicación móvil OurSupport como cliente o como técnico informático, tanto si representa a una empresa como si actúa a título individual.",
+        "step3": "Paso 3",
+        "step3Title": "Listo para solicitar ayuda informática o aceptar trabajo",
+        "step3Description": "Tras registrarse y verificar correctamente su cuenta, podrá solicitar o aceptar trabajos de asistencia informática."
+    },
+    "stepsMobile": {
+        "step1": "Primer paso",
+        "step1Title": "Obtenga la aplicación móvil OurSupport en su dispositivo",
+        "step1Description": "Si eres un cliente que necesita asistencia o un profesional de TI que busca ingresos adicionales, utiliza los enlaces anteriores para instalar la aplicación móvil OurSupport en tu smartphone.",
+        "step2": "Paso 2",
+        "step2Title": "Regístrese e inicie sesión en la aplicación OurSupport",
+        "step2Description": "Una vez instalada la aplicación, regístrese en la aplicación móvil OurSupport como cliente o técnico informático, tanto si representa a una empresa como si actúa a título individual.",
+        "step3": "Paso 3",
+        "step3Title": "Listo para solicitar ayuda informática o recibir trabajo",
+        "step3Description": "Tras registrarse y verificar correctamente su cuenta, podrá solicitar o aceptar trabajos de asistencia informática."
+    },
+    "team": {
+        "title": "Un único equipo que abarca múltiples fronteras",
+        "description": "Nuestra comunidad de profesionales de TI, en continua expansión, se mantiene al día de las últimas tecnologías y está preparada para ayudarle en todo el mundo.",
+        "ourTeam": "Conoce a nuestro equipo",
+        "experts": "Expertos en TI",
+        "countries": "Países",
+        "cities": "Ciudades"
+    },
+    "navigation": {
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contactUs": "Póngase en contacto con nosotros",
+        "onlinePortal": "Portal en línea"
+    },
+    "mobileNavigation": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contactUs": "Póngase en contacto con nosotros",
+        "onlinePortal": "Portal en línea"
+    },
+    "intouch": {
+        "title": "Póngase en contacto",
+        "description": "Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros y haremos todo lo posible por responderle lo antes posible.",
+        "nameLabel": "Nombre y apellidos",
+        "namePlaceholder": "Introduzca su nombre",
+        "emailLabel": "Correo electrónico",
+        "emailPlaceholder": "Introduzca su dirección de correo electrónico",
+        "messageLabel": "Su mensaje",
+        "messagePlaceholder": "¡Hola! Me gustaría saber...",
+        "button": "Enviar mensaje"
+    },
+    "footer": {
+        "description": "Una plataforma fácil de usar que conecta a las personas que necesitan soporte técnico informático con una red mundial de profesionales informáticos accesibles localmente.",
+        "toAbout": "Quiénes somos",
+        "toJobs": "Carreras profesionales",
+        "toFAQ": "PREGUNTAS FRECUENTES",
+        "toContact": "Póngase en contacto con",
+        "getApp": "Descargar la aplicación",
+        "investors": "Inversores",
+        "copyright": "2024 © Tsolnetworks Connect Europe, S.A. Todos los derechos reservados",
+        "toTerms": "Condiciones de uso",
+        "toPolicy": "Política de privacidad",
+        "deleteAccount": "Eliminar cuenta",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    },
+    "carousel": {
+        "text1": "Tecnología de la información<br>Soporte para<br>Todos",
+        "text2": "Tecnología de la información<br>Soporte para<br>Todos",
+        "btn1": "Más información",
+        "btn2": "Más información",
+        "text3": "Únete a nuestro equipo<br>como técnico informático<br>support ",
+        "text4": "Únete a nuestro equipo<br>como técnico informático<br>support ",
+        "btn3": "Únete a nuestro equipo",
+        "btn4": "Únete a nuestro equipo",
+        "text5": "Gana dinero extra<br>como promotor de ventas<br>",
+        "text6": "Gana dinero extra<br>como promotor de ventas<br>",
+        "btn5": "Más información",
+        "btn6": "Más información",
+        "nav1": "Soporte técnico informático",
+        "nav2": "Únete a nuestro equipo",
+        "nav3": "Defensor de ventas"
+    }
+}

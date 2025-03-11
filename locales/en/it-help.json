@@ -1,0 +1,19 @@
+{
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "title": "With OurSupport, anyone can request IT tech support!",
+    "description": "At OurSupport, we understand that technology everyone’s comfort area, which can lead to frustration when seeking help."
+}

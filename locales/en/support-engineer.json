@@ -1,0 +1,114 @@
+{
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "hero": {
+        "title": "Become an IT Support Engineer at OurSupport",
+        "subtitle": "Help Businesses Thrive with Top-Notch IT Support",
+        "description": "Join our global network of IT professionals and provide essential tech support to businesses and individuals. OurSupport connects skilled engineers with customers in your area who are in need of remote and on-site IT solutions, fostering growth and technology efficiency."
+    },
+    "benefits": {
+        "title": "Benefits of Being an IT Support Engineer",
+        "card1Title": "Diverse Opportunities",
+        "card1Description": "Support businesses across different industries with varied IT challenges.",
+        "card2Title": "Growth Potential",
+        "card2Description": "Develop a strong reputation within the OurSupport network and receive more task offers.",
+        "card3Title": "Community Resources",
+        "card3Description": "Access training materials, participate in IT workshops, and connect with other professionals."
+    },
+    "guide": {
+        "title": "How It Works",
+        "step1": "Step 1",
+        "step1Title": "Sign Up and Register",
+        "step1Descr": "Download the OurSupport app, and register as an IT support engineer. Provide necessary details, including your certifications and work preferences.",
+        "step2": "Step 2",
+        "step2Title": "Get Verified",
+        "step2Descr": "Submit your profile for verification to ensure that you meet our customers IT support standards. Approval is based on your experience, skill set, and location.",
+        "step3": "Step 3",
+        "step3Title": "Start Offering Support",
+        "step3Descr": "Once verified, you’ll receive requests from customers who need your specific IT expertise. Accept tasks that fit your schedule and skill level.",
+        "step4": "Step 4",
+        "step4Title": "Receive Payments",
+        "step4Descr": "Receive payments directly through our secure OurSupport platform upon task completion, making it simple to track your earnings."
+    },
+    "guideMobile": {
+        "title": "How It Works",
+        "step1": "Step 1",
+        "step1Title": "Sign Up and Register",
+        "step1Descr": "Download the OurSupport app, and register as an IT support engineer. Provide necessary details, including your certifications and work preferences.",
+        "step2": "Step 2",
+        "step2Title": "Get Verified",
+        "step2Descr": "Submit your profile for verification to ensure that you meet our customers IT support standards. Approval is based on your experience, skill set, and location.",
+        "step3": "Step 3",
+        "step3Title": "Start Offering Support",
+        "step3Descr": "Once verified, you’ll receive requests from customers who need your specific IT expertise. Accept tasks that fit your schedule and skill level.",
+        "step4": "Step 4",
+        "step4Title": "Receive Payments",
+        "step4Descr": "Receive payments directly through our secure OurSupport platform upon task completion, making it simple to track your earnings."
+    },
+    "whyJoin": {
+        "title": "Why Join OurSupport?",
+        "block1Title": "Flexible Work",
+        "block1Desc": "Choose between remote and on-site work based on your availability.",
+        "block2Title": "Competitive Earnings",
+        "block2Desc": "Earn based on time required for each task.",
+        "block3Title": "Career Development",
+        "block3Desc": "Access ongoing training and certifications to sharpen your skills.",
+        "block4Title": "Global Community",
+        "block4Desc": "Collaborate with IT experts and share knowledge with an international team."
+
+    },
+    "requirements": {
+        "title": "What You’ll Need",
+        "item1Title": "Technical Skills",
+        "item1Desc": "Proficiency in areas like desktop support, networking, software troubleshooting, or hardware repairs.",
+        "item2Title": "Certifications",
+        "item2Desc": "Relevant IT certifications (CompTIA, Microsoft, etc.) are beneficial but not mandatory.",
+        "item3Title": "Professionalism",
+        "item3Desc": "Ability to manage tasks independently and provide excellent customer service."
+    },
+    "faq": {
+        "title": "FAQ",
+        "description": "Have other questions? Get in touch with our team via <b><u>info@oursupport.co</u></b>",
+        "item1Title": "How do I get paid?",
+        "item1Content": "Payments are processed through OurSupport upon task completion and sent to your preferred payment method.",
+        "item2Title": "What types of tasks will I receive?",
+        "item2Content": "Tasks can range from remote troubleshooting to on-site installations, depending on your listed expertise and location.",
+        "item3Title": "Is there ongoing support or training?",
+        "item3Content": "Yes! OurSupport provides regular training and resources to help you stay updated with the latest technology trends."
+    },
+    "downloadApp": {
+        "title": "Ready to Become a Sales Advocate?",
+        "description": "Download the OurSupport app, register, and start sharing your referral link to earn today! For questions or assistance, contact <b><u>info@oursupport.co.</u></b>"
+    },
+    "footer": {
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Get the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks Connect Europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    },
+    "links": {
+        "title": "Get started",
+        "description": "Download the app to and join the OurSupport community of hassle free IT support at your fingertips"
+    }
+}

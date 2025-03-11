@@ -1,0 +1,130 @@
+{
+    "title": "Seamless, Affordable Tech Support",
+    "description": "At OurSupport, we understand that tech isn't everyone's comfort zone, and when things go wrong, it can be frustrating and overwhelming. That’s where we step in. <br><br>Whether you’re an individual using technology or a small business trying to stay on top of tech demands, we’re here to make IT support simple, reliable, and cost-effective.",
+    "guide": {
+        "title": "Step-by-Step Guide"
+    },
+    "stepsMobile": {
+        "step1": "Step 1",
+        "step1Title": "Set Up and Sign Up",
+        "step1Description": "Get the OurSupport application from your preferred app store. Sign up as an IT Tech Support provider. Create your profile and get started.",
+        "step2": "Step 2",
+        "step2Title": "Share Your Unique Link",
+        "step2Description": "Once you’re signed in, go to the Tech Broker section in the settings. You’ll find your unique link under the Tech Broker section. Share this link with your chosen IT Specialist or Engineer.",
+        "step3": "Step 3",
+        "step3Title": "Set Their Hourly Rate",
+        "step3Description": "You are inviting a local IT engineer and need to define the hourly rate you will pay them. This rate is separate from any commission and represents the direct payment for their work.<br><br>Once an engineer accepts your invitation, you will receive a notification.<br><br>You can set the agreed-upon hourly rate for the engineer, based within the limits of your total allowed hourly rate. They will receive a notification to confirm this payment rate.",
+        "step4": "Step 4",
+        "step4Title": "Earn Commissions",
+        "step4Description": "When your IT Specialist accepts you as their Tech Broker, you’ll start earning commissions on all tasks they complete."
+    },
+    "steps": {
+        "step1": "Step 1",
+        "step1Title": "Set Up and Sign Up",
+        "step1Description": "Get the OurSupport application from your preferred app store. Sign up as an IT Tech Support provider. Create your profile and get started.",
+        "step2": "Step 2",
+        "step2Title": "Share Your Unique Link",
+        "step2Description": "Once you’re signed in, go to the Tech Broker section in the settings. You’ll find your unique link under the Tech Broker section. Share this link with your chosen IT Specialist or Engineer.",
+        "step3": "Step 3",
+        "step3Title": "Set Their Hourly Rate",
+        "step3Description": "You are inviting a local IT engineer and need to define the hourly rate you will pay them. This rate is separate from any commission and represents the direct payment for their work.<br><br>Once an engineer accepts your invitation, you will receive a notification.<br><br>You can set the agreed-upon hourly rate for the engineer, based within the limits of your total allowed hourly rate. They will receive a notification to confirm this payment rate.",
+        "step4": "Step 4",
+        "step4Title": "Earn Commissions",
+        "step4Description": "When your IT Specialist accepts you as their Tech Broker, you’ll start earning commissions on all tasks they complete."
+    },
+    "pros": {
+        "pros1Title": "Local Experts",
+        "pros1Descr": "Get help from real, friendly professionals in your area who understand your needs and are ready to assist—no bots, no long wait times, just genuine support.",
+        "pros2Title": "Secure Payments",
+        "pros2Descr": "Payments for services are made through the mobile app via credit card using globally trusted payment providers. Charges apply only after customer approval.",
+        "pros3Title": "Controlled Costs",
+        "pros3Descr": "Each request has a time limit to prevent extra charges without consent. Additional time requires customer approval, ensuring cost transparency.",
+        "pros4Title": "Fixed Hourly Charge",
+        "pros4Descr": "OurSupport charges a consistent standard hourly rate, eliminating the frustration of repeatedly evaluating costs or negotiating pricing for every individual request."
+
+    },
+    "freeThings": {
+        "title": "Some things are Free",
+        "descr": "Try out our Self-Help feature, powered by AI and enriched with the expertise of thousands of IT techs from around the world—for free! <br><br>OurSelf-Help platform is designed to empower you to solve common IT issues on your own, leveraging:",
+        "selfHelp": "Self Help",
+        "item1Title": "AI-Powered Self-help service",
+        "item1Descr": "Instant, intelligent troubleshooting for quick fixes.",
+        "item2Title": "Global Expertise",
+        "item2Descr": "Access insights and advice contributed by IT professionals worldwide.",
+        "item3Title": "Self-Help Completely Free",
+        "item3Descr": "No charges, just solutions."
+    },
+    "freelancer": {
+        "title": "Become a IT Support Freelancer in your area",
+        "subtitleh5": "Become a local Freelancer IT support for onsite and remote support to our customers.",
+        "subtitleh6": "At OurSupport, we are always looking for new IT support technicians to provide onsite technology support to our customers within your region.",
+        "card1Title": "Fixed Hourly Rate",
+        "card1Descr": "Earn a fixed hourly remuneration for your onsite IT tech services.",
+        "card2Title": "Efficient Work Tracking",
+        "card2Descr": "All work requests and performance are tracked using the OurSupport mobile application.",
+        "card3Title": "Instant Payments",
+        "card3Descr": "Once the work is completed and approved by our customer, you will receive your payment in your wallet, ready to be withdrawn anytime you want.",
+        "linkTitle": "Join us now!",
+        "linkDescr": "A simple way to earn extra income while helping others discover the benefits of OurSupport."
+    },
+    "enterprise": {
+        "title": "On-Demand, Onsite Support for Enterprises",
+        "description": "At OurSupport, we recognize that enterprises require more than just an on-site IT technician. That’s why we offer a tailored, comprehensive service solution designed to meet the unique needs of enterprise customers. While our global network of skilled field support engineers provides the foundation, we go beyond the standard approach to deliver a seamless, integrated experience."
+    },
+    "earn": {
+        "title": "Earn as a Sales Advocate",
+        "subtitle": "Discover the opportunity to become a Sales Advocate with OurSupport and utilize your network to earn commissions.",
+        "description": "By referring businesses or individuals who require IT support, you can not only generate additional income but also access a variety of benefits. Our program offers exclusive training and connects you with a community of advocates, enhancing both your professional skills and earnings potential through effective referrals. Embrace the chance to expand your professional horizons while earning from each successful referral. Ready to get started? Download the OurSupport app, register, and use your unique referral link to begin your journey as a Sales Advocate.",
+        "learnMore": "Learn More"
+    }, 
+    "yourIncome": {
+        "title": "Grow Your Income as a Tech Broker with OurSupport",
+        "subtitle": "Unlock new opportunities and expand your professional network by becoming a Tech Broker with OurSupport!",
+        "description": "As a Tech Broker, you can leverage your connections within the IT industry to introduce IT support technicians to OurSupport and earn commission on all the work they complete. It’s a simple and rewarding way to generate extra income while helping others discover the benefits of OurSupport."
+    },
+    "whyTechBroker": {
+        "title": "Why Become a Tech Broker?",
+        "card1Title": "Earn Commission",
+        "card1Descr": "Receive a percentage from every successful Ticket completed by the technicians you refer.",
+        "card2Title": "Manage Payments",
+        "card2Descr": "Our program allows you to manage payments seamlessly, sharing a percentage with technicians while earning your share.",
+        "card3Title": " Support Growth",
+        "card3Descr": "While IT technicians grow their careers and income by connecting to opportunities through OurSupport, you boost your earnings in the process.",
+        "linkTitle": "Join us now!",
+        "linkDescr": "A simple way to earn extra income while helping others discover the benefits of OurSupport."
+    },
+    "shareLink": {
+        "title": "Share Your Link Now!",
+        "description": "Help connect IT talent with OurSupport and earn along the way. It’s a simple, effective, and professional way to generate extra income while making a difference in the IT community.",
+        "join": "Join now"
+    },
+    "navigation": {
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "mobileNavigation": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contactUs": "Contact us",
+        "onlinePortal": "Online Portal",
+        "itHelp": "Request IT help"
+    },
+    "footer": {
+        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
+        "toAbout": "About Us",
+        "toJobs": "Careers",
+        "toFAQ": "FAQ",
+        "toContact": "Contact",
+        "getApp": "Download the app",
+        "investors": "Investors",
+        "copyright": "© 2023 © Tsolnetworks Connect Europe. All rights reserved",
+        "toTerms": "Terms of Use",
+        "toPolicy": "Privacy Policy",
+        "deleteAccount": "Delete account",
+        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+    }
+}
