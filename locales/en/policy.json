@@ -52,17 +52,21 @@
         "itHelp": "Request IT help"
     },
     "footer": {
-        "description": "A user-friendly platform that connects individuals in need of IT tech support with a worldwide network of locally accessible IT professionals.",
-        "toAbout": "About Us",
-        "toJobs": "Careers",
-        "toFAQ": "FAQ",
-        "toContact": "Contact",
-        "getApp": "Download the app",
+        "getApp": "Get the app",
         "investors": "Investors",
-        "copyright": "© 2023 © Tsolnetworks Connect Europe. All rights reserved",
+        "sitemap": "SITEMAP",
+        "toHome": "Home",
+        "toAbout": "About",
+        "toServices": "Services",
+        "toContact": "Contact us",
+        "earn": "Earn & Engage",
+        "toSalesAdvocate": "Become Sales Advocate",
+        "toSupportIngineer": "Become an IT Support Engineer",
+        "toSalesPolicy": "Tech and Sales Policy",
         "toTerms": "Terms of Use",
         "toPolicy": "Privacy Policy",
         "deleteAccount": "Delete account",
-        "toCookies": "Cookies", "toTechBrokerPolicy": "Tech Broker Policy"
+        "toCookies": "Cookies",
+        "copyright": "© 2023 © Tsolnetworks connect europe. All rights reserved"
     }
 }

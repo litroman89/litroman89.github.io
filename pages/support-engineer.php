@@ -504,86 +504,111 @@ ob_start();
         <footer class="footer">
     <div class="container">
         <div class="footer__wrapper">
-            <div class="footer__wrapper__nav">
-                <img src="/img/footer/footerLogo.svg" alt="logo">
-                <p data-localization="footer-description"></p>
-                <nav>
-                    <ul>
-                        <li>
-                            <a data-localization="footer-toAbout" href="/pages/about.php">
-                                About Us
-                            </a>
-                        </li>
-                        <li>
-                            <a data-localization="footer-toJobs"
-                                href="https://www.linkedin.com/company/oursupport/jobs/">
-                                Careers
-                            </a>
-                        </li>
-                        <!-- <li>
-                            <a data-localization="footer-toFAQ" href="#">
-                                FAQ
-                            </a>
-                        </li> -->
-                        <li>
-                            <a data-localization="footer-toContact" href="/pages/contactUs.php">
-                                Contact
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-
-            <div class="footer__wrapper__links">
-                <p data-localization="footer-getApp"></p>
-                <div class="footer__wrapper__links__wrapper">
+            <div class="footer-column">
+                <h6 class="footer-column__title" data-localization="footer-getApp">Get the app</h6>
+                <div class="footer-column__appLinks">
                     <a href="https://apps.apple.com/be/app/oursupport/id1506321441" target="_blank">
-                        <img src="/img/footer/appBtn.svg" alt="app store link">
+                        <img src="/img/footer/appleBtn.svg" alt="app store link">
                     </a>
                     <a href="https://play.google.com/store/apps/details?id=com.tsolnetworks.oursupport" target="_blank">
                         <img src="/img/footer/googleBtn.svg" alt="google play link">
                     </a>
                 </div>
 
-                <button class="footer-language-switcher desktop">
-                    <div class="footer-current-language">
-                        <div class="footer-current-language-icon">
-                            <img src="/img/flags/flagUSA.svg" alt="Language flag">
-                        </div>
-                        <span class="footer-current-language-name">English</span>
-                    </div>
-                    <ul class="footer-language-list hidden-lang-list">
-                        <!-- filled from header.js -->
-                    </ul>
-                </button>
-            </div>
-        </div>
-
-        <hr>
-
-        <div class="footer__bottom">
-            <div class="investors">
-                <span data-localization="footer-investors"></span>
+                <h6 class="footer-column__investors-title" data-localization="footer-investors">INVESTORS</h6>
                 <a href="https://www.portugalventures.pt/sobre-nos/parceiros-institucionais/portugal-2020/"
-                    class="investors__logo" target="_blank"><img src="/img/footer/venturesLogo.png" alt="investors"></a>
+                    class="investors__logo" target="_blank">
+                    <img src="/img/footer/venturesLogo.png" alt="investors">
+                </a>
             </div>
-            <div class="footer__bottom__wrapper">
-                <div data-localization="footer-copyright" class="footer__bottom__wrapper__rights"></div>
 
-                <div class="footer__bottom__wrapper__links">
-                    <a data-localization="footer-toTerms" href="/pages/terms.php"></a>
-                    <a data-localization="footer-toPolicy" href="/pages/policy.php"></a>
-                    <a data-localization="footer-deleteAccount" href="https://insite.oursupport.co/deleteaccount"
-                        target="_blank"></a>
-                    <a data-localization="footer-toCookies" href="#"></a>
-                    <a data-localization="footer-toTechBrokerPolicy" href="/pages/tech_broker_policy.php">Tech Broker
-                        Policy</a>
-                </div>
+            <div class="footer-column">
+                <h6 class="footer-column__title" data-localization="footer-sitemap">SITEMAP</h6>
 
+                <nav>
+                    <ul>
+                        <li>
+                            <a data-localization="footer-toHome" href="/">
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toAbout" href="/pages/about.php">
+                                About
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toServices" href="/pages/services.php">
+                                Services
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toContact" href="/pages/contactUs.php">
+                                Contact us
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="footer-column">
+                <h6 class="footer-column__title" data-localization="footer-earn">Earn & Engage</h6>
+
+                <nav>
+                    <ul>
+                        <li>
+                            <a data-localization="footer-toSalesAdvocate" href="/pages/sales-advocate.php">
+                                Become Sales Advocate
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toSupportIngineer" href="/pages/support-engineer.php">
+                                Become an IT Support Engineer
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="footer-column">
+                <h6 class="footer-column__title" data-localization="footer-company">COMPANY</h6>
+
+                <nav>
+                    <ul>
+                        <li>
+                            <a data-localization="footer-toSalesPolicy" href="/pages/tech_broker_policy.php">
+                                Tech and Sales Policy
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toTerms" href="/pages/terms.php">
+                                Terms of Use
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toPolicy" href="/pages/policy.php">
+                                Privacy Policy
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toDeleteAccount"
+                                href="https://insite.oursupport.co/deleteaccount">
+                                Delete account
+                            </a>
+                        </li>
+                        <li>
+                            <a data-localization="footer-toCookies" href="/pages/policy.php">
+                                Cookies
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
             </div>
         </div>
 
-
+        <div data-localization="footer-copyright" class="footer-copyright">
+            © 2023 Tsolnetworks connect europe. All rights reserved
+        </div>
     </div>
 </footer>
     </section>
